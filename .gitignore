@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+.astro/
+
+# data (raw HTML descargado de eliteguias — se regenera con el script)
+data/**/raw/
+
+# logs
+*.log
+.DS_Store
+.env
+.env.production

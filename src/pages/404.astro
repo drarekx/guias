@@ -1,0 +1,26 @@
+---
+import GuideLayout from "../layouts/GuideLayout.astro";
+---
+<GuideLayout title="404 · Cristal perdido" description="Esa página no existe o se ha escondido en la niebla.">
+  <div class="max-w-2xl mx-auto px-6 py-32 text-center">
+    <div class="font-display text-[0.7rem] tracking-[0.4em] text-[var(--color-gold)] uppercase mb-6">Error 404</div>
+    <div class="mx-auto mb-8 w-24 h-24 text-[var(--color-crystal)] opacity-60">
+      <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="1.4">
+        <path d="M50 5 L90 30 L75 90 L25 90 L10 30 Z" />
+        <path d="M50 5 L50 90 M10 30 L90 30 M25 90 L75 30 M75 90 L25 30" stroke-width="0.6" opacity="0.5" />
+        <text x="50" y="58" text-anchor="middle" font-family="Cinzel, serif" font-size="22" font-weight="700" fill="currentColor" stroke="none">404</text>
+      </svg>
+    </div>
+    <h1 class="font-display text-4xl mb-4">El cristal se ha oscurecido</h1>
+    <p class="text-[var(--color-text-soft)] text-lg mb-8">
+      La página que buscas se ha perdido entre las brumas. Puede que nunca existiera, o que la niebla la haya ocultado.
+    </p>
+    <div class="flex items-center justify-center gap-3 flex-wrap">
+      <a href="/" class="btn btn--primary">Volver al inicio</a>
+      <button id="go-back" class="btn">Página anterior</button>
+    </div>
+  </div>
+</GuideLayout>
+<script is:inline>
+  document.getElementById("go-back")?.addEventListener("click", () => history.back());
+</script>

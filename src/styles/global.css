@@ -1,0 +1,409 @@
+@import "tailwindcss";
+
+/* ========================================================================
+   FF9 Guide — "Tomo del Cristal"
+   Aesthetic: mystical archive / crystal tome
+   Default: dark (crystal light by night). Light = sunlit manuscript.
+   ======================================================================== */
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* ---- Fuentes ---- */
+  --font-display: "Cinzel", "Trajan Pro", "Times New Roman", serif;
+  --font-body: "Spectral", "Georgia", "Cambria", serif;
+  --font-ui: "Manrope", "SF Pro Text", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", "Menlo", monospace;
+
+  /* ---- Paleta modo oscuro (default) ---- */
+  --color-void:        #07061a;     /* fondo más profundo */
+  --color-bg:          #0c0a1f;     /* fondo principal */
+  --color-surface-1:   #15122a;     /* paneles, sidebar */
+  --color-surface-2:   #1c1838;     /* tarjetas, bloques */
+  --color-surface-3:   #251f44;     /* hover, elevado */
+  --color-border:      #2a2548;
+  --color-border-soft: #1f1c38;
+  --color-mist:        #3a3458;     /* líneas, divisores */
+
+  --color-text:        #e8e2f5;
+  --color-text-soft:   #b8b0d4;
+  --color-text-mute:   #7a749a;
+
+  --color-crystal:     #9b7aff;     /* violeta cristal — primario */
+  --color-crystal-2:   #b89aff;
+  --color-crystal-ink: #2d1f5e;     /* crystal sobre fondo claro */
+  --color-gold:        #e8b75d;     /* dorado Tantalus — acento */
+  --color-gold-2:      #f4cf80;
+  --color-gold-ink:    #5a3a0e;     /* gold sobre fondo claro */
+  --color-rose:        #e07a9e;     /* rosa Garnet */
+  --color-azure:       #6fb8e8;     /* azul skystone / aire */
+  --color-emerald:     #6dc899;     /* verdeチョコボ / Qu marsh */
+  --color-ember:       #e88a5a;     /* naranja fuego/lava */
+  --color-crimson:     #d04a5e;     /* rojo peligro/jefe */
+
+  /* Radios */
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 14px;
+  --radius-xl: 22px;
+
+  /* Sombras */
+  --shadow-crystal: 0 0 0 1px color-mix(in oklab, var(--color-crystal) 30%, transparent),
+                    0 8px 32px -8px color-mix(in oklab, var(--color-crystal) 50%, transparent);
+  --shadow-gold:    0 0 0 1px color-mix(in oklab, var(--color-gold) 35%, transparent),
+                    0 8px 32px -8px color-mix(in oklab, var(--color-gold) 35%, transparent);
+  --shadow-deep:    0 30px 60px -20px rgba(0, 0, 0, 0.6),
+                    0 18px 36px -18px rgba(0, 0, 0, 0.5);
+}
+
+/* ---- Modo claro: pergamino genérico. Mantiene la paleta del juego para crystal/gold. ---- */
+:root.light {
+  --color-void:        #e8dcb6;
+  --color-bg:          #f1e6c4;
+  --color-surface-1:   #f8efd1;
+  --color-surface-2:   #fbf4dc;
+  --color-surface-3:   #fdf8e6;
+  --color-border:      #c9b884;
+  --color-border-soft: #d8c89a;
+  --color-mist:        #b3a47a;
+
+  --color-text:        #251c0e;
+  --color-text-soft:   #4a3e25;
+  --color-text-mute:   #7a6c4a;
+
+  /* crystal y gold se mantienen del juego (más oscuros en light para contraste) */
+  --color-crystal-ink: #f0e8ff;
+  --color-gold-ink:    #fff4dc;
+}
+
+/* ========================================================================
+   Base
+   ======================================================================== */
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+  :root.light {
+    color-scheme: light;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1, "onum" 1;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-size: 17px;
+    line-height: 1.7;
+    font-weight: 400;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Fondo con efecto de "misterio" — gradiente sutil + grano */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 20% 0%,
+        color-mix(in oklab, var(--color-crystal) 18%, transparent), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 100% 100%,
+        color-mix(in oklab, var(--color-gold) 12%, transparent), transparent 60%);
+  }
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.35;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='3'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.4 0'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>");
+  }
+  :root.light body::after { opacity: 0.18; mix-blend-mode: multiply; }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-crystal) 60%, transparent);
+    color: var(--color-text);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: 0.005em;
+    line-height: 1.15;
+    color: var(--color-text);
+  }
+  h1 { font-size: clamp(2rem, 4vw, 3.4rem); letter-spacing: 0.02em; }
+  h2 { font-size: clamp(1.5rem, 2.4vw, 2rem); }
+  h3 { font-size: 1.3rem; }
+  h4 { font-size: 1.1rem; }
+
+  a {
+    color: var(--color-crystal);
+    text-decoration: none;
+    transition: color .15s ease;
+  }
+  a:hover { color: var(--color-crystal-2); }
+
+  /* Scrollbar discreto */
+  * { scrollbar-width: thin; scrollbar-color: var(--color-mist) transparent; }
+  *::-webkit-scrollbar { width: 10px; height: 10px; }
+  *::-webkit-scrollbar-track { background: transparent; }
+  *::-webkit-scrollbar-thumb { background: var(--color-mist); border-radius: 999px; border: 2px solid var(--color-bg); }
+  *::-webkit-scrollbar-thumb:hover { background: color-mix(in oklab, var(--color-mist) 70%, var(--color-crystal)); }
+}
+
+/* ========================================================================
+   Componentes utilitarios
+   ======================================================================== */
+@layer components {
+  /* Cristal SVG decorativo como divisor */
+  .crystal-divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 3rem auto;
+    color: var(--color-gold);
+    opacity: 0.7;
+  }
+  .crystal-divider::before,
+  .crystal-divider::after {
+    content: "";
+    flex: 1;
+    max-width: 12rem;
+    height: 1px;
+    background: linear-gradient(90deg,
+      transparent,
+      color-mix(in oklab, var(--color-gold) 70%, transparent),
+      transparent);
+  }
+
+  /* Etiqueta UI (chip) */
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    background: var(--color-surface-2);
+    border: 1px solid var(--color-border);
+    color: var(--color-text-soft);
+  }
+  .chip--crystal {
+    background: color-mix(in oklab, var(--color-crystal) 14%, var(--color-surface-1));
+    border-color: color-mix(in oklab, var(--color-crystal) 40%, var(--color-border));
+    color: var(--color-crystal-2);
+  }
+  .chip--gold {
+    background: color-mix(in oklab, var(--color-gold) 14%, var(--color-surface-1));
+    border-color: color-mix(in oklab, var(--color-gold) 40%, var(--color-border));
+    color: var(--color-gold);
+  }
+
+  /* Tarjeta de cristal: marco sutil con efecto cristalino */
+  .card {
+    background: linear-gradient(180deg,
+      var(--color-surface-1),
+      var(--color-surface-2));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(135deg,
+      color-mix(in oklab, var(--color-crystal) 30%, transparent),
+      transparent 40%,
+      color-mix(in oklab, var(--color-gold) 25%, transparent));
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+            mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  /* Botones */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding: 0.7rem 1.2rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface-2);
+    color: var(--color-text);
+    transition: all .15s ease;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background: var(--color-surface-3);
+    border-color: var(--color-mist);
+    transform: translateY(-1px);
+  }
+  .btn--primary {
+    background: linear-gradient(180deg, var(--color-crystal), color-mix(in oklab, var(--color-crystal) 75%, #000));
+    color: var(--color-crystal-ink);
+    border-color: color-mix(in oklab, var(--color-crystal) 50%, transparent);
+    box-shadow: var(--shadow-crystal);
+  }
+  .btn--primary:hover {
+    background: linear-gradient(180deg, var(--color-crystal-2), var(--color-crystal));
+    color: var(--color-crystal-ink);
+  }
+  .btn--ghost {
+    background: transparent;
+    border-color: transparent;
+  }
+  .btn--ghost:hover {
+    background: var(--color-surface-2);
+    border-color: var(--color-border);
+  }
+  .btn--icon {
+    width: 2.4rem;
+    height: 2.4rem;
+    padding: 0;
+  }
+
+  /* Animación de entrada suave */
+  .reveal { animation: reveal .55s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes reveal {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Item de navegación completado: dot relleno + atenuado */
+  [data-nav-slug].is-completed .nav-dot {
+    background: var(--color-crystal) !important;
+    box-shadow: 0 0 8px color-mix(in oklab, var(--color-crystal) 60%, transparent);
+  }
+  [data-nav-slug].is-completed {
+    color: var(--color-text-mute);
+  }
+  [data-nav-slug].is-completed:hover {
+    color: var(--color-text-soft);
+  }
+
+  /* Lectura: tipografía de artículo */
+  .prose-guide {
+    font-size: 1.06rem;
+    line-height: 1.78;
+  }
+  .prose-guide p { margin: 1.1rem 0; }
+  .prose-guide p + p { margin-top: 1.25rem; }
+  .prose-guide strong { color: var(--color-gold); font-weight: 600; }
+  .prose-guide em { color: var(--color-crystal-2); font-style: italic; }
+  .prose-guide a { text-decoration: underline; text-decoration-color: color-mix(in oklab, var(--color-crystal) 40%, transparent); text-underline-offset: 3px; }
+  .prose-guide h2 {
+    font-size: 1.85rem;
+    margin: 2.5rem 0 1rem;
+    color: var(--color-text);
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border-soft);
+  }
+  .prose-guide h3 {
+    font-size: 1.25rem;
+    margin: 2rem 0 0.8rem;
+    color: var(--color-gold);
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+  .prose-guide h4 {
+    font-size: 1.05rem;
+    margin: 1.5rem 0 0.5rem;
+    color: var(--color-crystal-2);
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+  }
+  .prose-guide ul, .prose-guide ol {
+    margin: 1rem 0 1.2rem;
+    padding-left: 1.6rem;
+  }
+  .prose-guide ul li, .prose-guide ol li {
+    margin: 0.4rem 0;
+    padding-left: 0.3rem;
+  }
+  .prose-guide ul li::marker { color: var(--color-crystal); }
+  .prose-guide ol li::marker { color: var(--color-gold); font-family: var(--font-display); font-weight: 600; }
+  .prose-guide img {
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    margin: 1.5rem auto;
+    display: block;
+    max-height: 520px;
+    object-fit: contain;
+    cursor: zoom-in;
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  .prose-guide img:hover {
+    transform: scale(1.01);
+    box-shadow: var(--shadow-deep);
+  }
+  .prose-guide table {
+    width: 100%;
+    margin: 1.5rem 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+  .prose-guide th, .prose-guide td {
+    padding: 0.6rem 0.9rem;
+    text-align: left;
+    border-bottom: 1px solid var(--color-border-soft);
+  }
+  .prose-guide th {
+    font-family: var(--font-ui);
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    border-bottom: 1px solid var(--color-border);
+  }
+}
+
+/* ========================================================================
+   Animaciones utilitarias
+   ======================================================================== */
+@layer utilities {
+  .shimmer {
+    background: linear-gradient(90deg,
+      color-mix(in oklab, var(--color-crystal) 0%, transparent),
+      color-mix(in oklab, var(--color-crystal) 60%, transparent),
+      color-mix(in oklab, var(--color-crystal) 0%, transparent));
+    background-size: 200% 100%;
+    animation: shimmer 3s linear infinite;
+  }
+  @keyframes shimmer {
+    0%   { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  .glow-crystal {
+    box-shadow: 0 0 0 1px color-mix(in oklab, var(--color-crystal) 40%, transparent),
+                0 0 24px -4px color-mix(in oklab, var(--color-crystal) 50%, transparent);
+  }
+}

@@ -1,0 +1,228 @@
+[
+  {
+    "disc": "Walkthrough",
+    "items": [
+      {
+        "slug": "ff6-p1",
+        "title": "Introducción y aclaraciones"
+      },
+      {
+        "slug": "ff6-p2",
+        "title": "Narshe y Minas de Narshe"
+      },
+      {
+        "slug": "ff6-p3",
+        "title": "Castillo de Figaro"
+      },
+      {
+        "slug": "ff6-p4",
+        "title": "Cueva de Figaro del Sur"
+      },
+      {
+        "slug": "ff6-p5",
+        "title": "Figaro del Sur"
+      },
+      {
+        "slug": "ff6-p6",
+        "title": "Cabaña de Duncan y Monte Kolts"
+      },
+      {
+        "slug": "ff6-p7",
+        "title": "Guarida de los Replicantes"
+      },
+      {
+        "slug": "ff6-p8",
+        "title": "Río Lete"
+      },
+      {
+        "slug": "ff6-p9",
+        "title": "Locke en Figaro del Sur"
+      },
+      {
+        "slug": "ff6-p10",
+        "title": "Locke en la Cueva de Figaro del Sur"
+      },
+      {
+        "slug": "ff6-p11",
+        "title": "Sabin en Castillo de Doma y Campamento"
+      },
+      {
+        "slug": "ff6-p12",
+        "title": "Sabin en el Bosque Fantasma"
+      },
+      {
+        "slug": "ff6-p13",
+        "title": "Sabin en el Tren Fantasma"
+      },
+      {
+        "slug": "ff6-p14",
+        "title": "Sabin en las cataratas de Baren"
+      },
+      {
+        "slug": "ff6-p15",
+        "title": "Sabin en Mobliz"
+      },
+      {
+        "slug": "ff6-p16",
+        "title": "Última parte del escenario de Sabin"
+      },
+      {
+        "slug": "ff6-p17",
+        "title": "El escenario de Terra, Edgar y Banon"
+      },
+      {
+        "slug": "ff6-p18",
+        "title": "La batalla de Narshe"
+      },
+      {
+        "slug": "ff6-p19",
+        "title": "Viajando con el Castillo de Figaro"
+      },
+      {
+        "slug": "ff6-p20",
+        "title": "Kohlingen y Jidoor"
+      },
+      {
+        "slug": "ff6-p21",
+        "title": "Zozo"
+      },
+      {
+        "slug": "ff6-p22",
+        "title": "Ópera"
+      },
+      {
+        "slug": "ff6-p23",
+        "title": "El continente del Sur"
+      },
+      {
+        "slug": "ff6-p24",
+        "title": "Vector"
+      },
+      {
+        "slug": "ff6-p25",
+        "title": "Factoría Magitec"
+      },
+      {
+        "slug": "ff6-p26",
+        "title": "Laboratorios Magitec"
+      },
+      {
+        "slug": "ff6-p27",
+        "title": "De vuelta a Vector y el flashback de Terra"
+      },
+      {
+        "slug": "ff6-p28",
+        "title": "Explorando el mundo con el Blackjack"
+      },
+      {
+        "slug": "ff6-p29",
+        "title": "Portal sellado"
+      },
+      {
+        "slug": "ff6-p30",
+        "title": "El banquete imperial en Vector"
+      },
+      {
+        "slug": "ff6-p31",
+        "title": "Thamasa"
+      },
+      {
+        "slug": "ff6-p32",
+        "title": "Cuevas del esper"
+      },
+      {
+        "slug": "ff6-p33",
+        "title": "Hacia el Continente flotante"
+      },
+      {
+        "slug": "ff6-p34",
+        "title": "Continente flotante"
+      },
+      {
+        "slug": "ff6-p35",
+        "title": "Isla solitaria"
+      },
+      {
+        "slug": "ff6-p36",
+        "title": "Reencuentro con Sabin"
+      },
+      {
+        "slug": "ff6-p38",
+        "title": "Reencuentro con Edgar"
+      },
+      {
+        "slug": "ff6-p39",
+        "title": "Reencuentro con Setzer"
+      },
+      {
+        "slug": "ff6-p40",
+        "title": "Reencuentro con Cyan"
+      },
+      {
+        "slug": "ff6-p41",
+        "title": "Reencuentro con Gau y con Terra"
+      },
+      {
+        "slug": "ff6-p42",
+        "title": "Reencuentro con Relm y Strago"
+      },
+      {
+        "slug": "ff6-p43",
+        "title": "Reencuentro con Mog"
+      },
+      {
+        "slug": "ff6-p44",
+        "title": "Reencuentro con Umaro"
+      },
+      {
+        "slug": "ff6-p45",
+        "title": "Reencuentro con Shadow"
+      },
+      {
+        "slug": "ff6-p37",
+        "title": "El Coliseo"
+      },
+      {
+        "slug": "ff6-p46",
+        "title": "Reencuentro con Locke"
+      },
+      {
+        "slug": "ff6-p47",
+        "title": "Reencuentro con Gogo"
+      },
+      {
+        "slug": "ff6-p48",
+        "title": "Ensoñación de Cyan"
+      },
+      {
+        "slug": "ff6-p49",
+        "title": "Explorando el Mundo de la Ruina"
+      },
+      {
+        "slug": "ff6-p50",
+        "title": "Castillo ancestral"
+      },
+      {
+        "slug": "ff6-p51",
+        "title": "Torre de los fanáticos"
+      },
+      {
+        "slug": "ff6-p52",
+        "title": "Roca de Ebot"
+      },
+      {
+        "slug": "ff6-p53",
+        "title": "Torre de Kefka"
+      }
+    ]
+  },
+  {
+    "disc": "Extras",
+    "items": [
+      {
+        "slug": "ff6-requisitos",
+        "title": "Requisitos PC"
+      }
+    ]
+  }
+]

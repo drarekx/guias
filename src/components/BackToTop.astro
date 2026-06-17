@@ -1,0 +1,42 @@
+---
+// Botón flotante "volver arriba" con aparición al hacer scroll
+---
+<button
+  id="back-to-top"
+  type="button"
+  aria-label="Volver arriba"
+  class="fixed bottom-6 right-6 z-50 w-11 h-11 rounded-full bg-[var(--color-surface-2)]/90 border border-[var(--color-border)] backdrop-blur-md text-[var(--color-text-soft)] hover:text-[var(--color-crystal)] hover:border-[var(--color-crystal)]/50 transition-all opacity-0 pointer-events-none translate-y-2 shadow-lg"
+>
+  <svg class="w-4 h-4 mx-auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m6 15 6-6 6 6"/>
+  </svg>
+</button>
+
+<script is:inline>
+  (() => {
+    const btn = document.getElementById("back-to-top");
+    if (!btn) return;
+    const show = () => {
+      btn.classList.remove("opacity-0", "pointer-events-none", "translate-y-2");
+      btn.classList.add("opacity-100");
+    };
+    const hide = () => {
+      btn.classList.add("opacity-0", "pointer-events-none", "translate-y-2");
+      btn.classList.remove("opacity-100");
+    };
+    let lastY = 0, ticking = false;
+    window.addEventListener("scroll", () => {
+      lastY = window.scrollY;
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          lastY > 600 ? show() : hide();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    }, { passive: true });
+    btn.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  })();
+</script>

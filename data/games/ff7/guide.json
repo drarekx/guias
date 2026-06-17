@@ -1,0 +1,3664 @@
+[
+  {
+    "slug": "ff7-p1",
+    "disc": "CD 1",
+    "title": "Avalancha y los reactores Mako",
+    "href": "final-fantasy-vii-p1.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/estacion.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Avalancha y los reactores Mako"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_estacion.jpg",
+          "alt": "Estación",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reactor-mako_1.jpg",
+          "alt": "Reactor Mako",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Habla con ellos para abrir las puertas y coge la Cola de fénix en la habitación de la derecha tras pasar la segunda puerta. Desciende en el ascensor, baja por las escaleras escaleras y tuberías, recoge la Poción y al bajar por la escalerilla graba la partida en el punto indicado. Un poco más adelante, recoge la materia Recuperar Energía y coloca la bomba."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Guardia Escorpión"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_guardia-escorpion.jpg",
+          "alt": "Guardia Escorpión",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tienes 10 minutos para salir de la base antes de que salte por los aires. Vuelve por donde viniste y no olvides ayudar a Jesse cuando se le atasque la pierna en la escalera mientras subes."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_aeris.jpg",
+          "alt": "Aeris",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_guardias-shinra.jpg",
+          "alt": "Guaridas Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Una vez fuera del refugio, cómprale unas rosas a Aeris. Avanza hasta encontrarte con los guardias de Shinra (podrás elegir entre luchar y escapar) y lánzate al tren en marcha. Tras hablar con tus compañeros y ver el mapa de la red ferroviaria de Midgar, ya bajarás automáticamente del tren."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_base-avalancha_1.jpg",
+          "alt": "Base Avalancha",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_base-avalancha_2.jpg",
+          "alt": "Base Avalancha",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ya fuera del tren, graba la partida en la parte de arriba y luego ve a la base de Avalancha, dale la flor a Tifa y baja al sótano usando la máquina de pinball. Tras la conversación, vuelve arriba y verás una escena con Tifa. Luego Barret te dará 1.500 gil y acto seguido verás un tutorial sobre cómo usar la Materia. Ahora, aparte de que Tifa se habrá unido al grupo, sal de aquí y ve al edificio de 3 plantas que hay al Sur. Compra algo en la tienda si quieres, sube al segundo piso y podrás ver una serie de tutoriales (es importante que aprendas la mecánica del juego desde el principio), además de guardar la partida. Finalmente sube al tercer piso y podrás descansar a cambio de una módica cantidad."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tren.jpg",
+          "alt": "Tren",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve a la estación de tren y móntate en él. Cuando se accione la alarma, pasa de vagón en vagón y salta para salir de éste. Una vez afuera, ve hacia arriba por los túneles y examina el hueco junto a la barrera láser. Avanza por el único camino disponible hasta que llegues al nuevo reactor Mako (antes tendrás un par de puntos de guardado) y coloca otra bomba, teniendo en cuenta que el camino es el mismo que en la anterior."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reactor-mako-5.jpg",
+          "alt": "Reactor Mako 5",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Sube por las escaleras y métete en el ascensor. Al salir tendrás que sincronizar los movimientos de Cloud, Tifa y Barret en los paneles de control para abrir la puerta (no será automático como en el primer reactor). Tras hablar con el presidente de Shinra prepárate para enfrentarte a un robot con bastante mala uva."
+        },
+        {
+          "type": "h3",
+          "text": "Boss"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_aerodestructor.jpg",
+          "alt": "Aerodestructor",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Nuevamente te encuentras ante un enemigo mecánico, así que lo mejor es que utilices el Rayo cuando sea posible. Tienes otra ventaja, porque también le hacen bastante daño los ataques con la espada y los límites. Cuando se vuelva en la dirección en la que has realizado el ataque, pon a cubierto a los miembros más débiles porque va a realizar un bombardeo bastante destructivo. Los ataques por la espalda son muy perjudiciales para él."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p2",
+    "disc": "CD 1",
+    "title": "El mercado Muro",
+    "href": "final-fantasy-vii-p2.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/iglesia_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Mercado Muro"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_iglesia_1.jpg",
+          "alt": "iglesia",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_iglesia_2.jpg",
+          "alt": "iglesia",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_suburbios_1.jpg",
+          "alt": "Suburbios",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_casa-de-aeris.jpg",
+          "alt": "casa de Aeris",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Toma la salida del Este, recoge los objetos de jardín y entra en la casa de la madre de Aeris. Al pasar allí la noche, cuando te despiertes sal de la habitación y baja las escaleras, pero sin correr, sino despertarás a Aeris. Regresa a la zona de las tiendas y a la zona anterior, en donde ahora en el agujero del muro te encontrarás con Aeris. Entonces avanza por los escombros y por el parque de juegos, en donde verás brevemente a Tifa."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_club-nocturno.jpg",
+          "alt": "club nocturno",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando llegues al Mercado Muro, visita las tiendas y luego toma la salia a la derecha de la entrada. Habla con la gente que está afuera del club nocturno. Regresa a la zona anterior y ve todo hacia el Norte hasta llegar a la entrada de la mansión de Don Corneo, en donde tienes que hablar con el portero."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tienda-de-ropa.jpg",
+          "alt": "tienda de ropa",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bar.jpg",
+          "alt": "Bar",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Regresa a la primera zona y entra en la tienda de ropa. Luego ve a la zona del norte y entra en el bar por la izquierda para hablar con el hombre en la barra. Dile que quieres un vestido elegante y reluciente (Suave y que reluzca). Entonces regresa a la tienda para conseguir el vestido."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gimnasio.jpg",
+          "alt": "Gimnasio",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve al gimnasio y enfréntate al Gran Hermano en una competición de sentadillas, simplemente tienes que pulsar los botones indicados por orden y sin equivocarte, si le ganas recibirás una peluca."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_restaurante.jpg",
+          "alt": "Restaurante",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_farmacia.jpg",
+          "alt": "Farmacia",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve al restaurante cerca de la tienda de ropa, siéntate y pide cualquier plato, luego al terminar responde que estaba muy rico, con eso recibirás un cupón para la farmacia. La farmacia está justo abajo del restaurante, así que ve hsata allí y al entregarle el cupón elige \"Pastillas de antiácido\". Ve al bar y habla con la chica que está encerrada en el baño para darle las pastillas, entonces a cambio te dará una colonia."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tienda-materia.jpg",
+          "alt": "tienda de materia",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve a la tienda de materia, un poco más arriba del punto de guardado, y al hablar con el dueño aceta su propuesta. Acto seguido ve a la posada para pasar allí la noche. Automáticamente estarás frente a la máquina expendedora, así que elige el objeto de 200 guiles y a la mañana siguiente regresa a la tienda para entregarle el objeto y recibir a cambio una tiara."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_club-nocturno_2.jpg",
+          "alt": "club nocturno",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve hacia el Club nocturno y antes de entrar en esa zona, habla con el hombre gordo para que te dé el carné de socio. Ahora ya te dejarán pasar al club, así que entra y pasa por la puerta de abajo a la izquierda. Tras la escena te darán un bikini. Teniendo ya todas las cosas, ve a la tienda de ropa y entra en el vestuario para cambiarte."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_don-corneo.jpg",
+          "alt": "Don Corneo",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_matones-don-corneo.jpg",
+          "alt": "matones de Don Corneo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando te encuentres en la habitación llena de matones, habla con todos ellos hasta que comience un combate, teniendo que derrotarlos. Vuelve a la mazmorra y luego a la sala de Don Corneo. Ve a la habitación trasera y tras la escena acabarás en las alcantarillas, teniendo que combatir contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Aps"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_aps.jpg",
+          "alt": "Aps",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Su ataque más peligroso es el Tsunami, una ola de aguas no muy saludables que dañará a todo tu equipo. Cuando efectúa el Tsunani inverso, se daña a si mismo, así que piensa que todo tiene su lado bueno. Al ser una criatura de agua, lo que más daño le hace es el fuego. Si ya has conseguido el Corte Cruzado de Cloud, utilízalo en cuanto puedas."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p3",
+    "disc": "CD 1",
+    "title": "El Sector 7",
+    "href": "final-fantasy-vii-p3.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/cementerio-de-trenes.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Sector 7"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cementerio-de-trenes.jpg",
+          "alt": "Cementerio de trenes",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_torre-sector-7.jpg",
+          "alt": "torre del Sector 7",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza por los tejados de los vagones, bajando cuando sea necesario para recoger todos los objetos, hasta llegar a la segunda zona. Tienes que montarte en las dos máquinas de tren para mover los vagones de manera que formen un puente y puedas cruzar por ellos. En el sector 7, cuando te quedes solo con Tifa, sube hasta lo alto de la torre, en donde tendrás que enfrentarte a un jefazo, ya con Barret de nuevo en el equipo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Reno"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reno.jpg",
+          "alt": "Reno",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Reno es débil al elemento hielo y también a los límites. Lo que más debe preocuparte es su ataque piramidal, el cual paralizará a un miembro del grupo en una pirámide. La única manera de liberarlo/s es atacarles tú mismo. Eso si, no podrás impedir que la bomba explote. Tras el desplome de la torre, regresa a la casa de la madre de Aeris, pero no sin antes recoger la materia Sentir en el patio de juegos. Pasa allí la noche y entonces regresa al Mercado Muro. Entra en el gimnasio y habla con el que está entrenando en el saco. Ahora sal de aquí y entra en la tienda de armas \"Machine & Gun\" un poco al Norte y compra las baterías de zinc en el mostrador de la izquierda."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mercado-muro_1.jpg",
+          "alt": "Mercado Muro",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mercado-muro_2.jpg",
+          "alt": "Mercado Muro",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve a la parte superior del mercado y sigue a unos niños, tras lo cual tendrás que trepar por esa tubería. Apartir de ahora el camino es bastante sencillo, tan solo tienes que ir poniendo las baterías en sus correspondientes huecos según avanzas. Cuando estés frente al cable que cuelga, tienes que esperar a saltar justo antes de que se aproxime del todo a ti."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p4",
+    "disc": "CD 1",
+    "title": "Edificio Shinra",
+    "href": "final-fantasy-vii-p4.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/edificio-shinra_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Edificio Shinra"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_1.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando llegues a la planta 59, sal del ascensor y derrota a los guardias para conseguir la tarjeta que te permite ir a la planta 60, así que entra en el nuevo ascenso para subir."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_2.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Entra en la oficina de la izquierda y entonces tendrás que ir de estatua en estatua cuando los guardias no estén mirando. Primero irá Cloud y luego tendrás que hacerle señales a Barret y Tifa. Si fallas no solo lucharás contra los guardias sino que tendrás que volver a empezar desde la oficina, así que ve con cuidado. En cualquier caso, cuando lo consigas, sube por las escaleras hasta el siguiente piso."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_3.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la planta 61, tienes que hablar con el individuo que te indicamos en Eliteguias con la imagen de arriba y no respondas nada, entonces conseguirás la tarjeta, así que úsala para subir en el ascensor al siguiente piso."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_4.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la planta 62 habla con el alcalde en su oficina y si resuelves su acertijo te dará la tarjeta para el siguiente piso, pero si además lo haces a la primera, te dará la materia Elemental. El problema es que por lo visto en cada partida la solución varía."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_5.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_6.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la planta 63 examina el ordenador de la parte inferior derecha y entonces abre las puertas que te indicamos en Eliteguias con las imágenes de arriba. Entra en la sala de la izquierda y recoge el Cupón A. Métete en el conducto en esa misma sala y toma la primera salida para acabar en la sala en la que está el Cupón B. Sal al pasillo, desbloquea la puerta de la izquierda y entra en la sala del Cupón C. Regresa al conducto y esta vez ve por la salida de más a la derecha para salir junto al ordenador en donde podrás canjear los cupones. Sube por las escaleras a la planta 64, en donde podrás descansar gratuitamente y grabar la partida, entonces vuelve a las escaleras y sigue hasta el siguiente piso."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_edificio-shinra_7.jpg",
+          "alt": "Edificio Shinra",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la planta 65, hay una gran maqueta de la ciudad en la sala central a la cual le faltan piezas... En el resto de habitaciones hay cofres con esas piezas y estos se irán abriendo de uno en uno a medida que vas colocando las piezas (no puedes abrirlos todos juntos y luego colocar todas las piezas). Tras colocar todas las piezas desbloquearás el último cofre junto a las escaleras, el cual contiene la tarjeta para el siguiente piso. En la planta 66 entra en el baño por la esquina superior izquierda y entra en el retrete para subirte por la rejilla. Tras la escena que verás a través de la siguiente rejilla, da media vuelta para salir de aquí y sigue a Hojo hasta el siguiente piso. En la planta 67 sigue a Hojo y tras ver a Red XIII abre el cofre junto al punto de guardado para conseguir la materia Envenenar. Móntate en el ordenador y tras otra escena más, prepárate para un jefazo, ahora con la ayuda de tu nuevo compañero Red XIII."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: H0512"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_h0512.jpg",
+          "alt": "H0512",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "No le ataques con la materia Envenenar. Lo mejor es que te concentres en atacar al propio H0512 con Fuego y Rayo y te olvides de sus ayudantes. Los ataques a largo rango también funcionan muy bien contra él, ya que no podrán pararlo sus ayudantes. Tras el combate, selecciona a los miembros de los dos grupos y recoge la materia. Entonces sube por la rampa y habla con el ayudante de Hojo para que te de la tarjeta de la planta 68, que es en la que estás. Pues bien, móntate en el ascensor por el que habías llegado aquí y da media vuelta por las escaleras hasta la planta 66, entra en el ascensor y serás capturado. Al recuperar el control, examina la puerta para ver cómo les va a tus compañeros y luego descansa un poco. Al despertar la puerta estará abierta, así que examina al guardia muerto, luego habla con Tifa y vuelve a examinar al muerto. Entonces libera a tus compañeros. Regresa al laboratorio siguiendo el rastro de sangre hasta la planta 69. Guarda la partida y sube las escaleras hasta la planta 70. Tras la escena con el presidente, sal por la puerta y tras otra escena más, lleva al segundo grupo hasta el ascensor, donde combatirás contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Robots ametralladora y helicóptero"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_robot-ametralladora.jpg",
+          "alt": "Robot ametralladora",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Te atacará primero el Robot Ametralladora. Utiliza ataques a largo rango y especialmene el Rayo. Por supuesto, Envenenar no le hará efecto. En cuanto termines con él, aparecerá el otro Robot, contra el que debes usar la misma táctica. No olvides emplear algún turno en curarte o no sobrevivirás a su doble ataque."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Rufus"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_rufus.jpg",
+          "alt": "Rufus",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Mientras el resto del grupo se enfrenta a los dos robots, Cloud se las tiene que ver él solo contra el hijo del presidente Shinra, que además viene acompañado por Nación Oscura, su pantera negra. Tienes que eliminarla primero a ella porque lanza unos hechizos de protección sobre Rufus bastante molestos. Cuando la elimines, ataca a Rufus con Rayos y al poco rato huirá en helicóptero."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_escape-en-moto.jpg",
+          "alt": "escape en moto",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Baja al vestíbulo del edificio y una vez montado en la moto, ataca a las demás mientras evitas que alcancen el vehículo de tus compañeros. Carga sobre ellos para hacerlos derrapar y dales también con la espada. Cuando haya pasado un rato, te las verás con el siguiente jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Tanque lanzallamas"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tanque-lanzallamas.jpg",
+          "alt": "Tanque lanzallamas",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Nuevamente, la mejor arma contra este tanque es la materia Rayo, ya que es un enemigo mecánico. Cura a todo el mundo con el Límite de Aeris cuando éste esté disponible y prueba a atacarle también con Hielo con el resto de personajes que no tengan Rayo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p5",
+    "disc": "CD 1",
+    "title": "El mundo exterior",
+    "href": "final-fantasy-vii-p5.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/nibelheim_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El mundo exterior"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_nibelheim_1.jpg",
+          "alt": "Nibelheim",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Luego entra en la taberna, habla con Sephiroth y duerme un poco. Al día siguiente habla con Sephiroth y al poco rato aparecerá Tifa para haceros una foto juntos. Ya en el Monte nibel, cruza el puente y cuando éste se rompa, ve al noreste y entra en la cueva. Avanza por el único camino hasta llegar al reactor y baja por él hasta llegar junto a Jenova."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mansion-nibelheim.jpg",
+          "alt": "mansión de Nibelheim",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando estés de vuelta en Nibelheim ya entrarás automáticamente en la mansión. Sube las escaleras al segundo piso y ve a la derecha. Examina la pared de piedra circular y baja por la escalera y avanza por el túnel hasta la biblioteca. Sal de la mansión y luego vuelve a entrar para regresar a la biblioteca y ver otra escena más con Sefirot. Vuelve a salir de la mansión e intenta entrar en la casa de la derecha. Tras más escenas aparecerás automáticamente en el reactor, así que primero ayuda a Tifa y luego sube las escaleras para enfrentarte a Sefirot."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_kalm.jpg",
+          "alt": "Kalm",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando vuelvas al presente, y tras recoger el PHS con el que puedes cambiar los miembros del grupo (en el mapamundi y puntos de guardado), explora bien todas las casas de Kalm para recoger todo los objetos que veas y visita también las tiendas. De ahora en adelante, siempre que entres a un pueblo o ciudad, en Eliteguias daremos por hecho que vas a hacer todo esto por costumbre sin que te lo digamos."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_granja-de-chocobos_1.jpg",
+          "alt": "Granja de Chocobos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_granja-de-chocobos_2.jpg",
+          "alt": "Granja de Chocobos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_pisadas-chocobos.jpg",
+          "alt": "pisadas de chocobo",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_chocobo.jpg",
+          "alt": "Chocobo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora tienes que conseguir un chocobo salvaje... Para ello sal al mapamundi y, teniendo equipada la materia que acabas de comprar, camina sobre esas pisadas que ves en el exterior de la grana y espera a tener un combate y que en dicho combate aparezca un chocobo (sino elimina a los enemigos y vuelve a intentarlo). Entonces lo primero será darle verduras al chocobo para evitar que se marche mientras las come (cuanto más cara sea más tardará en comerla) y luego ataca a los enemigos. Cuando elimines a los enemigos, si el chocobo no se ha escapado, ya será tuyo. Pues bien, con el chocobo ya podrás cruzar el pantano sin miedo a que te ataque la serpiente gigante (en Eliteguias te recomendamos que no te enfrentes a ella hasta que tengas mucho más nivel) para llegar a tierra firme y entrar en las Minas de Mitrilo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_minas-de-mitrilo.jpg",
+          "alt": "Minas de mitrilo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ya dentro de las minas, avanza hasta encontrarte con los Turcos y luego sal por donde se fueron ellos para salir al exterior. A partir de este momento, podrás conseguir a uno de los dos personajes secretos y opcionales del juego, Yuffie. Pues bien, lo único que tienes que hacer para encontrártela es combatir en cualquier bosque en cualquier parte del mundo, hasta que en uno de los encuentros aleatorios te encuentres con Yuffie, siendo el primer paso derrotarla."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_yuffie.jpg",
+          "alt": "Yuffie",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Y ahora viene lo difícil, ya que tendrás que hablar con ella y elegir las opciones correctas, sino te robará algo (nada importante, lo gordo vendrá más adelante cuando vayas a Wutai) y tendrás que buscarla de nuevo. Por otro lado, tampoco guardes la partida antes de hablar con ella o también huirá. Las respuestas correctas son las que te indicamos en Eliteguias a continuación, teniendo en cuenta que se jugó a la versión de PC más nueva y con el parche de traducción, por si hay alguna diferencia en los textos (aunque a pesar del cambio debería ser bastante obvio): -No me interesa -Oh, sí, bastante... -¡Espera! -¡Claro! -¡Vámonos!"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_fuerte-condor_1.jpg",
+          "alt": "Fuerte Condor",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Dirígete a Fuerte Condor y al hablar con el hombre que está al inicio, acepta ayudarlos. Una vez dentro, baja a los dormitorios para grabar la partida y luego habla con el hombre que está sentado a la mesa para escuchar su historia."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_fuerte-condor_2.jpg",
+          "alt": "Fuerte Condor",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Sube hasta la parte superior del fuerte y tendrás que jugar a un minijuego. Es muy simple, se trata de colocar mercenarios en el campo de batalla, pero eso sí, pagándolos con tu propio dinero, para impedir que los enemigos asciendan. Lo normal es eso, pero si no quieres gastar dinero pues no pasa nada, simplemente deja que lleguen hasta la cima y entonces tendrás que combatirlos directamente y de manera gratuita. Ahora ya podrás descansar en las camas (antes solo podías guardar la partida) y las tiendas ya te venderán sus artículos. Cuando termines con todo esto, sal del Fuerte y dirígete a la ciudad de Junon al Noroeste. Al llegar, baja las escaleras de la parte inferior hasta la playa y te encontrarás con una niña llamada Priscilla, a la que tendrás que defender del ataque de un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Bottomswell"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bottomswell.jpg",
+          "alt": "Bottomswell",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Es obvio pero al mismo tiempo inevitable decir que al ser un monstruo marino, es débil a los ataques con Fuego. También puedes emplear Envenenar y Rayo si quieres. Cuando encierre a algún miembro del grupo en una burbuja de agua, ataca a tu propio compañero con un hechizo para liberarle pronto, o se ahogará. Por lo demás, el jefazo solo es sensible a los ataques a distancia."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p6",
+    "disc": "CD 1",
+    "title": "Junon y Costa del Sol",
+    "href": "final-fantasy-vii-p6.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/priscilla.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Junon y Costa del Sol"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_priscilla.jpg",
+          "alt": "Priscilla",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_delfin.jpg",
+          "alt": "delfín",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_vestuarios.jpg",
+          "alt": "vestuarios",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_desfile_1.jpg",
+          "alt": "Desfile",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Trepa hasta el aeropuerto y ve \"hacia la pantalla\", entonces súbete a la plataforma y pulsa el botón para bajar. Una vez dentro del edificio, ve a los vestuarios y ponte el uniforme de guardia. Al salir al exterior cuélate en las filas cuando te lo indiquen y luego atiende al diálogo entre Rufus y Heidegger."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_desfile_2.jpg",
+          "alt": "Desfile",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_barco.jpg",
+          "alt": "Barco",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ya a bordo del barco, habla con Aeris disfrazada de soldado, luego sal a cubierta y habla con Tifa en la plataforma (disfrazada de soldado) y finalmente con Red XIII en la parte alta (disfrazado de marinero). Baja a la bodega para hablar una vez más con Aeris y regresa a cubierta, momento en el que ya podrás ir a la parte delantera del barco para hablar con Barret. Al reunirte con tus compañeros en cubierta elige a los miembros del grupo, revisa el equipamiento, graba la partida donde estaba Red XIII y vuelve a cubierta, para pasar por la puerta donde antes estaba el guardia y combatir contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Primer encuentro con Jénova"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_jenova.jpg",
+          "alt": "Jénova",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Es inmune al Veneno, pero puedes usar contra ella las magias Fuego, Hielo y Tierra. Invoca también a Choco/Mog y golpéale sin descanso. Sus ataques más poderosos provienen de la peligrosa cola láser, con la que ataca dos veces por turno, y de un rayo con el que paralizará a cualquier miembro del equipo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_playa.jpg",
+          "alt": "playa",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p14",
+    "disc": "CD 1",
+    "title": "Corel del Norte y Gold Saucer",
+    "href": "final-fantasy-vii-p14.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/reactor-mako-corel.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Corel del Norte y Gold Saucer"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reactor-mako-corel.jpg",
+          "alt": "reactor del Monte Corel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Habla con el hombre que verás allí y continúa a la siguiente pantalla, atravíesala también y acabarás llegando al Reactor mako de Corel, lugar del que tienes que salir por la parte Sur."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_monte-corel_1.jpg",
+          "alt": "Monte Corel",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_monte-corel_2.jpg",
+          "alt": "Monte Corel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "De nuevo en el Monte Corel, cruza las vías del tren y en la siguiente pantalla más de lo mismo, solo que esta vez tendrás que tener cuidado cuando trozos de la vía se derrumben bajo tus pies, ya que si no pulsas a tiempo el botón indicado, caerás... aunque tampoco pasa nada, ya que si te caes y te mueves rápidamente hacia los lados, podrás recoger algunos objetos. En la siguiente pantalla, primero ve por abajo para reunirte con tus compañeros y luego da media vuelta y ve por arriba hasta la cabaña en la que tienes que accionar una palanca para bajar el puente. Antes de nada, trepa por la pared para llegar a un nido de cocatrices en el que podrás decidir si llevarte las colas de fénix o no. Ahora sí, da media vuelta y cruza el puente, en la bifurcación ve primero por la izquierda para llegar a una pequeña cueva con algunos objetos y luego ve por la derecha hasta llegar finalmente a Corel del Norte."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_corel-del-norte_1.jpg",
+          "alt": "Corel del Norte",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gold-saucer_1.jpg",
+          "alt": "Gold Saucer",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En este poblado visita las tiendas y explora un poco la zona si quieres, y cuando estés listo, ve por la salida del Oeste y móntate en el teleférico para ir a Gold Saucer tras una escena. Lo primero que tienes que hacer será comprar una entrada, las cuales hay de 2 tipos.... una simple que valdrá para una única vez y que cuesta 3.000 guiles o una permanente pero que cuesta 30.000 guiles... lo normal es que en estos momentos no tengas tal cantidad de dinero y aunque la tengas, por ahora en Eliteguias te recomendamos que te limites a comprar la barata, ya tendrás tiempo de comprar la otra más adelante."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gold-saucer_2.jpg",
+          "alt": "Gold Saucer",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cait-sith.jpg",
+          "alt": "Cait Sith",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_battle-zone.jpg",
+          "alt": "Battle Zone",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando estés listo para continuar, entra en la zona Wonder y te encontrarás con un nuevo compañero del grupo, Cait Sith. Ahora ve a la zona Battle y tras la escena en el interior, Dio y los guardias te mandarán a la prisión de Corel."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_prision-de-corel_1.jpg",
+          "alt": "prisión de Corel",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_prision-de-corel_2.jpg",
+          "alt": "prisión de Corel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tras hablar con Barret, examina el cadáver y toma la salida del Sur. Graba la partida y entra en la casa del lado Este para ver otra escena con Barret. Luego elige a los miembros del grupo y sal de la casa. Compra algunos objetos en la casa de justo abajo y regresa a la pantalla anterior por la parte de arriba. Examina otro cadáver más y toma esa salida junto a la verja. En la siguiente pantalla habla con el individuo por la parte derecha y toma esa misma salida para acabar enfrentándote a un jefazo. Si por lo que sea sales al desierto, simplemente quédate quieto y al cabo de un rato pasará un carro tirado por un Chocobo, el cual te llevará de vuelta a la prisión)."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Dyne"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_dyne.jpg",
+          "alt": "Dyne",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ten en cuenta que lucharás solo con Barret. Atácale con magia o con invocaciones y usa el límite nada más lo tengas disponible. Estate atento y cuando te quede poca vida cúrate. Este jefazo tampoco tiene mucha complicación, lo único es que si tienes poca vida se hará eterno al estar curándote casi constantemente."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_carrera-chocobos_1.jpg",
+          "alt": "carreras de chocobos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_carrera-chocobos_2.jpg",
+          "alt": "carreras de chocobos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p7",
+    "disc": "CD 1",
+    "title": "Cañón Cosmo",
+    "href": "final-fantasy-vii-p7.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/reno_rude.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Cañón Cosmo"
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, cuando estés listo, cruza la parte poco profunda del río que hay al Sur para entrar en la zona de Gongaga y acto seguido entra en siguiente localización un poco más al Sur, donde tendrás que combatir contra un par de jefazos."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Reno y Rude"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reno_rude.jpg",
+          "alt": "Reno y Rude",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Rude es el encargado de curar con la magia, así que, la prioridad será acabar con él. Por lo demás, no hay ninguna estrategia especial contra ellos."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_materia-titan.jpg",
+          "alt": "materia Titán",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tras el combate, primero ve a la derecha. Avanza hacia el Norte y llegarás a un reactor en ruinas, en donde verás a Tseng y Escarlata; espera a que se marchen y recoge la materia Titán examinando un poco a la derecha de la parte central del reactor, donde te indicamos en Eliteguias con la imagen de arriba."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gongaga_1.jpg",
+          "alt": "Gongaga",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Regresa a la intersección y esta vez ve por la izquierda. En esta pantalla recoge la materia que hay a la izquierda y luego ve por la derecha hasta Gongaga. Tampoco hay nada especial que hacer aquí, simplemente entra en la casa de más abajo a la derecha para ver una pequeña escena y visita las tiendas para comprar algunas cosas. Sal al mapamundi, ve hacia el Oeste, cruza el río por la parte baja y continua hasta Cañón Cosmo, en donde no tendrás más remedio que entrar puesto que el Buggy se habrá estropeado."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_canon-cosmo_1.jpg",
+          "alt": "Cañón Cosmo",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bugenhagen.jpg",
+          "alt": "Bugenhagen",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_observatorio.jpg",
+          "alt": "Observatorio",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_canon-cosmo_2.jpg",
+          "alt": "Cañón Cosmo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Regresa a la entrada del poblado y entra en la posada para hablar con tus compañeros y formar un grupo. Vuelve al observatorio y pasa por la puerta para ver una escena. Sal de aquí y ve a la hoguera que está en la entrada del poblado para hablar con tus compañeros uno por uno, dejando a Red XIII para lo último. Elige a los miembros de tu grupo y sigue a Bugenhagen hasta la cueva Gi. Explora todos los recovecos posibles si quieres, pero ten en cuenta un par de detalles que te comentamos a continuación en Eliteguias."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cuega-gi_1.jpg",
+          "alt": "cueva Gi",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cuega-gi_2.jpg",
+          "alt": "cueva Gi",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la primera parte tienes que meterte en las pequeñas cuevas para activar unos mecanismos... el correcto abre la puerta por la que tienes que continuar, pero los que no son correctos harán que tengas que combatir. Y en la siguiente pantalla habrá charcos de aceite y si resbalas en ellos chocarás contra unos pinchos y te quitarán bastante vida, pero es tan simple como pasar andando por ellos, sin correr. En la última pantalla con varios agujeros/caminos, ve por el segundo empezando por la izquierda y sigue recto hasta enfrentarte contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Gi Nattak"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gi-nattak.jpg",
+          "alt": "Gi Nattak",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ataca solo a Gi Nattak y no te preocupes de los espíritus que lo acompañan. Usa rayo y sobre todo hielo, pero no uses fuego contra él. Otra opción es atacarle con magias u objetos de curación."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p8",
+    "disc": "CD 1",
+    "title": "Nibelheim y el cohete de Cid",
+    "href": "final-fantasy-vii-p8.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/nibelheim_2.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Nibelheim y el cohete de Cid"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_nibelheim_2.jpg",
+          "alt": "Nibelheim",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mansion-nibelheim_2.jpg",
+          "alt": "Mansión de Nibelheim",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Criatura"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_criatura.jpg",
+          "alt": "Criatura",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Este jefazo tiene dos partes, una púrpura que causa daño físico y es resistente al ataque físico, y otra roja, que ataca con magia y que es resistente a la magia. Pues bien, paralízalo con el Sello maldito de Aeris y luego, a invocar. Tienes que tener mucha energía para este boss, así que si ahora tienes poca, ve a entrenar a tu grupo y regresa más tarde cuando tengas más, por que la segunda parte de este boss, de un solo golpe te puede matar al instante."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_monte-nibelheim_1.jpg",
+          "alt": "Monte Nibel",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_monte-nibelheim_2.jpg",
+          "alt": "Monte Nibel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora sal de Nibelheim por la parte superior y llegarás al monte Nibel. Tras cruzar el puente, tírate por la tubería nº 4. Graba la partida y enfréntate al jefazo que bloquea la salida."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Guardián de la materia"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_guardian-de-la-materia.jpg",
+          "alt": "Guardián de la materia",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Acuérdate de equipar la materia habilidad enemiga para conseguir su magia Trino. Utiliza Rayo e Hielo constantemente contra él. Esta batalla es algo larga, ya que el monstruo puede regener su vitalidad. Tras derrotarlo, recoge la materia contraataque, pero todavía no vayas por esa salida, ve por la de la izquierda. Salta a la siguiente cueva y al salir al exterior recoge la materia Elemental a la izquierda. Sal por la parte Norte y llegarás a la Planta de Jénova tras pasar por otra cueva más. Pero no entres en ella y en lugar de eso sal por la siguiente puerta y estarás de nuevo en la sala de las tuberías. Ahora sí, ve por donde estaba el jefazo para salir al mapamundi. Ve hacia el Oeste pegado a las montañas y en cuanto puedas ve al Norte hasta llegar a la ciudad del cohete."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-cohete.jpg",
+          "alt": "Ciudad Cohete",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_potrillo.jpg",
+          "alt": "Potrillo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aparte de lo típico de visitar las tiendas, habla con ese hombre dos veces hasta que miréis el cohete y te dará una nueva arma para Cloud. Luego entra en la casa de la derecha y sal al patio para ver el avión \"Potrillo\". Tras la escena en la que hablas con Shera, sal de aquí y ve al cohete para hablar con Cid en lo alto de éste. Entonces regresa a su casa y en cuanto aparezca Palmer, sal a la calle para ver una escena con Rufus. Luego vuelve a la casa y sal al patio para enfrentarte a un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Palmer"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_palmer.jpg",
+          "alt": "Palmer",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Él puede usar las siguientes magias: Fuego 2, Hielo 2, y Rayo2. Cúrate con el límite de Aeris y usa contra él el Sello Maldito. Conjura Choco Mog para dejarlo inconsciente, y mientras aprovecha para aumentar la velocidad de tu grupo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p15",
+    "disc": "CD 1",
+    "title": "Wutai",
+    "href": "final-fantasy-vii-p15.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/yuffie_2.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Wutai"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_yuffie_2.jpg",
+          "alt": "Yuffie",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Si ya has conseguido a Yuffie (deberías si has estado siguiendo las indicaciones que te dimos en Eliteguias desde el inicio), entonces al poco de avanzar hacia el poblado verás una escena con Yuffie y cuando aparezcan los soldados, la chica se irá, dejándote tan solo con 2 miembros del grupo si la llevabas contigo. Pero lo peor no será el combate, snio que te habrá robado absolutamente toda la materia... no te preocupes, evidentemente podrás recuperarla, pero durante un rato lo vas a pasar mal al no poder usar magia, invocaciones, etc..."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_wutai_1.jpg",
+          "alt": "Wutai",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_wutai_2.jpg",
+          "alt": "Wutai",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, continua hasta llegar a Wutai y nada más entrar verás como Yuffie escapa, así que tú cruza los puentes hasta la siguiente pantalla. Entra en la primera casa a la derecha. En la primera habitación podrás descansar y si quitas un poster blanco a la izquierda desbloquearás un pasaje que te lleva a un cofre con un arma. En la siguiente pantalla, habla con ese hombre que está durmiendo y al cabo de un rato aparecerá Yuffie. Antes de salir de aquí, en la habitación de más abajo hay un pasaje secreto que te lleva a otro cofre con un arma."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_wutai_3.jpg",
+          "alt": "Wutai",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve al Paraíso de las tortugas y habla con los Turcos que están allí. Entonces entra en la tienda de objetos junto al punto de guardado y abre el cofre para conseguir una materia que Yuffie rápidamente te robará."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_wutai_4.jpg",
+          "alt": "Wutai",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Acércate a la entrada de Wutai y entra en la primera casa de la derecha. Examina el biombo que hay a la derecha para encontrarte allí a Yuffie. Sal afuera y acércate al Paraíso de las tortugas, en donde tendrás que examinar el jarrón que hay afuera y luego golpearlo un par de veces."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_casa-de-yuffie.jpg",
+          "alt": "sótano de la casa de Yuffie",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve a la pantalla del Norte y golpea el gong en la estructura de la izquierda, con lo cual desbloquearás una puerta en la parte inferior de la estructura, por la cual tienes que pasar. Tras la escena en la que Don Corneo rapta a la chica, abre los dos cofres y sube por las escaleras. Automáticamente lucharás con unos soldados de Shinra y al vencerlos, sal afuera y habla con Reno. Acércate al punto de guardado y antes de nada, asegúrate de tener a Barret en tu grupo además de comprar algunas pociones en la tienda. Entonces toma la salida Norte desde el guardado para ir a la Estatua de Da Zhao."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_estatua-de-da-zhao.jpg",
+          "alt": "Estatua de Da Zhao",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la primera intersección ve a la derecha y en la siguiente pantalla ve hacia la izquierda. En la siguiente pantalla habla con Rude y luego entra en la cueva para conseguir un arma para Cid. Sal de la cueva y luego toma la salida Sur para comenzar un combate contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Rabzu"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_rabzu.jpg",
+          "alt": "Rabzu",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La mayor dificultad de este jefazo es el hecho de no disponer de tus materias y tener que valerte de objetos para curarte. Pero aparte de la enorme cantidad de daño que puede hacer, tiene un ataque especialmente devastador de viento que causa muchísimo daño... y aquí la clave está en usar tan pronto como puedas el límite de nivel 1 de Barret \"Rompementes\" para quitarle todo el PM. Cuando consigas derrotarle y tras una serie de escenas, Yuffie finalmente te devolverá toda la materia, pero... totalmente desordenada, por lo que vas a tener que pasar un buen rato poniéndola tal y como estaba."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p16",
+    "disc": "CD 1",
+    "title": "Conseguir la Piedra angular",
+    "href": "final-fantasy-vii-p16.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/piedra-angular.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Conseguir la piedra angular"
+        },
+        {
+          "type": "p",
+          "text": "Esta vez es probabe que ya tengas el dinero necesario para la entrada permanente, así que considera en comprarla ya."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_piedra-angular.jpg",
+          "alt": "Piedra angular",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, una vez dentro del parque, ve a Battle Square y ve a la \"Shor Room\" a la derecha, en donde encontrarás la Piedra angular, pero... no va a ser tan fácil, ya que antes tendrás que competir en el Coliseo. La parte buena es que no necesitas ganar todos los combates, te la darán igualmente aunque pierdas pronto, así que tampoco te preocupes demasiado."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_hotel-fantasma.jpg",
+          "alt": "hotel fantasma",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Con la piedra ya en tu poder, dirígete a la salida del parque y cuando vayas a coger el teleférico, éste estará estropeado y tendrás que pasar la noche en el parque, en el hotel fantasma."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_funcion-teatral.jpg",
+          "alt": "función teatral",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_gondola.jpg",
+          "alt": "góndola",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cait-sith_2.jpg",
+          "alt": "Cait Sith",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_habitacion-hotel.jpg",
+          "alt": "habitación hotel",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p9",
+    "disc": "CD 1",
+    "title": "El Templo de los ancianos",
+    "href": "final-fantasy-vii-p9.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/templo-de-los-ancianos_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El Templo de los Ancianos"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_1.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_2.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, según sales de Corel, móntate en el potrillo, el cual debería estar justo al Sur de la zona del desierto, entonces ve a la isla al Sureste y entra en el Templo de los Antiguos. Habla con el encapuchado al subir las escaleras y allí dentro te encontrarás con Tseng. Luego examina el altar para poner la piedra angular y entrar en el propio templo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_3.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Este lugar es un auténtico laberinto, tanto para encontrar la salida como si quieres recoger todos los objetos que están repartidos por él. La parte buena es que mientras tanto, con todos los combates vas a subir un par de niveles... En cualquier caso, en Eliteguias poco más podemos hacer, ya que seguir indicaciones sería más lioso todavía."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_4.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando por fin encuentres la salida, en la siguiente zona verás que hay unas piedras rodantes que tienen un hueco en ella y tendrás que calcular bien tus movimientos de manera que te coloques en dichos agujeros y que no te aplasten. Recoge la materia junto a la fuente en el medio y al llegar al final ya pararán de caer rocas. Sigue a Aeris hasta la fuente y verás una escena. Al recuperar el control habla con el anciano al final del camino y aprovecha para descansar y guardar la partida."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_5.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La siguiente pantalla será una sala circular con unas manecillas de reloj y varias puertas con números romanos. Tendrás que girar las manecillas manualmente y antes de ir a la salida, pasar por las otras para recoger algunas cosas, teniendo en cuenta que algunas estarán vacías y otras incluso tendrán combates. Fíjate en las indicaciones que te damos a continuación en Eliteguias. I - Combate II - Nada III - Combate IV - Arma para Aeris (Guarda princesa) V - Accesorio (Cinta) VI - SALIDA VII - Arma para Cait Sith (Armazón) VIII - Megaelixir IX - Nada X - Nada XI - Nada XII - Nada Por otro lado, si te caes por el centro, aparte de un combate, encontrarás un cofre con una nueva arma para Cloud, aunque tendrás que atravesar de nuevo el laberinto."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_templo-de-los-ancianos_6.jpg",
+          "alt": "Templo de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando pases por la salida, tendrás que perseguir al anciano que se irá metiendo por los agujeros. Aunque en el propio juego te indiquen que sigue un patrón, lo mejor es que vayas al azar hasta que lo pilles, te acabará resultando más sencillo. En cualquier caso, cuando lo alcances, habla con él y pasa por el portón grande de arriba para enfrentarte a un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Dragón Rojo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_dragon-rojo.jpg",
+          "alt": "Dragón Rojo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Es inmune a la gravedad y al fuego. Utiliza contra él Bio o Bio 2 (si aparte del daño que le haces logras envenenarle pues mejor todavía), y después ponle Barrera a todo tu equipo, y ataca con límites y con invocaciones o magias de hielo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: El Demonio de la puerta"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_el-demonio-de-la-puerta.jpg",
+          "alt": "El Demonio de la puerta",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Empieza por lanzarle Lento al demonio. Procura mantener siempre a tus personajes por encima de 1.000 HP, ya que de un golpe te puede matar a todos si no tienes la suficiente vida. Es inmune al veneno y a la gravedad. Usa las mejores invocaciones que tengas, y siempre que llegue el turno de Aeris, recupera energía, o haz que se llenen los límites de los demás."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p10",
+    "disc": "CD 1",
+    "title": "La Ciudad Olvidada",
+    "href": "final-fantasy-vii-p10.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/ciudad-de-los-huesos_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La Ciudad Olvidada"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-de-los-huesos_1.jpg",
+          "alt": "Ciudad de los huesos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-de-los-huesos_2.jpg",
+          "alt": "Ciudad de los huesos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pídele al capataz que comience las excavaciones, dile que buscas el Arpa lunar, y manda que caven en un círculo negro (como quemado) que hay en la parte de arriba, y que está algo tapado por el humo, ya te lo indicamos en Eliteguias con la imagen de arriba a la derecha. Pero no de cualquier forma... primero sitúa a 3 hombres alrededor de ese punto, sigue las instrucciones en pantalla y finalmente sitúate tú mismo en dicho punto para comenzar a escavar. Con esto conseguirás el Arpa Lunar."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bosque-dormido_1.jpg",
+          "alt": "Bosque dormido",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bosque-dormido_2.jpg",
+          "alt": "Bosque dormido",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora toma la salida de la izquierda en la parte superior para ir al Bosque dormido. Sal por el fondo y en la siguiente pantalla, antes de nada sigue el punto rojo que aparece y desaparece para conseguir la materia Kjata. Recoge el anillo acuoso del cofre tras el tronco y luego da media vuelta y métete en él para continuar hasta la siguiente pantalla, aquí sal al mapamundi y entonces entra en la Ciudad Olvidada, que está prácticamente al lado."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-olvidada_1.jpg",
+          "alt": "Ciudad Olvidada",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-olvidada_2.jpg",
+          "alt": "Ciudad Olvidada",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Explora los caminos laterales, ya que aparte de los objetos, por la izquierda podrás grabar la partida y por la derecha descansar en unas camas, y luego ve por el centro. Ve todo recto en la siguiente pantalla y luego entra en el edificio, recoge la materia en la parte de arriba y si ves un pez en la parte central es que no has descansado... así que ve hasta las camas para dormir un poco y cuando vuelvas (o directamente si ya lo habías hecho antes), en lugar del pez aparecerán unas escaleras por las que tienes que bajar. Al terminar de bajarlas, graba la partida, llega hasta a Aeris y mira la fatal escena... para luego, por si eso fuera poco, tener que enfrentarte a un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Segundo enfrentamiento con Jénova"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_jenova_2.jpg",
+          "alt": "Jénova",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La clave está en equiparte con el Anillo de agua antes de empezar el combate... con eso ya tienes la batalla ganada, ya que aunque con su atauqe mate al resto del equipo, el jugador que lo lleve equipado será inmune a su ataque y entonces tan solo será cuestión de tiempo el matarla, por muy poco daño que seas capaz de hacer con dicho personaje."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p11",
+    "disc": "CD 2",
+    "title": "Valle del Coral y acantilados de Gaea",
+    "href": "final-fantasy-vii-p11.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/valle-del-coral_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Valle del Coral y Acantilados de Gaea"
+        },
+        {
+          "type": "p",
+          "text": "Sigue a Sefirot por el camino por el que antes no podías pasar en la Ciudad olvidada y en la siguiente pantalla primero abre el cofre para conseguir un arma para Cid y luego trepa por la casa/concha para salir de allí por la parte superior izquierda."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_valle-del-coral_1.jpg",
+          "alt": "Valle del Coral",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Trepa por los huecos del desfiladero, abriendo los cofres por el camino, hasta que llegues a la tubería, por la que primero tendrás que bajar para conseguir la materia MP y luego sube para entrar en la cueva. Abre el cofre y luego sal al mapamundi."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_carambano_1.jpg",
+          "alt": "Carámbano",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tabla-snow.jpg",
+          "alt": "Tabla de Snow",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza hacia el Oeste por el único camino disponible hasta llegar al poblado Carámbano. La primera casa a la izquierda es una tienda de armas y a la derecha, la de más al fondo es una posada. Cuando estés listo, en la parte derecha, entra en la casa de la derecha para recoger el mapa de la pared. Entonces intenta salir por la parte superior y verás una escena en la que aparece Elena. Luego, de las casas de la derecha entra en la primera y habla con el niño para que te de su tabla de snow."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_snowboard.jpg",
+          "alt": "Snowboard",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Vuelve a la parte Norte del poblado y ahora ya podrás salir, teniendo que manejar la tabla de snow mientras desciendes por la montaña en ella. Es bastante sencillo, además ten en cuenta que ahora no hay ninguna puntuación a conseguir ni tiempo a batir, así que tómatelo con calma, llegarás si o si al final. Al aterrizar, ve hacia la derecha dos pantallas, cruza el lago y en la siguiente pantalla tendrás que saltar por los bloques de hielo, teniendo en cuenta que solo podrás pasar por los grandes y que estos irán cambiando, pudiendo quedarte atrapado sin más movimientos y caer al agua. En cualquier caso, cuando consigas cruzarlo llegarás a una cueva con un accesorio."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cabana-de-holzof.jpg",
+          "alt": "Cabaña de Holzof",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_acantilado_1.jpg",
+          "alt": "Acantilado",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Da media vuelta a la pantalla anterior al lago y continúa por la derecha. A partir de aquí realmente da igual que camino cojas, por que al cabo de un rato perderás el sentido y te llevarán a la cabaña de Holzof. Pasa a la habitación de al lado y presta atención a las indicaciones de escalada que te da. Luego sal afuera para reunirte con tus compañeros, cambia el grupo si quieres y luego sal por arriba."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_acantilado_2.jpg",
+          "alt": "Acantilado",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Subir por el acantilado es muy sencillo, simplemente asegúrate de subir la temperatura corporal cuando llegues a cada descanso de la montaña, tal y como te explicó Holzof en la cabaña. En cierto momento llegarás a una cueva. Aquí el objetivo será llegar a la parte superior para empujar una roca, la cual despejará el camino y te permitirá salir al exterior, en donde tendrás que seguir escalando."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_acantilado_3.jpg",
+          "alt": "Acantilado",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En la siguiente cueva graba la partida, sal por la derecha y da la vuelta a la montaña hasta entrar en otra cueva. Cuando entres en combate contra unos carámbanos, ataca a estos y olvídate de los murciélagos. Tras haber eliminado a todos los carámbanos, déjate caer a la parte de abajo y ya podrás pasar por la puerta. Atraviesa esa montaña del lado izquierdo y tras un breve paso por la misma cueva, tendrás que seguir escalando. En la siguiente cueva, graba la partida, restaura vida y PM en la fuente de al lado, sal por la derecha y avanza por el túnel hasta enfrentarte a un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Schizo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_schizo.jpg",
+          "alt": "Schizo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La cabeza de la derecha lanza fuego, y la de la izquierda, la que tiene cuernos, lanza hielo. Ataca con fuego a la parte que lanza hielo, y con hielo a la parte que lanza fuego. Por otro lado, es inmune a la gravedad y al veneno."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p12",
+    "disc": "CD 2",
+    "title": "El Cráter y la vuelta a Junon",
+    "href": "final-fantasy-vii-p12.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/crater_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El cráter y la vuelta a Junon"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_crater_1.jpg",
+          "alt": "Cráter",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_crater_2.jpg",
+          "alt": "Cráter",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando llegues a unas ocrrientes de aire, espera a que cese el viento y pasa rápido. En la segunda \"barrera\", aparte de esperar a que cese el viento, tendrás que esperar también a que pase la energía. Es bastante sencillo, el caso es que al poco rato tendrás que enfrentarte a un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Tercer encuentro con Jenova"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_jenova_3.jpg",
+          "alt": "Jenova",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "De nuevo, esto tiene \"truco\"... antes del combate, equipa a cualquier miembro de tu equipo con el Aro de Dragón, para hacerlo inmune al ataque de Jenova. Aparte de eso, lánzale Lento y usa la magia Cometa así como las invocaciones Bahamut y Neo Bahamut. Tras acabar con Jenova, elige si darle la materia negra a Barret o a Rred XIII, luego habla con Tifa y ve al Norte, no sin antes abrir el cofre y guardar la partida. En la siguiente pantalla tendrás que esperar a que cese el viento y que no te alcancen ni la energía ni los rayos (lo mismo que antes pero un poquito más complicado)."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_nibelheim_3.jpg",
+          "alt": "Nibelheim",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Al llegar al Nibelheim imaginario, verás una larga escena con breves partes en las que manejarás a Cloud y tendrás que hablar con tus compañeros y Sefirot, poco más hay que decir sobre esto."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_junon_1.jpg",
+          "alt": "Junon",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando estés en Junon, y controlando a Tifa, habla con Barret. Luego cuando lo manejes a él, sigue a Tifa (graba la partida de paso) y acabarás luchando automáticamente contra unos guardias, manejando a Cait Sith."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_junon_2.jpg",
+          "alt": "Junon",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Luego controlarás a Barret, así que intenta abrir la puerta de abajo a la izquierda, aunque no podrás. Tras la escena del ataque de Arma, volverás a manejar a Barret, así que sal de allí por la puerta frente a la que está Cait Sith, luego ve a la derecha y toma la siguiente salida. Ve \"hacia la pantalla\" hasta donde están los reporteros, que uno resulta ser Yuffie y se unirá al grupo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tifa.jpg",
+          "alt": "Tifa atrapada",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ve al eropuerto, sube por la plataforma activando su interruptor y ve a la derecha. Pasarás a manejar a Tifa y tendrás que seguir las indicaciones en pantalla para librarte, pulsando los botones para mover las piernas, cabeza y brazos, pudiendo (teniendo que) pulsar varios a la vez; es bastante intuitivo, así que no tendrás problemas."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_tifa_escarlata.jpg",
+          "alt": "Tifa & Escarlata",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando logres soltarte, primero pulsa el botón a la izquierda de la silla y luego intenta abrir la puerta. Tras la escena sal por el agujero del techo, baja hasta el propio cañón y corre por él. Al poco rato aparecerá Escarlata y os daréis un par de bofetadas, teniendo que pulsar el botón indicado en pantalla."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_viento-fuerte_1.jpg",
+          "alt": "Viento Fuerte - Puente",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Estando ya dentro del Viento Fuerte, ve al interior, acércate a donde está Barret y Cait Sith y luego sigue por esa plataforma para reunirte con tus compañeros en el puente de mando. Habla con todos ellos y finalmente con Cid. Luego sal de aquí y ve a la sala de operaciones para seleccionar a tu grupo, entonces regresa al puente y habla con el piloto junto a Cid para despegar."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mideel_1.jpg",
+          "alt": "Mideel",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_clinica-mideel.jpg",
+          "alt": "clínica de Mideel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Manejando a la nueva nave voladora (y que no va simplemente por el agua como el Potrillo), dirígete a la isla situada en la parte Sureste del mapa, y entra en el poblado de Mideel. Visita las tiendas para comprar algunas cosas si quieres, y luego ve a la parte Norte para encontrarte con Cloud en la clínica."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p13",
+    "disc": "CD 2",
+    "title": "Las materias enormes",
+    "href": "final-fantasy-vii-p13.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/reactor-corel.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Las materias enormes"
+        },
+        {
+          "type": "h3",
+          "text": "Primera materia enorme"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reactor-corel.jpg",
+          "alt": "reactor mako de Corel",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Empieza por ir a Corel del Norte, pasa por entre las tiendas para tomar la salida Norte y cruza el puente para llegar al reactor, teniendo que dar toda la vuelta por la zona de las vías."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_palancas-tren.jpg",
+          "alt": "palancas del tren",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando estés en la máquina del tren tienes que pulsar las palancas izquierda y derecha alternativamente pulsando los botones que indican en pantalla. Cuando alcances al tren y saltes a él, tienes que avanzar a pie por los vagones mientras derrotas a los enemigos, pero tan rápido como puedas, por que el tiempo límite de 10 minutos seguirá corriendo igual... recuerda no usar invocaciones y limitarte como mucho a magias y límites, y tampoco abras los menús. Cuando llegues al final, sigue las instrucciones en pantalla para pararlo."
+        },
+        {
+          "type": "h3",
+          "text": "Segunda materia enorme"
+        },
+        {
+          "type": "p",
+          "text": "La segunda estará en el Fuerte Cóndor, así que vamos hasta allí. Al llegar, sube y habla con el hombre al que diste dinero y entrarás otra vez en ese minijuego de estrategia. Igual que antes, como los soldados cuestan dinero, puedes dejarte invadir y luchar contra el jefazo directamente; aunque es recomendable que juegues con normalidad. Además, ten en cuenta que ahora hay más enemigos y será algo más complicado que en la anterior ocasión. Al ganar, pasa por la puerta que antes estaba cerrada y recoge la materia Fénix. Luego baja y habla con el hombre del sombrero que está sentado frente a la mesa para conseguir la segunda materia enorme."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_arma_1.jpg",
+          "alt": "Arma",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_mente-cloud.jpg",
+          "alt": "mente de Cloud",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Vuelve a Mideel, habla con Tifa y luego sal fuera par acombatir con Arma, aunque por ahora tan solo tienes que hacerla huir con invocaciones y límites (o con lo que puedas). Luego, con Tifa, habla con todos los Clouds que están en la zona inicial y mira una serie de escenas/diálogos, es todo completamente lineal y no hace falta que en Eliteguias te demos más explicaciones."
+        },
+        {
+          "type": "h3",
+          "text": "Tercera materia enorme"
+        },
+        {
+          "type": "p",
+          "text": "Tras lo ocurrido con la segunda materia y ya con Cloud de vuelta, dirígete a Junon para buscar la tercera. En el poblado de las afueras, págale al guardia junto al portón al fondo para que te deje pasar y luego sube en el elevador. Sal a la calle por la puerta de la izquierda y ve todo recto hasta llegar al pasillo donde están unos guardias desfilando, luego métete en el ascensor. Tras eliminar a los guardias y salir, elimina a otros más y avanza por el único camino hasta el siguiente elevador. Ve hacia arriba y atraviesa el pasillo bajo el agua. Pulsa el botón rojo en la sala del fondo y luego continúa hasta enfrentarte a un jefazo."
+        },
+        {
+          "type": "h4",
+          "text": "Boss: Robot de carga acorazado"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_robot-de-carga-acorazado.jpg",
+          "alt": "Robot de carga acorazado",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Está dividido en 3 partes, una parte principal y dos brazos. Los brazos pueden apresar a miembros de tu equipo, y si los atacas en ese momento, los personajes apresados también se llevan una parte de daño. Ataca primero a los brazos, e invoca a Ramuh y a Fénix cuando tus personajes estén muertos. Es inmune a Lento y a Parar. Tras el combate verás como Reno se escapa con la materia enorme... tú ve a la derecha para entrar en el submarino, pero no te olvides de abrir uno de los cofres a la izquierda para conseguir las Escamas de Leviatán."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_submarino_1.jpg",
+          "alt": "submarino",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_submarino_2.jpg",
+          "alt": "submarino",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Una vez dentro del submarino particparás en un nuevo minijuego, en el cual tienes que perseguir y destruir al submarino rojo guiándote con el sonar, algo que ya te explicarán en el propio juego, así que presta atención. Cuando logres eliminarlo, vuélvete a montar en el submarino y sumérgete para buscar el submarino rojo, que está en las costas cercanas al Templo de los Ancianos."
+        },
+        {
+          "type": "h3",
+          "text": "Cuarta materia enorme"
+        },
+        {
+          "type": "p",
+          "text": "Tan solo queda una y está en la Ciudad Cohete. El avión devería estar cerca de Junon, así que desembarca allí y móntate en el avión para dirigirte a Ciudad del cohete. Acércate al propio cohete y prepárate para un jefazo."
+        },
+        {
+          "type": "h4",
+          "text": "Boss: Rude"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_rude.jpg",
+          "alt": "Rude",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Estará acompañado por más soldados, así que encárgate primero de ellos y deja al propio Rude para el final. Utiliza ataques físicos, y si puedes ten algún límite preparado ya antes de la batalla, no es obligatorio pero si recomendado para facilitar las cosas. Aparte de eso, cuando mates a los soldados, usa Barrera en todo tu equipo, y a Rude atízale con lo más fuerte que tengas."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cohete.jpg",
+          "alt": "Cohete",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cohete_2.jpg",
+          "alt": "Cohete",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tras el combate, entra en el cohete y llega hasta la sala de control. Cuando despegues, ve a la derecha, sube la escalerilla e introduce el código que ya te indicará Cid en el propio juego, para conseguir así la cuarta y última materia enorme... bueno, en realidad Cid te dirá los botones que puedes pulsar pero no el orden, ni que estos se pueden repetir... para eso ya estamos en Eliteguias... tienes que pulsar Círculo, Cuadrado, X, X (lógicamente cambiará dependiendo de la plataforma en la que juegues, consulta la sección de trucos para cada plataforma en el menú de la guía). Después baja las escaleras junto a la entrada del cohete para ayudar a Cid y sigue a Shera hasta la cápsula de escape."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_materias-enormes.jpg",
+          "alt": "materias enormes",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando aterrices, dirígete al Cañón Cosmo y habla con Bugenhagen en el observatorio, entonces toca cualquiera de las materias enormes."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p17",
+    "disc": "CD 2",
+    "title": "El final del segundo disco",
+    "href": "final-fantasy-vii-p17.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/ciudad-olvidada_3.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El final del segundo disco"
+        },
+        {
+          "type": "p",
+          "text": "En Eliteguias te recomendamos que hagas lo siguiente: -Y por qué no, diviértete un poco en Gold Saucer."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_ciudad-olvidada_3.jpg",
+          "alt": "Ciudad Olvidada",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando hayas terminado todo eso (si quieres, claro), ya estarás automáticamente a bordo de la nave y tendrás que ir a la Ciudad Olvidada. En la primera intersección ve por la izquierda y avanza hasta esa pantalla donde te espera Bugenhagen. El problema es que necesitarás la \"Llave de los Ancianos\"..."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_llave-de-los-ancianos.jpg",
+          "alt": "Llave de los Ancianos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Esta llave está en el fondo del mar, en una cueva en las costas del Continente Norte. Si no la das encontrado, en Eliteguias te recomendamos que una vez montado en el submarino, te pegues a la pared y sin despegarte de ella, vayas todo a la derecha o todo a la izquierda. Vuelve a la cámara del cristal azul en la Ciudad Olvidada y usa la llave. Después dirígete a Midgar, aparca la nave y espera a que se acerque Arma a la costa."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Arma Diamante"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_arma-diamante.jpg",
+          "alt": "Arma Diamante",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_sector-8_1.jpg",
+          "alt": "Sector 8",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Después de tirarte en paracaídas (antes podrás cambiar a tu grupo), ve al callejón donde te esperan tus amigos y habla con Cait Sith para que abra la trampilla del suelo, luego baja por la escalerilla. Entonces avanza por una serie de escalerillas, escaleras y tuberías hasta llegar a un punto de guardado y una tubería al lado, por la que tienes que ir hasta encontrarte con varios jefazos."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Reno, Rude y Elena"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_reno_rude_elena.jpg",
+          "alt": "Reno, Rude y Elena",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Elena absorbe Rayo, Reno Hielo y Rude Fuego, asi que ya sabes... Aparte de eso, usa Bio contra todos ellos, así como invocaciones; por otro lado, procura tener mucha energía para este combate. Tras el combate, continúa hacia arriba por el túnel y en la bifurcación ve a la izquierda para enfrentarte a otro jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Bestia Orgullosa"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_bestia-orgullosa.jpg",
+          "alt": "Bestia Orgullosa",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Primero utiliza prisa en todo tu equipo, y ve curándote a medida que lo necesites. Para atacar usa invocaciones y límites. El límite de Barret (nivel 3 o 4) va bien, asi como el de Cloud. Usa también la magia Cometa. Al matarlo, sube las escaleras del Norte. Una vez arriba te encontrarás con Hojo, que te atacará en cuanto hables con él."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Hojo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_hojo.jpg",
+          "alt": "Hojo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Este ya es el último jefazo, además es bastante sencillo y no hace falta que en Eliteguias te demos ningún consejo contra él (está básicamente de adorno, sobre todo comparado con los anteriores)."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-p18",
+    "disc": "CD 3",
+    "title": "Cueva norte y batalla final",
+    "href": "final-fantasy-vii-p18.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-vii/cueva-norte_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Cueva norte y batalla final"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_1.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_2.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_3.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Sigue descendienco por los bordillos de la cueva hasta la siguiente pantalla donde tienes que seguir descendiendo saltando por bordillos y/o trepando para abrir todos los cofres, no tiene ninguna complicación, salvo lo tedioso de los combates."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_4.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando te reúnas con tus amigos, tendrás que elegir si ir por el camino de la derecha o por el de la izquierda, eligiendo de paso a los miembros del grupo. El camino de la izquierda tiene dos rutas, una superior y otra inferior. Aunque tampoco te preocupes puesto que son totalmente lineales y no te vas a perder. Si vas por el camino de la derecha, baja por la columna de piedra y al llegar abajo te encontrarás en una gran cueva. Sal por el Noreste, baja por el esqueleto y llegarás a una habitación con un agujero en el centro. Recórrelo en el sentido de las agujas del reloj y antes de llegar a un cofre, verás un hueco, que es el final del camino de la izquierda. Ahora puedes explorar toda la caverna. Sigue hacia la izquierda y baja por la escalera de piedra. Aquí te encontrarás con todos tus compañeros otra vez. Este es el momento para utilizar el cristal que te permite guardar la partida, así que asegúrate de hacerlo antes de comenzar La batalla final."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_5.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_cueva-norte_6.jpg",
+          "alt": "La cueva norte",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aparte del punto de guardado, habla con todos tus compañeros, ya que todos ellos tendrán algún objeto que darte. Luego acércate a los escalones de piedra y selecciona un nuevo grupo. Ahora salta de piedra en piedra hacia el centro. Te atacarán Dragones, Hombres de Hierro, algo complicadillos pero fáciles en comparación con lo que viene a continuación, que son los jefazos finales."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: El definitivo encuentro con Jenova"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_jenova_4.jpg",
+          "alt": "Jenova",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tiene tres puntos: El torso y los dos brazos. Ataca a todas las partes con las magias Cometa y Última, vamos, las que afectan a varios enemigos. Aparte de eso, evidentemente utiliza también invocaciones."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: El único, el inimitable, SEFIROT"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_sefirot_1.jpg",
+          "alt": "SEFIROT",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La primera parte es fácil... si tienes la materia de invocación Caballeros de la mesa redonda. Si es así, enlázala con la materia que hace que quite más energía. Entonces, cuando la utilices, solo una vez, ya lo matarás."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_juegos_final-fantasy-vii_sefirot_2.jpg",
+          "alt": "SEFIROT",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-limites-nivel-4",
+    "disc": "Extras",
+    "title": "Límites de Nivel 4",
+    "href": "final-fantasy-vii_limites-nivel-4.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Límites de Nivel 4"
+        },
+        {
+          "type": "p",
+          "text": "A continuación en Eliteguias te indicamos como conseguir los mejores límites, los de Nivel 4, para cada uno de los personajes, el resto de niveles son tan fáciles que no merece la pena mencionar cómo se obtienen."
+        },
+        {
+          "type": "h3",
+          "text": "Cloud"
+        },
+        {
+          "type": "h3",
+          "text": "Barret"
+        },
+        {
+          "type": "h3",
+          "text": "Tifa"
+        },
+        {
+          "type": "p",
+          "text": "Tienes que interactuar con el piano en la casa de Tifa durante el flashback (en un princpio no importa que opción selecciones). Luego cuando vayas con Cloud a Nibelheim ya en el presente, pulsa los botones que te indicamos a continuación para tocar la melodía. Finalmente, cuando manejes a Tifa mientras Cloud se recupera... ve otra vez junto al piano para conseguir el Evangelio Final. -PS1 X, Cuadrado, Triángulo, L1 + Triángulo, L1 + Cuadrado, X, Cuadrado, Triángulo, L1 + X, Círculo, X, Cuadrado, X -PSP X, Cuadrado, Triángulo, L1 + Triángulo, L1 + Cuadrado, X, Cuadrado, Triángulo, L1 + X, Círculo, X, Cuadrado, X -PC Suponiendo que tengas las teclas por defecto: C, Insert, V, Re Pág + V, Re Pág + Insert, C, Insert, V, Re Pág + C, X, C, Insert C -PS4 X, Cuadrado, Triángulo, L1 + Triángulo, L1 + Cuadrado, X, Cuadrado, Triángulo, L1 + X, Círculo, X, Cuadrado, X -Xbox One A, X, Y, LB + Y, LB + X, A, X, Y, LB + A, B, A, X, A, Menu -Switch A, Y, X, L+X, L+Y, A, Y, X, L+A, B, A, Y, A"
+        },
+        {
+          "type": "h3",
+          "text": "Yuffie"
+        },
+        {
+          "type": "h3",
+          "text": "Vincent"
+        },
+        {
+          "type": "p",
+          "text": "Ve a la cascada que está cerca de Junon al final del CD 2 con Vincent. Luego vuelve en el CD3 para conseguir Caos. A la cueva puedes acceder con con el submarino o con un chocobo dorado."
+        },
+        {
+          "type": "h3",
+          "text": "Red XIII"
+        },
+        {
+          "type": "h3",
+          "text": "Cid"
+        },
+        {
+          "type": "h3",
+          "text": "Cait Sith"
+        },
+        {
+          "type": "p",
+          "text": "En realidad Cait Sith solo tiene 2 límites... en cualquier caso, para conseguir el final, tan solo tienes que derrotar a 40 enemigos con él y ya lo recibirás."
+        },
+        {
+          "type": "h3",
+          "text": "Aeris"
+        },
+        {
+          "type": "p",
+          "text": "Tienes que combatir hasta tener 100 victorias. Entonces, con el Buggy vete a la costa del Sol y entra con coche y todo. Desde aquí, sube al barco y vete a Junon. Vete con el buggy algo hacia el Noreste. Llegarás a una cueva, con 2 piedras a los lados. Aquí hay un hombre durmiendo, que te dirá las victorias... etc, que llevas. Tu número de victorias tiene que ser mayor de 100 y sus dos últimas cifras tienen que ser iguales (100, 111, 122, 133, 144, 899, etc...), entonces habla con él y te dará el objeto especial Mithril. Ve al continente central pasando por Junon. Ve a la casa del herrero y háblale. Cuando suba las escaleras, coge el objeto que está en la caja pequeña que hay en la pared."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-chocobos",
+    "disc": "Extras",
+    "title": "Chocobos",
+    "href": "final-fantasy-vii_chocobos.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Chocobos"
+        },
+        {
+          "type": "h3",
+          "text": "Clases de Chocobos"
+        },
+        {
+          "type": "h4",
+          "text": "Chocobo amarillo"
+        },
+        {
+          "type": "p",
+          "text": "Es el chocobo normal y corriente que te permite ir por praderas y bosques."
+        },
+        {
+          "type": "h4",
+          "text": "Chocobo azul"
+        },
+        {
+          "type": "p",
+          "text": "Puede cruzar rios y mar poco profundo."
+        },
+        {
+          "type": "h4",
+          "text": "Chocobo verde"
+        },
+        {
+          "type": "p",
+          "text": "Puede cruzar montañas."
+        },
+        {
+          "type": "h4",
+          "text": "Chocobo negro"
+        },
+        {
+          "type": "p",
+          "text": "Puede cruzar rios, mar poco profundo y montañas."
+        },
+        {
+          "type": "h4",
+          "text": "Chocobo dorado"
+        },
+        {
+          "type": "p",
+          "text": "Puede ir por todo el mapa (montañas, rios, mar poco profundo y oceano)."
+        },
+        {
+          "type": "h3",
+          "text": "Criar los chocobos"
+        },
+        {
+          "type": "p",
+          "text": "Primero ve a la casa del sabio chocobo con la nave. Esta casa está al norte, cerca de la ciudad anciana. Una vez allí compra tantas verduras Sylkis como puedas (aunque compres 99, tendrás que volver a por más después). Ahora, para cazar un chocobo, ve a una península al este de Gold Saucer. Busca allí las huellas de chocobo y consigue un chocobo \"bueno\" (ya te lo indicarán cuando lo consigas). Si no consigues uno \"bueno\" sigue cazándolos hasta que te aparezcan. Tendrás que cazar uno macho y otro hembra. Tendrás que cazar otro tipo de chocobo \"grande\". Para ello ve al oeste de Mideel y busca las huellas de chocobos. Caza chocobos hasta que consigas un chocobo con una o dos espirales. Ve a la granja y mira cual de los dos chocobos es del sexo opuesto al chocobo \"grande\", y el otro lo quitas. Dale verduras Sylkis a los dos hasta que indiquen que ya no hay más mejoras. Una vez hecho eso, compite con ellos en Gold Saucer hasta que alcancen la clase A+. Ahora tendrás que coger unas nueces. Ve a una isla alargada que está un poco al sur del pueblo de los huesos para luchar con un animal parecido a un dinosaurio y robarle las \"nueces algarrobo\". Consigue muchas nueces (entre 20 y 30) y vuelve a la granja para aparear al chocobo \"bueno\" con el \"grande\". Aparealos hasta que te salgan un chocobo verde y otro azul (de sexo contrario), y sino, ya sabes, resetea y vuelve a intentarlo. Ahora que ya tienes uno azul y otro verde, dale verduras Sylkis hasta que no tengan mejoras y despues entrénalos en Gold Saucer hasta alcanzar el nivel A+. Aparealos con una nuez de algarrobo para conseguir un chocobo negro. Tienes que cazar otro chocobo más. Ve al continente del norte, cerca de la ciudad de los huesos y busca en la nieve las huellas de chocobos para cazar chocobos, hasta que el chocobo que te aparezca, venga acompañado por conejos en vez de lobos, este será el chocobo \"maravilloso\". Si es del sexo contrario al chocobo negro, mándalo al establo. Antes de volver tu al establo, ve a unas islas pequeñas que están en la derecha del mapa. Lucha contra unos duendes y róbales una nuez Zeio. Ahora si, vuelve al establo y alimenta al chocobo negro y al maravilloso hasta que no no haya mejoras, entrénalos hasta el nivel A+ y después aparealos. Por fin tendrás un chocobo dorado que puede ir por todo el mapa (aliméntalo y entrénalo tambien). También se puede conseguir el chocobo dorado matando al Arma Rubí, pero... mejor deja a las dos Armas para más adelante."
+        },
+        {
+          "type": "h3",
+          "text": "Carreras de Chocobos"
+        },
+        {
+          "type": "h3",
+          "text": "Chocobos campeones"
+        },
+        {
+          "type": "p",
+          "text": "Cuando apuestes por un chocobo, mantén pulsados los botones L1 L2 R1 y R2 de principio a fin y el Chocobo por el que apostaste será el vencedor."
+        },
+        {
+          "type": "h3",
+          "text": "Las zonas ocultas"
+        },
+        {
+          "type": "p",
+          "text": "En el mundo hay cuatro lugares accesibles solamente desde un chocobo. -La cueva cercana a Wutai donde encontrarás la muy útil materia \"gesticular\". -La cueva cercana a Corel donde encontrarás la materia \"pg/pm\". -La cueva cercana a Mideel donde se encuentra materia \"quadrimagia\". -La cueva en la Isla Circular al Noreste del mapa donde se esconde la poderosa materia \"Caballeros de la mesa Redonda\". Esta ultima isla no figura en el mapa y sólo es accesible desde un chocobo dorado."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-habilidades-enemigas",
+    "disc": "Extras",
+    "title": "Habilidades enemigas",
+    "href": "final-fantasy-vii_habilidades-enemigas.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Habilidades enemigas"
+        },
+        {
+          "type": "p",
+          "text": "A continuación en Eliteguias te indicamos todas las habilidades enemigas y cómo conseguirlas, para que no te pases horas dando vueltas mientras las buscas."
+        },
+        {
+          "type": "h3",
+          "text": "Aliento mágico"
+        },
+        {
+          "type": "p",
+          "text": "Lo tienen los cangrejos rojos del acantilado de Gaea (CD 2)."
+        },
+        {
+          "type": "h3",
+          "text": "Aqualung"
+        },
+        {
+          "type": "p",
+          "text": "Genova vida en el CD 1, en la serpiente del avión hundido (CD 2 o CD 3). O también lo puedes conseguir contra Quimera, alrededor de Gold Saucer."
+        },
+        {
+          "type": "h3",
+          "text": "Beta"
+        },
+        {
+          "type": "p",
+          "text": "La aprenderás de la serpiente gigante de Midgar, en el lago que hay al lado de la granja de chocobos."
+        },
+        {
+          "type": "h3",
+          "text": "Caja de pandora"
+        },
+        {
+          "type": "p",
+          "text": "La tiene el mismo tipo que te dio la Flama de Sombra."
+        },
+        {
+          "type": "h3",
+          "text": "Canto de rana"
+        },
+        {
+          "type": "p",
+          "text": "En el bosque que hay antes de llegar al Cañón Cosmo, lucha contra los sapos."
+        },
+        {
+          "type": "h3",
+          "text": "Chocobuckle"
+        },
+        {
+          "type": "p",
+          "text": "Primero consigue el suicidio nivel 4, luego ve a la zona que rodea Midel o por el rancho de Chocobos y busca un chocobo. Cuando te apaezca uno, si éste chocobo tiene un nivel que es múltiplo de 4, utiliza el Suicidio Nivel 4 contra el y el chocobo utilizará chocohebilla contra ti."
+        },
+        {
+          "type": "h3",
+          "text": "Flama de sombra"
+        },
+        {
+          "type": "p",
+          "text": "Igual que el anterior, aunque ahora debes luchar contra la criatura arácnida."
+        },
+        {
+          "type": "h3",
+          "text": "Fuerza del Dragón"
+        },
+        {
+          "type": "p",
+          "text": "Busca al dragón negro que hay en el tramo final, mejor que lo manipules."
+        },
+        {
+          "type": "h3",
+          "text": "Fuerza mortal"
+        },
+        {
+          "type": "p",
+          "text": "En la costa Oeste del Continente Oeste, la gran tortuga."
+        },
+        {
+          "type": "h3",
+          "text": "Gran Guardia"
+        },
+        {
+          "type": "p",
+          "text": "En la costa de Gongaga, las conchas con tentáculos."
+        },
+        {
+          "type": "h3",
+          "text": "Lanzallamas"
+        },
+        {
+          "type": "p",
+          "text": "En la mina de Mitrilo, lucha contra los dragones voladores."
+        },
+        {
+          "type": "h3",
+          "text": "Láser"
+        },
+        {
+          "type": "p",
+          "text": "Lo tiene el mismo dragón que el que tenía Fuerza de Dragón. Manipúlalo."
+        },
+        {
+          "type": "h3",
+          "text": "Magia de Matra"
+        },
+        {
+          "type": "p",
+          "text": "Lo tiene el Custom Sweeper de la zona de Midgar."
+        },
+        {
+          "type": "h3",
+          "text": "Mal aliento"
+        },
+        {
+          "type": "p",
+          "text": "Lo tienen los Malboros, en el cráter."
+        },
+        {
+          "type": "h3",
+          "text": "Martillo mágico"
+        },
+        {
+          "type": "p",
+          "text": "En el foso que hay al Norte del Continente Oeste, está mezclado con las criaturas vegetales."
+        },
+        {
+          "type": "h3",
+          "text": "Muerte nivel 5"
+        },
+        {
+          "type": "p",
+          "text": "Consíguelo gracias a los mismos enemigos que te dieron el Aliento mágico."
+        },
+        {
+          "type": "h3",
+          "text": "Puñetazo Goblin"
+        },
+        {
+          "type": "p",
+          "text": "En las islas que hay al Noreste, lucha contra los Goblins con guantes que hay allí."
+        },
+        {
+          "type": "h3",
+          "text": "Ruleta"
+        },
+        {
+          "type": "p",
+          "text": "Apréndela del Tratante de Muerte. Puedes encontrarlo en la misma zona que el susurro del Angel y el mal aliento."
+        },
+        {
+          "type": "h3",
+          "text": "Sentencia de muerte"
+        },
+        {
+          "type": "p",
+          "text": "En la cueva que Buggenhagen te enseñó en Cañón Cosmo. También lo puedes conseguir de los grastoda (unas bolas con pinchos), entre el Bosque dormido y la Ciudad de los ancianos."
+        },
+        {
+          "type": "h3",
+          "text": "Suicidio Nivel 4"
+        },
+        {
+          "type": "p",
+          "text": "Apréndelo de las ardillas que hay alrededor del pueblo de los huesos, en la isla que hay al lado."
+        },
+        {
+          "type": "h3",
+          "text": "Susurro del Angel"
+        },
+        {
+          "type": "p",
+          "text": "Tienes que manipular a la chica del cráter y usarlo contra ti."
+        },
+        {
+          "type": "h3",
+          "text": "Trino"
+        },
+        {
+          "type": "p",
+          "text": "La tiene el guardián de materia de las montañas de Nibelheim. También lo puedes conseguir en el Acantilado de Gaea (CD 2) de los cangrejos rojos."
+        },
+        {
+          "type": "h3",
+          "text": "Viento Albo"
+        },
+        {
+          "type": "p",
+          "text": "Lo conseguirás del cactus volador verde y blanco que hay cerca de Junon."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-arma-rubi-esmeralda",
+    "disc": "Extras",
+    "title": "Arma Ruby & Arma Esmeralda",
+    "href": "final-fantasy-vii_arma-rubi-esmeralda.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Arma Ruby & Arma Esmeralda"
+        },
+        {
+          "type": "p",
+          "text": "Los dos enemigos secundarios \"invencibles\" de Final Fantasy VIII son las ARMAS: Esmeralda (la del agua) y Rubí (la del desierto). Aunque muchos digan lo contrario, en Eliteguias consideramos más complicada el Arma Esmeralda. 1 - Matar al Arma Rubí para así conseguir que el viajero de Kalm te de la materia submarina, con la cual eliminarás el problema del tiempo en la batalla contra el Arma Esmeralda. Y después con el chocobo dorado consigue la invocacion de los caballeros de la mesa redonda en la cueva que se encuentra en la Isla Circular al noroeste del mapa. Estas dos cosas te harán la batalla un poco más fácil. 2 - Si te gustan las emociones fuertes, pasa de conseguir la invocación de los caballeros de la mesa redonda (la consigues despues de matar a las armas) y de eliminar el tiempo. De esta manera es muy difícil vencer, por no decir imposible. Es una locura, pero poder... se puede. El Arma Esmeralda tiene un ataque especial que te quita toda la energía. Entonces... ¿que más da que tengas la invocación de los caballeros, que quites el tiempo y que tengas todo al máximo nivel? Resulta que ese ataque, por cada materia que tengas equipada, te quita 1.000 HP... por lo tanto la clave está en llevar solo las materias imprescindibles, cuantas menos, como habrás podido deducir, mejor. Y sinceramente, esa es la mayor dificultad del combate."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-equipo",
+    "disc": "Extras",
+    "title": "Equipo",
+    "href": "final-fantasy-vii_equipo.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Equipo"
+        },
+        {
+          "type": "p",
+          "text": "Listado con todas las armas para cada uno de los personajes que hay disponibles en el juego."
+        },
+        {
+          "type": "h3",
+          "text": "CLOUD"
+        },
+        {
+          "type": "h4",
+          "text": "Espada Mortal"
+        },
+        {
+          "type": "p",
+          "text": "Cloud comienza con este arma equipada."
+        },
+        {
+          "type": "h4",
+          "text": "Sable Mitrilo"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 1.000 gil en la tienda de armas de Kalm."
+        },
+        {
+          "type": "h4",
+          "text": "Borde Duro"
+        },
+        {
+          "type": "p",
+          "text": "Aparte de poder robárselo a los Soldados de 3ª del Cuartel de Shinra también podrás comprarlo por 1.500 Gil en una de las tiendas de armas de Junon."
+        },
+        {
+          "type": "h4",
+          "text": "Ladrón"
+        },
+        {
+          "type": "p",
+          "text": "Podrás conseguirlo al superar con más de 100 puntos en la ceremonia de despedida en Junon o comprándolo por 2.200 Gil en Corel."
+        },
+        {
+          "type": "h4",
+          "text": "Borde Mariposa"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 2.800 gil en la tienda del Cañón Cosmos."
+        },
+        {
+          "type": "h4",
+          "text": "Hoja Runa"
+        },
+        {
+          "type": "p",
+          "text": "Mientras vas desde Nibelhiem hasta el Reactor del Monte Nibel coge el pequeño sendero de la derecha y te llevará hasta un cofre que contiene esta arma."
+        },
+        {
+          "type": "h4",
+          "text": "Yoshiyuki"
+        },
+        {
+          "type": "p",
+          "text": "Este arma de la dará el señor anciano que hay en Ciudad Cohete y no para de observar al mismo si tienes la paciencia suficiente de charlar con él."
+        },
+        {
+          "type": "h4",
+          "text": "Murasame"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Wutai por 6.500 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Garra"
+        },
+        {
+          "type": "p",
+          "text": "Debajo del reloj en el Templo de los Ancianos podrás conseguir esta arma tras derrotar a 2 dragones."
+        },
+        {
+          "type": "h4",
+          "text": "Orgánica"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo en Iciclos por 12.000 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Super Espada"
+        },
+        {
+          "type": "p",
+          "text": "La encontrarás en un cofre en el Acantilado de Gaea."
+        },
+        {
+          "type": "h4",
+          "text": "Espada Cristal"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 18.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Apocalipsis"
+        },
+        {
+          "type": "p",
+          "text": "La conseguirás en el Bosque perdido."
+        },
+        {
+          "type": "h4",
+          "text": "Nubecielo"
+        },
+        {
+          "type": "p",
+          "text": "La encontrarás en el Avión hundido."
+        },
+        {
+          "type": "h4",
+          "text": "Ragnarok"
+        },
+        {
+          "type": "p",
+          "text": "La recibirás tras vencer la Bestia orgullosa de Heidgger y Escarlata."
+        },
+        {
+          "type": "h4",
+          "text": "Arma Final"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma para Cloud, la recibirás si consigues derrotar a arma Última."
+        },
+        {
+          "type": "h3",
+          "text": "AERITH"
+        },
+        {
+          "type": "h4",
+          "text": "Porra"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con ella equipada."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Mitrilo"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 370 gil en el mercado muro del Sector 6."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Metal"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 800 gil en la tienda de Kalm."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Golpeadora"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Junon por 1.300 gil, aunque también se la puedes robar a Eligor en el Cementerio de Trenes del Sector 7."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Prisma"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en el Cañón Cosmo por 2.600 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Wizer"
+        },
+        {
+          "type": "p",
+          "text": "La recibirás tras acabar con Nattak Gi en la Cueva de Cañón Cosmo."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Magica"
+        },
+        {
+          "type": "p",
+          "text": "Se encuentra en las vías del tren que van hacia Corel."
+        },
+        {
+          "type": "h4",
+          "text": "Paraguas"
+        },
+        {
+          "type": "p",
+          "text": "Este será tu premio si consigues, en el CD 1, más de 5.000 puntos en el Speed Square de Gold Saucer."
+        },
+        {
+          "type": "h4",
+          "text": "Cuento"
+        },
+        {
+          "type": "p",
+          "text": "La conseguirás tras la batalla contra Reno y Ruda en la selva de Gongaga."
+        },
+        {
+          "type": "h4",
+          "text": "Vara Aurora"
+        },
+        {
+          "type": "p",
+          "text": "Cómprasela por 5.800 gil al dependiente de la tienda de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Guarda Princesa"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma de Aerith, la encontrarás en el Templo de los ancianos."
+        },
+        {
+          "type": "h3",
+          "text": "TIFA"
+        },
+        {
+          "type": "h4",
+          "text": "Guante de piel"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con ella equipada."
+        },
+        {
+          "type": "h4",
+          "text": "Gran Guante"
+        },
+        {
+          "type": "p",
+          "text": "Es posible robárselo a Madouge en el cementerio de trenes, y también lo puedes comprar en una tienda de Junon por 1.200 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Nudillo Metal"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 320 gil en el Mercado muro."
+        },
+        {
+          "type": "h4",
+          "text": "Garra Mitrilo"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Kalm por 750 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Colmillo Tigre"
+        },
+        {
+          "type": "p",
+          "text": "Podrás cómpralo por 2.500 Gil en el Cañón Cosmo."
+        },
+        {
+          "type": "h4",
+          "text": "Fuerza Motor"
+        },
+        {
+          "type": "p",
+          "text": "Se encuentra en un cofre en Costa del Sol."
+        },
+        {
+          "type": "h4",
+          "text": "Puño Platino"
+        },
+        {
+          "type": "p",
+          "text": "Te lo darán en Nibelhiem."
+        },
+        {
+          "type": "h4",
+          "text": "Alma Poder"
+        },
+        {
+          "type": "p",
+          "text": "Consíguela introduciéndote por la tubería 2 en el Reactor del Monte Nibel."
+        },
+        {
+          "type": "h4",
+          "text": "Nudillo Diamante"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo en Wutai por 5.800 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Guante Trabajo"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Templo de los Ancianos."
+        },
+        {
+          "type": "h3",
+          "text": "Nudillo Kaiser"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Cráter poco después de vencer a Schizo de dos cabezas."
+        },
+        {
+          "type": "h4",
+          "text": "Garra Dragon"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo en la tienda de Iciclos por 10.000 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Guante Cristal"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 16.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Mano de Dios"
+        },
+        {
+          "type": "p",
+          "text": "Tras vencer a Port-Armadura en el Reactor submarino de Junon."
+        },
+        {
+          "type": "h4",
+          "text": "Corazón"
+        },
+        {
+          "type": "p",
+          "text": "En la caseta de objetos del mercado muro volviendo allí en el segundo CD."
+        },
+        {
+          "type": "h3",
+          "text": "BARRET"
+        },
+        {
+          "type": "h4",
+          "text": "Arma Abrir"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con ella equipada."
+        },
+        {
+          "type": "h4",
+          "text": "Arma Asalto"
+        },
+        {
+          "type": "p",
+          "text": "La recibes al destruir al Escorpión metálico."
+        },
+        {
+          "type": "h4",
+          "text": "Bala Cañon"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 350 gil en la tienda de Kalm."
+        },
+        {
+          "type": "h4",
+          "text": "Tijera Atomica"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en la tienda de Junon por 1.400 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Bazoka"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 3.300 gil en la tienda de Costa del Sol."
+        },
+        {
+          "type": "h4",
+          "text": "Metralleta W"
+        },
+        {
+          "type": "p",
+          "text": "Consíguela en las vías del tren de Corel."
+        },
+        {
+          "type": "h4",
+          "text": "Vulcano Pesado"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 2.700 gil en la tienda del Cañón Cosmos."
+        },
+        {
+          "type": "h4",
+          "text": "Lanza Enemigos"
+        },
+        {
+          "type": "p",
+          "text": "La encontrarás en la Mansión Shinra."
+        },
+        {
+          "type": "h4",
+          "text": "Taladro"
+        },
+        {
+          "type": "p",
+          "text": "Se encuentra en la casa de Cid."
+        },
+        {
+          "type": "h4",
+          "text": "Motosierra"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala por 6.300 gil en la tienda de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Golpe Cohete"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Templo de los ancianos."
+        },
+        {
+          "type": "h4",
+          "text": "Microlaser"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Iciclos por 12.000 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Cañón A-M"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo en Mideel por 12.000 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Rayo Maximo"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Sector 8 cuando vuelvas a Midgar."
+        },
+        {
+          "type": "h4",
+          "text": "Punto Errado"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma de Barret la conseguirás en el Cañon Mako antes de enfrentarte a Hojo."
+        },
+        {
+          "type": "h3",
+          "text": "NANAKI"
+        },
+        {
+          "type": "h4",
+          "text": "Clip Mitrilo"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con él equipado."
+        },
+        {
+          "type": "h4",
+          "text": "Peine Mágico"
+        },
+        {
+          "type": "p",
+          "text": "Consíguelo en batalla de Fuerte Condor."
+        },
+        {
+          "type": "h4",
+          "text": "Barreta Plata"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo en la tienda del Cañón Cosmos por 2.500 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Cuerno Behemot"
+        },
+        {
+          "type": "p",
+          "text": "Se encuentra en la gran escalera de emergencia del Edificio Shinra."
+        },
+        {
+          "type": "h4",
+          "text": "Aguja Diamantada"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Junon por 1.300 gil."
+        },
+        {
+          "type": "h4",
+          "text": "Barreta Plus"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás dentro de un cofre en el monte Nibel."
+        },
+        {
+          "type": "h4",
+          "text": "Horquilla"
+        },
+        {
+          "type": "p",
+          "text": "En la casa de Godo en Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Barreta Oro"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en la tienda de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Clip Adaman"
+        },
+        {
+          "type": "p",
+          "text": "Hazte con él en la tienda de Iciclos por 11.000 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Centclip"
+        },
+        {
+          "type": "p",
+          "text": "En Costa del Sol dentro de un cofre."
+        },
+        {
+          "type": "h4",
+          "text": "Clip Pistola"
+        },
+        {
+          "type": "p",
+          "text": "En el Bosque perdido."
+        },
+        {
+          "type": "h4",
+          "text": "Peine Cristal"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 17.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Luna Limitada"
+        },
+        {
+          "type": "p",
+          "text": "A Nanaki le darán su mejor arma Bugenaghen si vuelve a Cañón Cosmo."
+        },
+        {
+          "type": "h3",
+          "text": "CID"
+        },
+        {
+          "type": "h4",
+          "text": "Lanza"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con ella equipada."
+        },
+        {
+          "type": "h4",
+          "text": "Lanza Mortal"
+        },
+        {
+          "type": "p",
+          "text": "Cómprala en Wutai por 6.500 Gil."
+        },
+        {
+          "type": "h4",
+          "text": "Lanza Dragón"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en las estatuas Dao-Shio de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Tridente"
+        },
+        {
+          "type": "p",
+          "text": "Consíguela en el Templo de los ancianos."
+        },
+        {
+          "type": "h4",
+          "text": "Fregador"
+        },
+        {
+          "type": "p",
+          "text": "Encuentralo excavando en la ciudad de los huesos."
+        },
+        {
+          "type": "h4",
+          "text": "Vibora Halberd"
+        },
+        {
+          "type": "p",
+          "text": "La encontrarás en el Valle Coral."
+        },
+        {
+          "type": "h4",
+          "text": "Hacha"
+        },
+        {
+          "type": "p",
+          "text": "Cómpraselo por 13.000 guil al vendedor de Iciclos."
+        },
+        {
+          "type": "h4",
+          "text": "Javalina"
+        },
+        {
+          "type": "p",
+          "text": "Encuéntralo en el acantilado de Gaea."
+        },
+        {
+          "type": "h4",
+          "text": "Partisano"
+        },
+        {
+          "type": "p",
+          "text": "Cómpraselo por 19.000 gil al dependiente de la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Cimitarra"
+        },
+        {
+          "type": "p",
+          "text": "En un cofre cercano al submarino que hay en el Reactor submarino de Junon."
+        },
+        {
+          "type": "h4",
+          "text": "Lanza Espiritu"
+        },
+        {
+          "type": "p",
+          "text": "La encontrarás en el fondo del mar dentro del Avión hundido."
+        },
+        {
+          "type": "h4",
+          "text": "Cruel"
+        },
+        {
+          "type": "p",
+          "text": "Consigue más de 5.000 puntos en el Speed Square de Gold Saucer en el CD 2 para obtener este arma."
+        },
+        {
+          "type": "h4",
+          "text": "Evangelio Venus"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma para Cid. Habla con el mismo señor que te dio la Yoshiyuki para Cloud y te dará esta arma."
+        },
+        {
+          "type": "h3",
+          "text": "CAITH SITH"
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Amarillo"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con él equipado."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Blanco"
+        },
+        {
+          "type": "p",
+          "text": "Encuéntralo en un cofre de Gongaga. M-Fono Plata Está en el interior de un cofre de la Mansión Shinra."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Negro"
+        },
+        {
+          "type": "p",
+          "text": "En las cuevas Gi del Cañón Cosmo."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Verde"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 2.400 gil en Cañón Cosmo."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Azul"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 5.500 Gil en la tienda de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Oro"
+        },
+        {
+          "type": "p",
+          "text": "Conseguirás este arma en la Costa del Sol."
+        },
+        {
+          "type": "h4",
+          "text": "Armazón"
+        },
+        {
+          "type": "p",
+          "text": "Consíguelo en el Templo de los Ancianos."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Rojo"
+        },
+        {
+          "type": "p",
+          "text": "Cómpraselo al dependiente de la tienda de Iciclos por 11.000 gil."
+        },
+        {
+          "type": "h4",
+          "text": "M-Fono Cristal"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 18.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Trompeta"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Reactor Submarino de Junon."
+        },
+        {
+          "type": "h4",
+          "text": "Fono Luz"
+        },
+        {
+          "type": "p",
+          "text": "Encuéntralo en el Sector 8."
+        },
+        {
+          "type": "h4",
+          "text": "Grito de PG"
+        },
+        {
+          "type": "p",
+          "text": "Su mejor arma la encontrarás en el edificio Shinra si vuelves en el CD 2."
+        },
+        {
+          "type": "h3",
+          "text": "YUFFIE"
+        },
+        {
+          "type": "h4",
+          "text": "Shuriken Cuatro Puntos"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con él equipado."
+        },
+        {
+          "type": "h4",
+          "text": "Ventolera"
+        },
+        {
+          "type": "p",
+          "text": "En un cofre del Barco que te lleva a Costa del Sol."
+        },
+        {
+          "type": "h4",
+          "text": "Boomerang"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 1.400 gil en Gongaga."
+        },
+        {
+          "type": "h4",
+          "text": "Molinillo"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 2.600 gil en la tienda de Cañón Cosmo."
+        },
+        {
+          "type": "h4",
+          "text": "Serpiente Bicefala"
+        },
+        {
+          "type": "p",
+          "text": "Lo conseguirás en un cofre de la Mansión Shinra."
+        },
+        {
+          "type": "h4",
+          "text": "Anillo Corte"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 6.000 gil en Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Shuriken Magico"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en las Estatuas Dao-Shio de Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Halcon"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 2.000 gil en la tienda de Iciclos."
+        },
+        {
+          "type": "h4",
+          "text": "Cruz de Cristal"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 18.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Conformar"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma de Yuffie la encontrarás en el Avión hundido."
+        },
+        {
+          "type": "h3",
+          "text": "VINCENT"
+        },
+        {
+          "type": "h4",
+          "text": "Mercurio"
+        },
+        {
+          "type": "p",
+          "text": "Comienza con él equipado."
+        },
+        {
+          "type": "h4",
+          "text": "Pacificador"
+        },
+        {
+          "type": "p",
+          "text": "Está en un cofre de Kalm."
+        },
+        {
+          "type": "h4",
+          "text": "Cañón Largo R"
+        },
+        {
+          "type": "p",
+          "text": "Dentro de un cofre en Costa del Sol."
+        },
+        {
+          "type": "h4",
+          "text": "CR Francotirador"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Monte Nibel."
+        },
+        {
+          "type": "h4",
+          "text": "Cañón Corto"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 6.400 Gil en Wutai."
+        },
+        {
+          "type": "h4",
+          "text": "Bala"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 3.100 gil en Ciudad Cohete."
+        },
+        {
+          "type": "h4",
+          "text": "Rifle"
+        },
+        {
+          "type": "p",
+          "text": "Encuéntralo de un Cofre en el Templo de los Ancianos."
+        },
+        {
+          "type": "h4",
+          "text": "Lazo"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 12.000 gil en Iciclos."
+        },
+        {
+          "type": "h4",
+          "text": "Winchester"
+        },
+        {
+          "type": "p",
+          "text": "Cómpralo por 18.000 gil en la tienda de Mideel."
+        },
+        {
+          "type": "h4",
+          "text": "Forastero"
+        },
+        {
+          "type": "p",
+          "text": "Lo encontrarás en el Avión hundido."
+        },
+        {
+          "type": "h4",
+          "text": "Súper ST"
+        },
+        {
+          "type": "p",
+          "text": "Se encuentra en el Bosque perdido."
+        },
+        {
+          "type": "h4",
+          "text": "Pena de Muerte"
+        },
+        {
+          "type": "p",
+          "text": "La mejor arma de Vincent la encontrarás volviendo a la cueva de la cascada donde te reencontraste con Lucrecia."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Consulta la guía del Remake ."
+          ]
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-experiencia-dinero",
+    "disc": "Extras",
+    "title": "Experiencia y Dinero",
+    "href": "final-fantasy-vii_experiencia-dinero.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Experiencia y Dinero"
+        },
+        {
+          "type": "p",
+          "text": "El mejor sitio para conseguir experiencia y dinero está en la isla de Mideel. Dentro del bosque hay unos bichos que te dan unos 2.000 puntos de experiencia y 200 puntos para la materia. Fuera del bosque están los que te dan mucho dinero. Otra forma de conseguir dinero fácil es la siguiente: Todas las materias al venderlas en nivel maestro ganas mucho más teniendolas en otros niveles. La materia \"todos\" es la que más dinero te da, pero tambien necesita muchos puntos de experiencia para estar en nivel maestro. La más \"equilibrada\" es la materia \"comando\", necesita 40.000 de experiencia y te da 600.000 giles al venderla. Pues bien, compra tanta materia de esa como ranuras tengan tus armas y armaduras. Ahora quita toda la materia que tuvieses antes equipada (apúntala en un papel para volverla a poner luego como estaba, si quieres) y llénalo todo con la materia Comando. Ahora lucha hasta tenerla a nivel maestro, y de una sola vez puedes ganar en vez de 600.000 giles que vale una, unos 20 millones."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-noticias-tortugas",
+    "disc": "Extras",
+    "title": "Noticias del paraíso de las tortugas",
+    "href": "final-fantasy-vii_noticias-paraiso-tortugas.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Noticias del Paraíso de las Tortugas"
+        },
+        {
+          "type": "p",
+          "text": "Los mensajes del paraíso de las tortugas están en los siguientes lugares: Cuando los hayas leído todos, ve al bar de Wutai y lee el cartel de afuera. Entonces entra y habla con el camarero y éste te entregará varios objetos como recompensa."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-dano-triple",
+    "disc": "Extras",
+    "title": "Daño triple",
+    "href": "final-fantasy-vii_dano-triple.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Daño triple"
+        },
+        {
+          "type": "p",
+          "text": "Cuando te enfrentes a un enemigo cualquiera, hay una forma de causarle el daño multiplicado por tres. No es una habilidad o equipamiento concreto, sino un pequeño truco que te explicamos a continuación en Eliteguias. Lo primero es que debes tener la materia Barrera equipada y lanzar Reflejo a todo tu equipo, entonces lanza cualquier magia que esté combinada con la materia Todos sobre tu propio grupo y dicha magia rebotará no una sino tres veces contra el enemigo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-minijuego-mog",
+    "disc": "Extras",
+    "title": "Minijuego de Mog",
+    "href": "final-fantasy-vii_minijuego-mog.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Minijuego de Mog"
+        },
+        {
+          "type": "p",
+          "text": "Todos los minijuegos que hay en el parque de atracciones de Gold Saucer tienen que ver únicamente con tu habilidad con el mando... pero hay uno en concreto en el que tienes que hacer volar a Mog . Este consiste únicamente en alimentarle con nueces para que pueda volar, siendo la dificultad en que no puedes ni pasarte (no podrá volar por el peso) ni quedarte corto (no tendrá fuerzas). Pues bien, la primera vez tienes que darle 5 nueces y la segunda sólo 3. La parte mala es que no hay ningún tipo de recompensa por esto."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff7-curiosidades",
+    "disc": "Extras",
+    "title": "Curiosidades",
+    "href": "final-fantasy-vii_curiosidades.php",
+    "content": {
+      "title": "Guía Final Fantasy VII",
+      "intro": "",
+      "image": "https://cdn.eliteguias.com/img/linea_gui.gif",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Curiosidades"
+        },
+        {
+          "type": "h3",
+          "text": "El desfile de Junon"
+        },
+        {
+          "type": "p",
+          "text": "En el desfile de Junon tienes que seguir los pasos de los soldados y dependiendo de la audiencia que consigas recibirás unos premios u otros: 29% o superior obtendrás 1 granada. Entre 30 y 39% obtendrás 6 pociones. Entre 40 y 49% obtendrás 6 éteres. Igual o superior a 50 % obtendrás 5000 Gil."
+        },
+        {
+          "type": "h3",
+          "text": "La ceremonia de despedida"
+        },
+        {
+          "type": "p",
+          "text": "Antes de ir en barco al nuevo continente tendrás que realizar junto al resto de soldados una pequeña ceremonia de despedida, según como lo hagas recibirás puntos con los que te darán un regalo: De 00 a 49 puntos: Vasos de plata. De 50 a 99 puntos: Materia Super PG. Más de 100 puntos: Arma Ladrón para Cloud."
+        },
+        {
+          "type": "h3",
+          "text": "Taberna de la Abeja"
+        },
+        {
+          "type": "p",
+          "text": "En la Taberna de la Abeja, mira por la rendija de las puertas de la derecha, podrás observar a Cait Sith, pero además de ello, en una de ellas si miras bien hay dos miembros de Shinra poniendo verde al Presidente. Si miras hacia la izquierda verás que están dando una película, pues esa película por las letras que salen trata de un chico con una enorme espada que busca la tierra prometida."
+        },
+        {
+          "type": "h3",
+          "text": "7777 de daño"
+        },
+        {
+          "type": "p",
+          "text": "Cuando te encuentres en medio de una batalla crucial si tienes la suerte de que tu estado de vida quede en 7777 tu personaje se volverá incontrolable atacando al enemigo causándole un daño de 7777 puntos de vida."
+        },
+        {
+          "type": "h3",
+          "text": "El mareo de Cloud"
+        },
+        {
+          "type": "p",
+          "text": "En la montaña rusa de Gold Saucer sube alrededor de unas 10 veces y Cloud se mareará y tendrá que irse a vomitar."
+        },
+        {
+          "type": "h3",
+          "text": "El perro de Junon"
+        },
+        {
+          "type": "p",
+          "text": "En Junon hay un perro que no te deja pasar por una puerta, pero si después de conseguir el submarino Junon pierdes en la batalla, el perro ya no estará y podrás conseguir un submarino de distinto color."
+        },
+        {
+          "type": "h3",
+          "text": "Sepiroth más fuerte"
+        },
+        {
+          "type": "p",
+          "text": "Si a la batalla final llegas con nivel 99 en todos tus personajes, Sepiroth (la segunda forma) será mucho más dificil."
+        },
+        {
+          "type": "h3",
+          "text": "Cita en Gold Saucer"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff7/img_linea_gui.gif",
+          "alt": "Final Fantasy VII",
+          "caption": ""
+        }
+      ]
+    }
+  }
+]

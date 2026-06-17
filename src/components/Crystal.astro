@@ -1,0 +1,22 @@
+---
+// Icono cristal para sidebar / progreso
+interface Props {
+  filled?: boolean;
+  size?: number;
+  class?: string;
+}
+const { filled = false, size = 14, class: cls = "" } = Astro.props;
+---
+<svg
+  viewBox="0 0 14 14"
+  width={size}
+  height={size}
+  fill={filled ? "var(--color-crystal)" : "none"}
+  stroke={filled ? "var(--color-crystal-2)" : "var(--color-text-mute)"}
+  stroke-width="1.2"
+  class={cls}
+  aria-hidden="true"
+>
+  <path d="M7 1 L12.5 5.5 L10 12 L4 12 L1.5 5.5 Z" />
+  <path d="M7 1 L7 12 M1.5 5.5 L12.5 5.5 M4 12 L10 5.5 M10 12 L4 5.5" stroke-width="0.5" opacity="0.5" />
+</svg>

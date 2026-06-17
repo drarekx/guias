@@ -1,0 +1,80 @@
+---
+import type { Block } from "../lib/guide";
+interface Props { blocks: Block[]; pageTitle?: string; }
+const { blocks, pageTitle = "" } = Astro.props;
+
+function slugify(s: string) {
+  return s.toString().toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+// Normaliza para comparar sin acentos/mayus/espacios
+function norm(s: string) {
+  return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+// Filtra: primer h2 si coincide con el título de la página (duplicado)
+const filtered = (() => {
+  const target = norm(pageTitle);
+  let droppedFirst = false;
+  return blocks.filter((b) => {
+    if (!droppedFirst && b.type === "h2" && norm(b.text) === target) {
+      droppedFirst = true;
+      return false;
+    }
+    return true;
+  });
+})();
+---
+<div class="prose-guide">
+  {filtered.map((b) => {
+    if (b.type === "h2") return <h2 id={slugify(b.text)}>{b.text}</h2>;
+    if (b.type === "h3") return <h3 id={slugify(b.text)}>{b.text}</h3>;
+    if (b.type === "h4") return <h4 id={slugify(b.text)}>{b.text}</h4>;
+    if (b.type === "p") return <p>{b.text}</p>;
+    if (b.type === "ul") return <ul>{b.items.map((i) => <li>{i}</li>)}</ul>;
+    if (b.type === "ol") return <ol>{b.items.map((i) => <li>{i}</li>)}</ol>;
+    if (b.type === "img") {
+      return (
+        <figure class="my-7">
+          <img src={b.src} alt={b.alt} title={b.caption} loading="lazy" />
+          {(b.caption || b.alt) && <figcaption class="text-center text-[0.8rem] text-[var(--color-text-mute)] mt-2 italic">{b.caption || b.alt}</figcaption>}
+        </figure>
+      );
+    }
+    if (b.type === "table") {
+      const [head, ...rest] = b.rows;
+      return (
+        <div class="overflow-x-auto my-6">
+          <table>
+            {head && (
+              <thead>
+                <tr>{head.map((c) => <th>{c}</th>)}</tr>
+              </thead>
+            )}
+            <tbody>
+              {rest.map((r) => <tr>{r.map((c) => <td>{c}</td>)}</tr>)}
+            </tbody>
+          </table>
+        </div>
+      );
+    }
+    return null;
+  })}
+</div>
+
+<script is:inline>
+  // Heading anchors: añade un anchor discreto al pasar el ratón
+  document.querySelectorAll(".prose-guide h2, .prose-guide h3, .prose-guide h4").forEach((h) => {
+    if (!h.id) return;
+    h.style.position = "relative";
+    h.style.cursor = "pointer";
+    h.addEventListener("click", () => {
+      const url = new URL(window.location.href);
+      url.hash = h.id;
+      history.replaceState(null, "", url);
+      navigator.clipboard?.writeText(url.toString());
+    });
+  });
+</script>

@@ -1,0 +1,3242 @@
+[
+  {
+    "slug": "ff10-p1",
+    "disc": "Walkthrough",
+    "title": "El comienzo",
+    "href": "final-fantasy-x-p1.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/brote-de-sinh-emus.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El comienzo"
+        },
+        {
+          "type": "p",
+          "text": "Después de ver la intro, cuando controles a Tidus habla con la gente y elige el nombre del personaje. Después de otra pequeña escena sigue todo hacia delante, avanza entre la gente y mira otra gran escena. Cuando acabe, anda un poco y te encontrarás con Auron. Cuando tomes el control de Tidus de nuevo, será un pequeño tutorial de combate. Ve eliminando a los monstruos hasta encontrarte con el primer boss del juego."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brote de Sinh, Emús"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_brote-de-sinh-emus.jpg",
+          "alt": "Brote de Sinh, Emús",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "No tiene mucha complicación, simplemente atácalo sin parar. -VIT: 2.400 -PM: 400 Estadísticas -Fuerza: 1 -Defensa física: 1 -Poder mágico: 5 -Defensa mágica: 1 -Rapidez: 9 -Suerte: 10 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: - -Guiles: -"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p2",
+    "disc": "Walkthrough",
+    "title": "Ruinas marinas",
+    "href": "final-fantasy-x-p2.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/josguein.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Ruinas marinas"
+        },
+        {
+          "type": "p",
+          "text": "Simplemente avanza hasta el punto rojo al Norte del mapa. Graba la partida y continua avanzando hacia el Norte, sin olvidarte del cofre que hay tomando el desvío de la izquierda para conseguir una \"Ultrapoción\". Un poco más adelante caerás al agua, así que tan solo sumérgete, elimina a un par de enemigos y entrará en escena un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Josguein"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_josguein.jpg",
+          "alt": "Josguein",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Este tampoco tiene mucha complicación, atácalo sin más un par de veces y no hará falta ni que te cures. -VIT: 32.767 -PM: 128 Estadísticas -Fuerza: 36 -Defensa física: 50 -Poder mágico: 40 -Defensa mágica: 50 -Rapidez: 48 -Suerte: 15 -Evasión: 0 -Puntería: 50 Elementos -Fuego: x1.5 -Rayo: x1.5 -Agua: x1.5 -Frío: x1.5 -Sanctus: x1.5 Recompensas -PH: 0 -Guiles: 0 Una vez dentro de las ruinas, sube por las escaleras (o lo que queda de ellas) y en la siguiente sala cuando recuperes el control primero graba la partida. Después ve a la habitación del Suroeste para recoger \"Yesca y pedernal\". Acto seguido ve al Norte, sube las escaleras y recoge \"Flores secas\". Antes de nada, pasa por la puerta que está ahí mismo para conseguir una \"Ultrapoción\". Ahora regresa al piso de abajo y enciende el fuego con esos objetos que acabas de conseguir. Una pequeña escena y tocará otro combate contra un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Krik"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_krik.jpg",
+          "alt": "Krik",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora si que se te pueden complicar algo las cosas y no se tratará de simplemente atacar sin más, teniendo que utilizar también las pociones para curarte cuando sea necesario. En cierto momento se unirá a ti un personaje nuevo con el que podrás atacar al jefazo con granadas. -VIT: 1.500 -PM: 5 Estadísticas -Fuerza: 14 -Defensa física: 1 -Poder mágico: 1 -Defensa mágica: 1 -Rapidez: 4 -Suerte: 15 -Evasión: 0 -Puntería: 50 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 5 -Guiles: 50"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p3",
+    "disc": "Walkthrough",
+    "title": "Los Al Bhed",
+    "href": "final-fantasy-x-p3.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/thros.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Los Albhed"
+        },
+        {
+          "type": "p",
+          "text": "Una vez en el agua, no tienes más que sumergirte y seguir hasta el punto rojo del mapa. Al entrar en las ruinas sumergidas (por otra zona diferente a la anterior en donde te encontraron), primero graba la partida y luego avanzar por la zona será muy sencillo ya que el camino es completamente lineal y tan solo tienes que ir activando un par de mecanismos."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Thros"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_thros.jpg",
+          "alt": "Thros",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Con Rikku usa las granadas y róbaselas si se te acaban y con Tidus usa la técnica “ánimo” una o dos veces y después continua atacando normalmente. Cúrate cuando lo necesites y en el momento que te den la opción de comandos especiales puedes elegir entre esperar a que te ataque el boss y mientras recuperar un poco de energía o rodearle y atacarle tú. -VIT: 2.200 -PM: 10 Estadísticas -Fuerza: 10 -Defensa física: 1 -Poder mágico: 1 -Defensa mágica: 1 -Rapidez: 12 -Suerte: 15 -Evasión: 0 -Puntería: 20 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 8 -Guiles: 100"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p4",
+    "disc": "Walkthrough",
+    "title": "Isla Besaid",
+    "href": "final-fantasy-x-p4.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/besaid_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Isla Besaid"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_1.jpg",
+          "alt": "Isla de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Vete hacia donde la gente y cuando tengas el control, sigue a Wakka, mira el diálogo, graba la partida y continua. Simplemente vete siguiendo los puntos rojos del mapa (si vas por el fondo del lago podrás coger algunos objetos) mientras combates contra unos cuantos enemigos."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_2.jpg",
+          "alt": "Templo de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_3.jpg",
+          "alt": "Templo de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Al despertar, regresa al templo y tras hablar con Wakka entrarás automáticamente en el recinto de la prueba. Sigue por orden los pasos que te indicamos a continuación en Eliteguias. -Toca la pared del fondo y luego el símbolo de la derecha. -Baja por las escaleras y recoge la Esfera de Obstrucción para ponerla en la puerta que hay más adelante. -Una vez abierta la puerta coge la esfera de ella y colócala en el siguiente hueco de la pared de la izquierda. -En la sala que se revela verás una esfera de destrucción pero no la cojas todavía. En lugar de eso avanza hasta que veas un pedestal vacío y toca la pared de enfrente para conseguir una Esfera de Besaid que deberás colocar en dicho pedestal. -Vuelve hacia atrás para recoger la Esfera de destrucción y colócala en el sitio en el que habías recogido la esfera de besaid que pusiste en el pedestal. -Ve hasta el fondo del pasillo y en la sala que acabas de desbloquear abre el cofre para conseguir una \"Vara de sabio\". -Ahora si, mueve el pedestal con la esfera de besaid ya colocada en él hasta el punto brillante del fondo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_5.jpg",
+          "alt": "Templo de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_4.jpg",
+          "alt": "Templo de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Mira una serie de escenas con Wakka y el resto de compañeros y luego sal del templo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_6.jpg",
+          "alt": "Eón Valefor",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_7.jpg",
+          "alt": "Besaid",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_8.jpg",
+          "alt": "Besaid",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_besaid_9.jpg",
+          "alt": "Perro de Besaid",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Antes de salir de Besaid, vuelve al poblado y vete a la tienda de items, compra una poción (sólo cuesta 50 guiles) y te dirá algo sobre el perro; pues ahora vete a la casa de más arriba a la derecha y habla con el perro para que te de \"una cosa llena de babas\", que resulta ser el segundo turbo de Valefor \"Lluvia de muerte\". Si el perro no está en la tienda, puede estar en la parte de arriba a la izquierda del poblado, por donde la casa de la Legión. Es muy importante que lo hagas ahora, por que después tendrás que vencer al Eón oscuro para poder volver a entrar al pueblo."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p5",
+    "disc": "Walkthrough",
+    "title": "En el barco hacia Kilika",
+    "href": "final-fantasy-x-p5.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/sinh.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "En el barco hacia Kilika"
+        },
+        {
+          "type": "p",
+          "text": "Sal de esa habitación y ve por la de abajo a la derecha para grabar la partida. Ahora regresa al exterior a la cubierta del barco para hablar primero con Wakka y después con Yuna cuando la gente se quite del medio. Tras una escena con ella tendrá lugar una batalla contra un par de jefazos."
+        },
+        {
+          "type": "h3",
+          "text": "B oss: Sinh"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_sinh.jpg",
+          "alt": "Sinh",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "El objetivo principal será atacar a la aleta, lo cual solo podrás hacerlo a distancia (con Wakka, Lulu o con invocaciones), del resto de enemigos menores olvídate. Cuando lo mates mira la secuencia y prepárate para otro boss más. -VIT: 2.000 -PM: 100 Estadísticas -Fuerza: 1 -Defensa física: 1 -Poder mágico: 1 -Defensa mágica: 1 -Rapidez: 6 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 10 -Guiles: 100"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brote de Sinh, Ekyu"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_brote-de-sinh-ekyu.jpg",
+          "alt": "Brote de Sinh, Ekyu",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aquí olvídate también de los esbirros que son las pirañas y céntrate en el jefazo. Ciégalo con la habilidad de wakka y después atácalo normalmente, curándote cuando te haga falta. Lanza un par de “ánimos” con Tidus. No dejes que tu vida baje de 150 más o menos ya que lanzará un ataque que te quita precisamente esa cantidad de vida. -VIT: 2.000 -PM: 205 Estadísticas -Fuerza: 10 -Defensa física: 1 -Poder mágico: 15 -Defensa mágica:1 -Rapidez: 5 -Suerte: 15 -Evasión: 0 -Puntería: 15 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 12 -Guiles: 115"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p6",
+    "disc": "Walkthrough",
+    "title": "Puerto Kilika",
+    "href": "final-fantasy-x-p6.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/yuna-funeral.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Puerto Kilika"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yuna-funeral.jpg",
+          "alt": "Yuna en el funeral",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_puerto-kilika_1.jpg",
+          "alt": "Puerto Kilika",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_puerto-kilika_2.jpg",
+          "alt": "Puerto Kilika",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora continua hacia la izquierda de la taberna y en la siguiente pantalla acércate a ese niño para salvarlo cuando se derrumbe la estructura en la que está. Vuelve a la pantalla anterior y entra en la taberna para abrir el cofre con un \"Éter\" como recompensa por haberlo ayudado."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p7",
+    "disc": "Walkthrough",
+    "title": "Bosque de Kilika",
+    "href": "final-fantasy-x-p7.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/bosque-de-kilika_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Bosque de Kilika"
+        },
+        {
+          "type": "p",
+          "text": "Nada más llegar al bosque al salir de los muelles en el Puerto, graba la partida en la esfera que hay al principio."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bosque-de-kilika_1.jpg",
+          "alt": "Bosque de Kilika",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Al fondo verás un gigantesco Ochú, pero antes de ir a por él, ve por la derecha para abrir un cofre con \"Esfera de magia\" x2 y luego por la izquierda para conseguir el arma \"Cazatalentos\" para Wakka. Ahora puedes continuar por el camino de la izquierda para pasar de largo al Ochú o bien enfrentarte a él, que es lo que vamos a hacer en Eliteguias."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Ochú extraviado"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_ochu-extraviado.jpg",
+          "alt": "Ochú extraviado",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Usa magias de fuego con quien puedas (lo normal es que sea con Lulu) y con los demás, ataques físicos y límites. Tampoco te debería de resultar muy complicado. -VIT: 4.649 -PM: 39 Estadísticas -Fuerza: 15 -Defensa física: 1 -Poder mágico: 23 -Defensa mágica:1 -Rapidez: 8 -Suerte: 20 -Evasión: 0 -Puntería: 10 Elementos -Fuego: x1.5 -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 40 -Guiles: 420 Cuando lo mates tendrás automáticamente una conversación con Luzzu y con el resto, al acabar vuelve a hablar con Luzzo para que te de un \"Elixir\". Ahora continua hasta la marca roja del mapa al Norte, graba la partida y sube las escaleras hasta arriba del todo para enfrentarte a otro boss más."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brote de Sinh, Guno"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_brote-de-sinh-guno.jpg",
+          "alt": "Brote de Sinh, Guno",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Primero tienes que matar a los tentáculos y después ya te centras en él. Cuando tenga el caparazón cerrado atácale con magia, ya que los ataques físicos apenas le harán nada. Cuando le hayas hecho el suficiente daño y abra el caparazón, ya podrás atacarle también físicamente. -VIT: 3.000 -PM: 30 Estadísticas -Fuerza: 15 -Defensa física: 1 -Poder mágico: 10 -Defensa mágica: 1 -Rapidez: 7 -Suerte: 0 -Evasión: 0 -Puntería: 100 Elementos -Fuego: x1.5 -Rayo: - -Agua: Absorbe -Frío: - -Sanctus: - Recompensas -PH: 48 -Guiles: 300"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p8",
+    "disc": "Walkthrough",
+    "title": "Templo de Kilika",
+    "href": "final-fantasy-x-p8.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/templo-de-kilika.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Templo de Kilika"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-kilika.jpg",
+          "alt": "Templo de Kilika",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Coge la Esfera de Kilika del pedestal y ponla en la puerta. -Quita la esfera de esa puerta y ponla en la pared del fondo para que aparezca un símbolo sobre ella. -Vuelve a quitar la esfera de ahí y ponla a un lado cualquiera de la sala, simplemente para hacer hueco, por que recuerda que solo puedes llevar una a la vez. -Toca el símbolo de la pared que ha aparecido hace un rato y continua por el nuevo camino revelado. -En la sala de fuego recoge la Esfera de Kilika que está en la pared de la derecha, regresa a la habitación anterior y ponla en el hueco de la pared que esté libre. -Recoge la Esfera de Obstrucción del pedestal y ponla en la pared del fuego donde recogiste la esfera anterior. Con esto se habrá apagado el fuego y abierto la puerta justo ahí mismo. -Sitúate sobre el punto brillante del suelo y automáticamente aparecerá un pedestal en esa misma sala. -Ve a la habitación anterior y coge cualquiera de las dos Esferas de Kilika y colócala en el pedestal. -Ahora arrastra ese pedestal hacia el punto brillante donde te pusiste encima antes. Si por cualquier razón te equivocas y el pedestal queda en una zona en la que no lo puedas mover, simplemente vuelve a colocarte tú sobre el punto brillante y el pedestal volverá al punto de origen. -Baja a la parte de abajo y recoge la Esfera de Kilika para colocarla en la puerta del fondo. -Quita dicha esfera de la puerta tras haberla quemado y regresa a la primera sala para colocarla en el hueco que qulede libre. -Antes de continuar, recoge la Esfera de Destrucción en la pequeña sala de la parte de arriba a la derecha, ve abajo para colocarla en el hueco de la pared donde habías recogido la esfera tras haber caído el pedestal y abre el cofre para conseguir una \"Placa de Hefesto\" (protección para Kimahri)."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-kilika_2.jpg",
+          "alt": "Templo de Kilika",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-kilika_3.jpg",
+          "alt": "Templo de Kilika",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora si, pasa por la puerta del fondo para encontrarte con tus compañeros. Habla con ambos una vez más y cuando intentes salir de esa sala verás una escena en la que aparece Yuna y consigues a Ifrit como nuevo eón."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p9",
+    "disc": "Walkthrough",
+    "title": "En el barco hacia Luca",
+    "href": "final-fantasy-x-p9.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/wakka-y-lulu.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "En el barco hacia Luca"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_wakka-y-lulu.jpg",
+          "alt": "Wakka y Lulu",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Si en los partidos de blizball quieres tener una ventaja considerable, tienes que hacer lo siguiente antes de hablar con Yuna."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_chut-de-jecht_1.jpg",
+          "alt": "Chut de Jecht",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_chut-de-jecht_2.jpg",
+          "alt": "Chut de Jecht",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Vete hacia donde está el balón en la cubierta, después de ver la escena ya te dirán en pantalla lo que tienes que hacer. Hazlo bien y conseguirás una jugada IMPRESCINDIBLE para los partidos de bliztball, el Chut de Jecht ."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yuna-y-tidus.jpg",
+          "alt": "Yuna y Tidus",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p10",
+    "disc": "Walkthrough",
+    "title": "Luca",
+    "href": "final-fantasy-x-p10.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/seymour_mica.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Luca"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_seymour_mica.jpg",
+          "alt": "Seymour y Mica",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_vestuario-luca.jpg",
+          "alt": "Vestuario de Luca",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_auditorio-de-luca.jpg",
+          "alt": "Auditorio de Luca",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_kimahri_1.jpg",
+          "alt": "Kimahri",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_blitzball_1.jpg",
+          "alt": "Blitzball",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En cualquier caso, ahora tan solo tienes que ir siguiendo las marcas rojas del mapa junto con Yuna hasta llegar a la taberna en donde aparte de una pelea de Kimahri con los de su raza, verás como empieza el partido de bitzball y secuestran a Yuna. Ahora tan solo tiene que ir hacia donde indica la marca roja en el mapa, enfrentándote a un par de enemigos mecánicos de los albhed por el camino, hasta que finalmente llegue la hora de hacerlo con el boss. No te olvides de grabar la partida antes."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Artillero Albhed"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_artillero-albhed.jpg",
+          "alt": "Artillero Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La clave está en utilizar la grúa con el comando especial de Tidus para causarle una enorme cantidad de daño al boss, más de 4000 puntos, aunque no podrás hacerlo directamente, sino que primero tendrás que activar dicha grúa lanzándole la magia rayo 3 veces con Lulu. Mientras tanto ataca normalmente al jefazo y/o cúrate. -VIT: 6.000 -PM: 10 Estadísticas -Fuerza: 16 -Defensa física: 1 -Poder mágico: 1 -Defensa mágica: 1 -Rapidez: 1 -Suerte: 0 -Evasión: 0 -Puntería: 10 Elementos -Fuego: 1/2 -Rayo: 1/2 -Agua: 1/2 -Frío: 1/2 -Sanctus: 1/2 Recompensas -PH: 36 -Guiles: 580"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_blitzball_2.jpg",
+          "alt": "Blitzball",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tras el partido tendrás que luchar contra unas pirañas ahí mismo en el terreno de juego. Cuando acabes con todas pasarás a manejar únicamente a Auron y luego ya se le unirán Tidus y Wakka para luchar contra un Garuda volador. Al terminar con él verás una secuencia en la que Seymour utiliza a su propio Eón para acabar con los enemigos."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p11",
+    "disc": "Walkthrough",
+    "title": "Camino de Miihen",
+    "href": "final-fantasy-x-p11.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/belgemine.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Camino de Miihen"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_belgemine.jpg",
+          "alt": "Belgemine",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza por el único camino disponible mientras combates contra algunos enemigos y sin olvidarte de hablar con los npcs que te encuentres para que te den algunos objetos así como los de los cofres que habrá por el camino. Fíjate también por el lado derecho del camino para hablar con Belgemine, la cual pondrá a prueba a tus Eones. Si pierdes no pasará absolutamente nada, pero si ganas conseguirás un \"Anillo sonoro\". Si quieres facilitar las cosas, en Eliteguias te recomendamos que tengas los turbos de los eones preparados ya antes de la pelea."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_camino-de-miihen_1.jpg",
+          "alt": "Camino de Miihen",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "A partir de aquí más de lo mismo, siendo de especial mención por un lado Luzzu y Gatta y por otro Shelinda. Así que habla con todos ellos y en la siguiente pantalla llegarás a una tienda en la que poder comprar objetos, descansar y grabar la partida."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Comechocobos"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_comechocobos.jpg",
+          "alt": "Comechocobos",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Si tu vitalidad llega a cero entonces será Game Over claramente, pero si te arroja por el precipicio no pasará nada, lo único es que continuarás por otra zona, aunque es mejor que no te tire e ir por el camino \"normal\". Pues bien, empieza por cegarlo con Wakka y después atácalo normalmente. En ciertos momentos se quedará tumbado boca abajo, así que aprovecha entonces para atacarle con lo más fuerte que tengas, con lo cual serás tú quien le haga retroceder a él, ganando así espacio. -VIT: 10.000 -PM: 5 Estadísticas -Fuerza: 25 -Defensa física: 25 -Poder mágico: 20 -Defensa mágica: 35 -Rapidez: 12 -Suerte: 15 -Evasión: 0 -Puntería: 25 Elementos -Fuego: x1.5 -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 90 -Guiles: 970"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_camino-de-miihen_2.jpg",
+          "alt": "Camino de Miihen",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p12",
+    "disc": "Walkthrough",
+    "title": "Senda de las Rocas Hongo",
+    "href": "final-fantasy-x-p12.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/senda-de-las-rocas-hongo_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Senda de las Rocas Hongo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_senda-de-las-rocas-hongo_1.jpg",
+          "alt": "Senda de las Rocas Hongo",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_senda-de-las-rocas-hongo_2.jpg",
+          "alt": "Senda de las Rocas Hongo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En cierto momento aparecerá un individuo que te informará de que Seymour te espera en el puesto de mando. De frente no podrás pasar, así que ve por la izquierda, graba la partida y móntate en la plataforma para subir en ella."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_senda-de-las-rocas-hongo_3.jpg",
+          "alt": "Senda de las Rocas Hongo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Al llegar al punto que te indicamos en Eliteguias con la imagen de arriba, abre primero el cofre que tienes de frente para conseguir \"1000 guiles\" y después ve por la izquierda para encontrar otro que contiene una \"Panacea\". Abre el siguiente cofre de más adelante que contiene una \"Ultrapoción\" y sube por la plataforma del fondo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_senda-de-las-rocas-hongo_4.jpg",
+          "alt": "Senda de las Rocas Hongo",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_senda-de-las-rocas-hongo_5.jpg",
+          "alt": "Senda de las Rocas Hongo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Una vez arriba poco más hay que decir, tan solo unas cuantas escenas/diálogos, un punto para grabar la partida, Oaka al lado para venderte cosas, y un par de cofres en el campamento. Cuando estés listo, habla con el individuo indicado y de nuevo verás más escenas, seguidas del combate contra un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brote de Sinh, Guiu"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_brote-de-sinh-guiu.jpg",
+          "alt": "Brote de Sinh, Guiu",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Céntrate en eliminar primero su cabeza (con Wakka o Lulu), luego sus brazos (con Auron o Kimahri) y finalmente el cuerpo atácalo con lo que quieras. Cuando lo hayas derrotado no te relajes mucho por que tras la escena aún tendrás un combate más contra otro jefazo igualito (o el mismo resucitado...). Pero esta vez además de que tiene menos salud, manejarás a Seymour, el cual tiene magias bastante poderosas (no como sus ataques físicos, que dejan bastante que desear). -VIT: 12.000 -PM: 30 Estadísticas -Fuerza: 29 -Defensa física: 1 -Poder mágico: 2' -Defensa mágica: 30 -Rapidez: 10 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 400 -Guiles: 1.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p13",
+    "disc": "Walkthrough",
+    "title": "Templo de Djose",
+    "href": "final-fantasy-x-p13.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/templo-de-djose_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Templo de Djose"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-djose_1.jpg",
+          "alt": "Templo de Djose",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-djose_2.jpg",
+          "alt": "Templo de Djose",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La bifurcación de más adelante en realidad no será una bifurcación por que solo te dejan tomar un único camino, el cual te lleva al Templo de Djose. Antes de entrar, abre el cofre de la izquierda junto al chocobo y el que está detrás de la tienda de la derecha. Compra algo si lo necesitas, graba la partida y ve al interior del templo. Una vez dentro, pero antes de pasar al recinto de la prueba, recoge el cofre junto a la puerta de la habitación del Norte y después entra en ambas salas para recoger también los cofres de dentro. Cuando vayas al recinto de la prueba, haz por orden lo que te indicamos a continuación en Eliteguias. -Coge cada una de las dos Esferas de Djose que hay en la pared y pon ambas en la puerta. -En la siguiente sala verás un pedestal y dos Esferas de Djose en la pared justo enfrente. Tienes que coger esas dos esferas y colocarlas en los huecos de la pared a la derecha para hacer aparecer un pedestal en el techo. -Ahora empuja el pedestal del suelo hacia la derecha para que quede justo debajo del que está en el techo. -Recoge la Esfera de Djose especial del pedestal del suelo y colócala a la derecha de la puerta para abrirla. -Recoge ambas Esferas de Djose de la pared y ponlas en el pedestal del suelo. -Ahora coloca a Tidus en el punto brillante de la izquierda para situar el pedestal en su posición original del centro y empújalo hacia arriba para que pase por la puerta que acabas de abrir. -Tienes que empujarlo hasta tirarlo al hueco de los rayos, para que quede flotando y puedas cruzarlo. Hazlo y activa el pedestal que hay al otro lado. -Regresa a la sala anterior para situarte sobre el punto brillante y devolver el pedestal de nuevo a su posición inicial. -Coge ambas esferas del pedestal y colócalas en los huecos de la pared en la habitación del Sur, la inicial. -Regresa a donde está el pedestal y coge la esfera que está en la parte derecha de la puerta para ponerla del lado izquierdo, formando así una plataforma en donde estaba el pedestal. -Antes de nada ve al lado izquierdo y toca el símbolo de la pared para coger una Esfera de destrucción. -Sube por la plataforma y empuja los 5 pedestales para abrir la puerta que da a unas escaleras. -Antes de subir por ellas, coloca la Esfera de Destrucción en el pedestal que está ahí mismo para destruir la pared y revelar un cofre que contiene una \"Esfera Poder Mágico\"."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p14",
+    "disc": "Walkthrough",
+    "title": "Río de la Luna",
+    "href": "final-fantasy-x-p14.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/rio-de-la-luna_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Río de la Luna"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rio-de-la-luna_1.jpg",
+          "alt": "Río de la Luna",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rio-de-la-luna_2.jpg",
+          "alt": "Río de la Luna",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Recoge el cofre y continua por el camino, sin olvidarte del cofre por la parte derecha. Al poco rato te encontrarás con Belgemine, la cual volverá a poner a prueba a tus Eones. Sin importar si ganas o pierdes, te dará \"Escama de dragón\" x2 y un \"Alma de invocador\", un objeto con el que podrás adiestrar a tus Eones enseñándoles nuebas habilidades."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rio-de-la-luna_3.jpg",
+          "alt": "Río de la Luna",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Un poco más adelante recoge el cofre que hay a la izquierda y avanza hasta la siguiente pantalla, en donde verás una escena frente al Río de la Luna. Tras ver pasar a un Shupaf, abre el cofre, comercia con Oaka, habla con Yuna y Kimahri y ve a la siguiente pantalla."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rio-de-la-luna_4.jpg",
+          "alt": "Río de la Luna",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rio-de-la-luna_5.jpg",
+          "alt": "Río de la Luna",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Habla con todo el mundo y ve a la pantalla de la izquierda. Tras el diálogo abre el cofre, graba la partida y vuelve a la pantalla anterior para hablar con el de azul subiendo esas pequeñas escaleras. Dile que ya estás listo para montarte en el elefante (el Shupaf) y tras una escena prepárate para enfrentarte al boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Jaula Albhed"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_jaula-albhed.jpg",
+          "alt": "Jaula Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En esta pelea lucharás sólo con Tidus y Wakka. Usa ánimo y prisa en los dos personajes y atácalo normalmente, curándote cuando lo necesites. -VIT: 4.000 -PM: 10 Estadísticas -Fuerza: 23 -Defensa física: 1 -Poder mágico: 15 -Defensa mágica: 1 -Rapidez: 15 -Suerte: 15 -Evasión: 0 -Puntería: 30 Elementos -Fuego: 1/2 -Rayo: x1.5 -Agua: 1/2 -Frío: 1/2 -Sanctus: 1/2 Recompensas -PH: 660 -Guiles: 2.400"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rikku.jpg",
+          "alt": "Rikku",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p15",
+    "disc": "Walkthrough",
+    "title": "Guadosalam",
+    "href": "final-fantasy-x-p15.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/guadosalam.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Guadosalam"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_guadosalam.jpg",
+          "alt": "Guadosalam",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_guadosalam_2.jpg",
+          "alt": "Guadosalam",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_guadosalam_3.jpg",
+          "alt": "Guadosalam",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_guadosalam_4.jpg",
+          "alt": "Guadosalam",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando recuperes el control, sal de la mansión y tras hablar con tus compañeros sube a la parte alta del poblado para ir al Etereo, en donde verás una serie de escenas y tendrás que hablar con tus compañeros, en especial con Yuna."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_guadosalam_5.jpg",
+          "alt": "Guadosalam",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p16",
+    "disc": "Walkthrough",
+    "title": "Llanura de los rayos",
+    "href": "final-fantasy-x-p16.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/llanura-de-los-rayos_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Llanura de los rayos"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-los-rayos_1.jpg",
+          "alt": "Llanura de los rayos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-los-rayos_2.jpg",
+          "alt": "Llanura de los rayos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-los-rayos_3.jpg",
+          "alt": "Llanura de los rayos",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-los-rayos_4.jpg",
+          "alt": "Llanura de los rayos",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p17",
+    "disc": "Walkthrough",
+    "title": "Bosque de Macalania",
+    "href": "final-fantasy-x-p17.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/bosque-de-macalania_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Bosque de Macalania"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bosque-de-macalania_1.jpg",
+          "alt": "Bosque de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bosque-de-macalania_2.jpg",
+          "alt": "Bosque de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Por el camino de la derecha por poder puedes ir, pero no te llevará a ningún lado, así que continua por el de la izquierda y avanza por el único sitio disponible hasta llegar a la siguiente zona, sin olvidarte de abrir el cofre por el camino que contiene 2000 guiles. Abre otro cofre con 3 colas de fénix y un poco más adelante hablarás automáticamente con Bartello."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bosque-de-macalania_3.jpg",
+          "alt": "Bosque de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza un poco y mira la escena y prepárate para un boss en la nueva zona que abrió Auron."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Esfera Amorfa"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-amorfa.jpg",
+          "alt": "Esfera Amorfa",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tienes que atacarle con la magia opuesta a la que te lance él; cada vez te atacará con una distinta, así que fíjate bien. Por supuesto atácale también con ataques físicos y/o límites. Un límite que te vendrá de perlas aquí es el de Rikku y/o el de Lulu. -VIT: 12.000 -PM: 100 Estadísticas -Fuerza: 20 -Defensa física: 100 -Poder mágico: 20 -Defensa mágica: 1 -Rapidez: 15 -Suerte: 15 -Evasión: 0 -Puntería: 30 Elementos -Fuego: * -Rayo: * -Agua: * -Frío: * -Sanctus: * Recompensas -PH: 3.240 -Guiles: 4.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p83",
+    "disc": "Walkthrough",
+    "title": "Lago Macalania",
+    "href": "final-fantasy-x-p83.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/lago-de-macalania_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Lago Macalania"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_lago-de-macalania_1.jpg",
+          "alt": "Lago de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Cañón Albhed"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_canon-albhed.jpg",
+          "alt": "Cañón Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Lo primero que tienes que hacer nada más empezar el combate es encargarte de la pequeña esfera flotante con un personaje que ataque a distancia, ya que es la que bloquea la magia y los eones (repite esto siempre que la vuelva a lanzar). Con la onda fuera de escena céntrate ya en atacar al Cañón con magias de rayo y ataques físicos y/o turbos. Cuando la cuenta atrás llegue a 1, puedes atacarlo una o dos veces como mucho pero no más, tienes que invocar a un Eón cualquiera, a poder ser con el turbo ya preparado, de esta manera cuando el jefazo lance su ataque potente dañará al Eón y tu grupo quedará intacto. -VIT: 16.000 -PM: 1 Estadísticas -Fuerza: 25 -Defensa física: 100 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 30 Elementos -Fuego: 1/2 -Rayo: 1/2 -Agua: 1/2 -Frío: 1/2 -Sanctus: 1/2 Recompensas -PH: 4.400 -Guiles: 7.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p18",
+    "disc": "Walkthrough",
+    "title": "Templo de Macalania",
+    "href": "final-fantasy-x-p18.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/templo-de-macalania_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Templo de Macalania"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-macalania_1.jpg",
+          "alt": "Templo de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-macalania_2.jpg",
+          "alt": "Templo de Macalania",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Una vez dentro, perimero habla con Trommel para que te de un objeto y después a los pocos pasos verás una pequeña escena. Ahora ve a ambos lados de la sala para abrir los cofres y luego ve por la puerta de la derecha de la escalera central para ver otra escena más. Recoge el contenido del cofre de esa sala y al salir entra esta vez por la habitación de la izquierda, cómprale algo a Oaka si lo necesitas, graba la partida en la esfera de la entrada y sube por las escaleras centrales para enfrentarte al Boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Seymour"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_seymour.jpg",
+          "alt": "Seymour",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Las cosas ya se empezarán a complicar un poco con este combate. Primero con Tidus, Yuna y Wakka usa el comando hablar para conseguir ciertas mejoras temporales. Después con Rikku (o cualquier otro personaje que disponga de esa habilidad) róbales primero a los dos guados antes de atacarlos. Cuando Seymour esté sin sus guardias, róbale a él también antes de atacarle normalmente. -VIT: 6.000 -PM: 100 Estadísticas -Fuerza: 20 -Defensa física: 1 -Poder mágico: 25 -Defensa mágica: 25 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 2.000 -Guiles: 5.000"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Ánima"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_seymour_anima.jpg",
+          "alt": "Seymour & Ánima",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando le hayas hecho el suficiente daño, Seymour invocará al Eón que viste en el estadio, Ánima. Pues bien, cambia rápido a Yuna o espera a que le llegue su turno e invoca el nuevo Eón, el cual aparecerá con símbolos de interrogación, pero ya verás que se trata de Shiva (aunque oficialmente no lo sea hasta el final del combate). Si puedes llamarlo con el turbo de Yuna mejor, sino atácalo normalmente y cuando necesites curarte lanza hielo sobre ti mismo. -VIT: 18.000 -PM: 50 Estadísticas -Fuerza: 25 -Defensa física: 1 -Poder mágico: 20 -Defensa mágica: 1 -Rapidez: 25 -Suerte: 20 -Evasión: 0 -Puntería: 30 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 2.500 -Guiles: 3.000"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Seymour"
+        },
+        {
+          "type": "p",
+          "text": "Cuando mates a Anima, tendrás que luchar otra vez contra Seymour. Si le lanzas un par de límites con los eones no te tiene que dar ningún problema."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p19",
+    "disc": "Walkthrough",
+    "title": "La prueba del templo de Macalania",
+    "href": "final-fantasy-x-p19.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La prueba del templo de Macalania"
+        },
+        {
+          "type": "p",
+          "text": "-Avanza por el pasillo hasta que éste empiece a desaparecer y retrocedas automáticamente, entonces baja por la rampa que se habrá creado. -Empuja el pedestal hacia la derecha. -Recoge la Esfera de Macalania de la pared de la derecha y ponla en el pedestal, para acto seguido empujarlo hacia arriba y mandarlo al piso de abajo. -En el piso de arriba recoge la Esfera de Obstrucción de la columna del medio y baja para el piso de abajo. -Empuja el pedestal que está ahí abajo hacia la derecha y luego coloca la Esfera de Obstrucción en el hueco de la pared de más a la izquierda. -Sube para arriba y recoge la Esfera de Macalania en el pilar que acabas de hacer subir. Entonces vuelve a bajar y pon esa esfera en la columna de la izquierda. -Sube al piso de arriba y coge la Esfera de Macalania que está justo al lado de la rampa para colocarla en la columna del medio. Si no te importa el tesoro del templo y lo único que quieres es salir ya de aquí, ya puedes hacerlo por que el camino de arriba estará formado, pero en Eliteguias todavía no nos vamos a largar de aquí. -Sube para arriba (a la parte inicial, por la que entraste) y colócate sobre el punto brillante que hay allí antes de cruzar el puente. -Coge la Esfera de Macalania del pedestal y luego empújalo hacia abajo para que se quede en la cima de un bloque de hielo. -Baja y coloca esa esfera en el hueco de la pared de más a la derecha para formar un bloque de hielo. -Sitúate sobre el punto brillante de este mismo piso, no el de arriba. -Coge la Esfera de Macalania de la columna del centro y ponla en el hueco de la pared que está al lado de la rampa para formarla de nuevo. -Empuja el pedestal hacia la derecha y después hacia arriba para mandarlo al piso de abajo por la rampa. -Baja tú también, recoge la Esfera de Destrucción del pedestal y colócala en el hueco de la pared ahí mismo para descubrir un cofre que contiene una \"Esfera de suerte\" (para tus personajes evidentemente, no para colocar en ningún hueco). -Regresa al piso de arriba, coge la Esfera de Macalania de más a la derecha (con la que se forma el bloque de hielo) y colócala en el pedestal del piso de abajo, para finalmente empujarlo hacia la derecha. -Vuelve al piso de arriba y recoge la Esfera de Macalania junto a la rampa para colocarla en la columna del centro."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p20",
+    "disc": "Walkthrough",
+    "title": "Escapando del templo",
+    "href": "final-fantasy-x-p20.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/wendigo.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Escapando del templo"
+        },
+        {
+          "type": "p",
+          "text": "Unos cuantos Guado te acabarán pillando sin importar cuan rápido corras. Y recuerda que antes de atacarles, deberás robarles para evitar que se puedan curar. En la siguiente zona, primero coge el contenido del cofre y ve hacia el Sur pero por la derecha para abrir otro cofre más. Baja por el cristal, graba la partida un poco más adelante y prepárate para el enfrentamiento contra un Boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Wendigo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_wendigo.jpg",
+          "alt": "Wendigo",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Lo primero será eliminar a los 2 Guado (no sin antes haberles robado). Con ellos fuera de escena, sería recomendable, por no decir obligatorio, que le lanzases Esna o una Panacea al wendigo para quitarle el estado de Locura que le habrán inducido casi con seguridad los guado, ya que sino lo haces, con él activo te quitará una cantidad desorbitada de vida, pudiendo matar a un personaje de un solo toque a no ser que tengan mucha vida. Por lo demás, puedes lanzar Prisa sobre tus personajes y Ánimo con Tidus. Al cabo de un rato se le quitará el estado \"Escudo\" y \"Coraza\" al Wendigo. Freno no funciona contra él, pero puedes usar el ataque Demora. -VIT: 18.000 -PM: 32 Estadísticas -Fuerza: 40 -Defensa física: 1 -Poder mágico: 1 -Defensa mágica: 1 -Rapidez: 18 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 2.000 -Guiles: 3.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p21",
+    "disc": "Walkthrough",
+    "title": "Desierto Sanubia",
+    "href": "final-fantasy-x-p21.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/desierto-sanubia_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Desierto Sanubia"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_desierto-sanubia_1.jpg",
+          "alt": "Desierto Sanubia",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_zu.jpg",
+          "alt": "Zu",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_wakka.jpg",
+          "alt": "Wakka",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza un poco y cuando te enfrentes a un enorme bicho volador, un Zu, al poco rato se unirán Auron y Lulu a la pelea para ayudarte. Tras acabar con él, avanza un poco más y te encontrarás con Wakka. Abre el cofre, y... en esta partida en Eliteguias nos olvidamos del diccionario Albhed nº 3, por lo que apareció aquí (desconocemos si solo aparece ese al no haberlo cogido o si puede aparecer cualquier otro), en cualquier caso, continua a la izquierda hasta la siguiente zona."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_kimahri_2.jpg",
+          "alt": "Kimahri",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_rikku_2.jpg",
+          "alt": "Rikku",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Nada más entrar ve a la derecha para encontrarte con Kimahri. Continua por la izquierda hasta que te encuentres con Rikku. Tras hablar con ella, abre los 2 cofres y guarda la partida, entonces avanza hasta llegar a la siguiente zona, sin olvidarte de desviarte un poco hacia la izquierda para abrir un cofre. Cuando te encuentres con unas máquinas albhed en combate, haz lo que dice Rikku y utiliza la función de robar con ella para matarlas al instante."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_desierto-sanubia_2.jpg",
+          "alt": "Desierto Sanubia",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_gusano-desierto.jpg",
+          "alt": "Gusano desierto",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Si te encuentras con un gusano gigante que tiene 45000 de vitalidad (probablemente solo si vas por el lado de los monstruos peligrosos) no te asustes y sigue estos consejos, sino te será imposible derrotarlo estando a bajo nivel. Primero cáusale ceguera y después atácalo con tus dos personajes más fuertes y mientras con Lulu lánzale la magia Bio para irle haciendo daño pasivamente. Después utiliza gravedad para quitarle gran daño, ya que va por porcentaje, y cuando con ésta ya le quites poco, atácalo con magia de Rayo/Agua (con Lulu o con otro personaje que la tenga, pero normalmente es Lulu). De vez en cuando tragará a uno de tus personajes y desaparecerá con lo que te quedarás sólo con 2, pero tranquilo que lo soltará más tarde."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_barsam-de-arena.jpg",
+          "alt": "Barsam de arena",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, habiendo ido por la derecha (tienes que dar el rodeo igual si quieres coger ambos diccionarios) y ya en la siguiente zona, ten cuidado cuando vayas a abrir el cofre en el agujero de arena por que te enfrentarás a un Barsam de arena, pero los 3 Omnielixir merecen la pena. En cualquier caso es opcional, pero al fondo para poder ir a la siguiente zona tendrás que enfrentarte obligatoriamente a uno de ellos y lo peligroso de ellos será básicamente el ataque que causa locura a tus personajes."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p22",
+    "disc": "Walkthrough",
+    "title": "Hogar Al Bhed",
+    "href": "final-fantasy-x-p22.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/hogar-albhed_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Hogar Albhed"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_hogar-albhed_1.jpg",
+          "alt": "Hogar Albhed",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_hogar-albhed_2.jpg",
+          "alt": "Hogar Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Pues bien, una vez dentro tendrás un combate con un guado y 3 booms, recuerda robar al guado antes de atacarle. Ve por la única puerta disponible y tras una pequeña escena tendrás otro combate esta vez con un guado acompañado por dos Bicornios."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_hogar-albhed_3.jpg",
+          "alt": "Hogar Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En este pasillo antes de nada entra en la habitación de la izquierda. El cofre de la izquierda viene con combate incluido y el de la derecha tendrás que ir seleccionando de la lista albhed la palabra en tu idioma que se muestra abajo Si has ido recogiendo todos los diccionarios no habrá ningún problema, pero sino, al menos en Eliteguias fue así: -Perdona: La palabra del medio en la fila de abajo. -Encantado: La palabra de la derecha en la fila del medio. -Disculpa: La palabra del medio en la fila del medio. Nada más entrar tendrás que enfrentarte a un guado acompañado por dos Quimeras. Para abrir el cofre de la izquierda tendrás que introducir una contraseña y, de nuevo, si has ido cogiendo todos los diccionarios hasta ahora, no tendrás ningún problema en resolverlo, pero sino utiliza la clave 5633. En el de la derecha te irán haciendo una serie de preguntas, las cuales por si no tienes los suficientes diccionarios albhed son: tercera opción, cuarta opción, segunda opción, primera opción."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_hogar-albhed_5.jpg",
+          "alt": "Hogar Albhed",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_hogar-albhed_4.jpg",
+          "alt": "Hogar Albhed",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Regresa a la esfera de antes para grabar de nuevo la partida y ahora si, pasa por la puerta de la izquierda para ver una pequeña escena con tus compañeros, seguido de un combate contra un guado y un par de Quimeras."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p23",
+    "disc": "Walkthrough",
+    "title": "El barco volador",
+    "href": "final-fantasy-x-p23.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/el-barco-volador_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El barco volador"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_el-barco-volador_1.jpg",
+          "alt": "El barco volador",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_el-barco-volador_2.jpg",
+          "alt": "El barco volador",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora sal de la habitación, avanza por el único camino disponible (parándote para hablar con la gente y entrando en las habitaciones), graba la partida y sube las escaleras para ver una pequeña escena. Acto seguido sigue subiendo hasta llegar a cubierta en donde te enfrentarás a Efrey."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Efrey"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_efrey.jpg",
+          "alt": "Efrey",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tal y como te indican en el propio juego, atacarle desde lejos será más difícil pero también más seguro, además de que dispones de los misiles (se lanzarán automáticamente cada cierto tiempo). De cerca será más fácil atacarle, aunque por contra también más peligroso. Así que tu decides en cada momento donde situarte con el barco. Ten también presente que uno de los peligros al estar cerca es que uno de los peligros de atacarle desde cerca es que tiene un ataque mediante el cual primero congela (más bien petrifica) a uno de tus personajes y luego de un toque lo mata directamente. Por lo demás, lo primero será causarle ceguera con cualquiera de tus personajes y luego atacarle normalmente con lo más fuerte que tengas. -VIT: 32.000 -PM: 500 Estadísticas -Fuerza: 36 -Defensa física: 1 -Poder mágico: 30 -Defensa mágica: 1 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: 1/2 -Rayo: 1/2 -Agua: 1/2 -Frío: 1/2 -Sanctus: - Recompensas -PH: 5.400 -Guiles: 2.600"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p24",
+    "disc": "Walkthrough",
+    "title": "La boda y la prueba de Bevelle",
+    "href": "final-fantasy-x-p24.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/bevelle_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La boda y la prueba de Bevelle"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bevelle_1.jpg",
+          "alt": "Bevelle",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bevelle_2.jpg",
+          "alt": "Bevelle",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Empuja el primer pedestal con el que te encuentras y al dejarte llevar en su plataforma hasta el final del primer pasillo, da media vuelta (la única dirección posible) y ahora en la segunda flecha del suelo gira a la izquierda. -Recoge la Esfera de Bevelle de la pared, ponla en el pedestal y empújalo hacia el camino. -Móntate en la plataforma y déjate caer por el fondo. Ahora en el segundo cruce (llamémosle así a las flechas del suelo) ve esta vez a la derecha. -Coge una Esfera de Bevelle cualquiera del pedestal y colócala en la pared. Después empuja el pedestal al camino. -Móntate en la plataforma y déjate caer por el fondo. En el primer cruce ve a la derecha y en el siguiente hacia arriba. -Al llegar a suelo firme, recoge la Esfera de Bevelle de la pared y ponla en el pedestal. Después empuja el pedestal al camino. -En el primer cruce ve a la derecha y en el tercero (el último) ve a la derecha. -Recoge una Esfera de Bevelle cualquiera del pedestal y ponla en el hueco de la pared. Ahora empuja el pedestal al camino. -Déjate caer por la derecha. Ve hacia arriba en el primer cruce y a la derecha en el tercero. -Recoge la Esfera de Obstrucción de la pared y colócala en el pedestal. Ahora empuja el pedestal al camino. -Móntate en la plataforma para ir primero a la derecha y otra vez también a la derecha en el siguiente cruce. -Recoge la Esfera de Obstrucción del pedestal y cruza a pie el camino para ponerla en el hueco de la pared del fondo. -Recoge la Esfera de Destrucción y colócala en el pedestal. Ahora empuja el pedestal al camino. -Móntate en la plataforma y déjate caer por la derecha. En el primer pedestal ve hacia arriba y en el tercero a la derecha. -Recoge la Esfera de Destrucción del pedestal y colócala en la pared del fondo. -Empuja el pedestal al camino para montarte en la plataforma. Ve a la derecha y en el siguiente cruce también a la derecha. -Recoge la Esfera de Bevelle de la pared y ponla en el pedestal. Ahora empuja el pedestal al camino. -Déjate caer por la derecha. En el primer cruce ve hacia arriba y en el siguiente a la derecha. -Empuja directamente el pedestal en dirección contraria a la que viniste y déjate llevar en la plataforma hasta la zona de arriba. -Coge una Esfera de Bevelle cualquiera del pedestal, sube las escaleras y colócala en el hueco de la pared que verás allí. -Abre el cofre de la derecha para coger su contenido (una esfera de vitalidad) y luego sitúate sobre el punto brillante del suelo. -Empuja hacia la izquierda el pedestal que habrá aparecido ahí y abre el cofre al otro lado para recoger la \"Lanza de campeón\" (un arma para Kimahri). Como ves, esta prueba aumenta \"un poco\" en dificultad respecto a la anterior, pero para algo está Eliteguias."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_bevelle_3.jpg",
+          "alt": "Bevelle",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p25",
+    "disc": "Walkthrough",
+    "title": "Pasaje de la purga",
+    "href": "final-fantasy-x-p25.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/juicio.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Pasaje de la purgación"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_juicio.jpg",
+          "alt": "El Juicio",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_pasaje-de-la-purgacion_1.jpg",
+          "alt": "Pasaje de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_pasaje-de-la-purgacion_2.jpg",
+          "alt": "Pasaje de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Tras una serie de escenas y diálogos aparecerás en el Pasaje de la Purgación, manejando únicamente a Yuna y siendo tu objetivo encontrar el resto. Empieza por ir a la derecha y luego hacia arriba en cuanto puedas para encontrarte a Kimahri junto a un cofre. Desde aquí continua por el único camino disponible hasta que te encuentres con Auron junto a una esfera para grabar partida."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_pasaje-de-la-purgacion_3.jpg",
+          "alt": "Pasaje de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_pasaje-de-la-purgacion_4.jpg",
+          "alt": "Pasaje de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Utiliza dicha esfera y ve por el pasillo de la izquierda. En el siguiente cruce ve a la izquierda (Sur según el mapa), pasa de largo el de la derecha y ve por el segundo (también a la derecha) para encontrarte con Lulu. Abre el cofre y continua hacia el Sur en donde te encontrarás otro cofre más y un símbolo en la pared, el cual tendrás que tocar. Desde aquí ve hacia arriba y a la derecha. Graba la partida si quieres y continua hacia el lugar en el que te habías encontrado con Auron. Ahora si graba la partida y cruza el pasillo de las luces rojas para enfrentarte a un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Isaaru"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_isaaru.jpg",
+          "alt": "Isaaru",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ésta es una pelea de Eones y la clave está en utilizar a Bahamut desde el principio, ya que con él eliminarás muy fácilmente al resto de eones \"normales\" del adversario y cuando Isaaru utilice su propio Bahamut, impidiéndote por tanto utilizarlo a ti también, ve utilizando el resto de tus eones, a ser posible habiéndolos preparado con su turbo al máximo."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p26",
+    "disc": "Walkthrough",
+    "title": "Canal de la purga",
+    "href": "final-fantasy-x-p26.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/canal-de-la-purgacion_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Canal de la purgación"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_canal-de-la-purgacion_1.jpg",
+          "alt": "Canal de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Este trayecto va a ser muy corto en comparación con el otro. Un par de calamares por el camino ypronto te encontrarás con una esfera para grabar partida, así que utilízala también por que te vas a enfrentar a un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Efrey Oltana"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_efrey-oltana.jpg",
+          "alt": "Efrey Oltana",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Fíjate bien en su estado y en la descripción… al tratarse de un zombie, es vulnerable a hechizos y objetos de recuperación… como pociones X no las vas a gastar en esto, usa las colas de fenix, un par de ellas y ya debería ser suficiente. -VIT: 16.384 -PM: 200 Estadísticas -Fuerza: 32 -Defensa física: 1 -Poder mágico: 27 -Defensa mágica: 1 -Rapidez: 25 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: x1.5 Recompensas -PH: 16.384 -Guiles: 200"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_canal-de-la-purgacion_2.jpg",
+          "alt": "Canal de la purgación",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando lo mates sigue avanzando y coge los cofres del suelo. Al llegar a la siguiente sala por fin estaréis todos juntos. Después de la escena, compra algo a Oaka si lo necesitas, graba la partida y dirígete hacia el boss. Graba también cuando cruces el puente."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: NeoSeymour"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_neoseymour.jpg",
+          "alt": "NeoSeymour",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Usa a los Eones pero con el turbo ya cargado ya que Seymur los matará al instante después de que ataques con ellos. Puedes usar también el comando \"hablar\" con Tidus, Auron y Yuna para conseguir algunas bonificaciones. A parte de eso y de los eones, también puedes usar el turbo de tus personajes. -VIT: 36.000 -PM: 200 Estadísticas -Fuerza: 30 -Defensa física: 1 -Poder mágico: 21 -Defensa mágica: 15 -Rapidez: 21 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 6.300 -Guiles: 3.500"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p27",
+    "disc": "Walkthrough",
+    "title": "Macalania",
+    "href": "final-fantasy-x-p27.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/escena-del-lago.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Macalania"
+        },
+        {
+          "type": "p",
+          "text": "Después del combate aparecerás automáticamente en este bosque de Macalania. Habla con tus compañeros, graba la partida y sal de esta pantalla. Entonces ve hacia el Sur para reunirte con Yuna y ver la famosa \"escena del lago\"."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_escena-del-lago.jpg",
+          "alt": "Escena del lago",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p28",
+    "disc": "Walkthrough",
+    "title": "Llanura de la Calma",
+    "href": "final-fantasy-x-p28.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/llanura-de-la-calma_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Llanura de la Calma"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_1.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_2.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Al poco rato te encontrarás con Maechen por el camino, el cual te contará algo sobre la Llanura de la Calma. Tras esto continua bajando por el camino y al llegar abajo vendrá Rin en su tienda voladora, así que cómprale algo si lo necesitas."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_3.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_4.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ahora dirígete al campamento que está más o menos en el centro del mapa. Después de la escena habla con la gente que está allí, compra algo en la tienda si lo necesitas y graba la partida. Si vas un poco al Suroeste desde aquí te encontrarás con Belgemine, la cual te propondrá una vez más luchar con tus Eones. Si la vences esta vez tendrás la opción de usar el comando de fortalecer los Eones."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_5.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_llanura-de-la-calma_6.jpg",
+          "alt": "Llanura de la Calma",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando estés listo, ve hacia el Norte desde aquí y saldrás de esta zona. Graba la partida y continua avanzando un poco más para encontrarte con un Boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Golem Guerrero"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_golem-guerrero.jpg",
+          "alt": "Golem Guerrero",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Esta pelea se puede complicar un poco, así que en Eliteguias te recomendamos que para evitar problemas tengas a todos tus Eones con sus turbos preparados antes de empezar el combate y los vayas utilizando uno tras otro. Con los personajes utiliza sus correspondientes turbos también mientras Yuna espera su turno para atacar. -VIT: 64.000 -PM: 1 Estadísticas -Fuerza: 42 -Defensa física: 30 -Poder mágico: 5 -Defensa mágica: 1 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 6.600 -Guiles: 3.500"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p29",
+    "disc": "Walkthrough",
+    "title": "La pelea de Kimahri en el Monte Gagazet",
+    "href": "final-fantasy-x-p29.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/monte-gagazet_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La pelea de Kimahri en el Monte Gagazet"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_monte-gagazet_1.jpg",
+          "alt": "Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza un poco por el único camino disponible hasta ver una escena con los ronso y luego habla con ellos así como con tus compañeros. Graba la partida y continua hacia el Norte para acabar enfrentándote a un boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Biran & Yenke"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_biran-yenke.jpg",
+          "alt": "Biran & Yenke",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Para esta pelea manejarás únicamente a Kimahri. Al principio utiliza \"Alma de dragón\" en Biran para conseguir un turbo. Atácalos normalmente y cuando Yenke use \"Viento blanco\", vuelve a utilizar Alma de dragón en él para conseguir ese mismo turbo. Aún hay uno más, cuando Biran lance \"Barrera total\" vuelve a utilizar tú Alma de dragón para robársela. En lo que al combate respecta, atácalos normalmente utilizando el turbo nada más tenerlo disponible. Sin dejar nunca que tu vitalidad baje de 1000 para asegurar que no mueras con ninguno de sus ataques. Cuando los dos están juntos se protegerán el uno al otro, lo que significa que si quieres dañar por ejemplo a Biran tendrás que atacar a Yenke (y viceversa). Cuando utilicen \"Placaje\" se separarán y/o juntarán... al estar separados ya podrás atacar y dañar al que quiras. Elimina primero a Yenke (tiene menos vitalidad y además es capaz de curar) y cuando Biran se quede sólo éste utilizará locura en él, por lo que sus ataques serán más fuertes. Es inútil que uses una panacea en él para quitarle ese estado, por que acto seguido siempre se la volverá a aplicar."
+        },
+        {
+          "type": "h4",
+          "text": "BIRAN RONSO"
+        },
+        {
+          "type": "p",
+          "text": "-VIT: 2.500 (aumenta con la Fuerza y el Poder mágico de Kimahri) -PM: 200 Estadísticas -Fuerza: Depende de la VIT de Kimahri -Defensa física: 30 -Poder mágico: 1/2 del Poder mágico de Yenke -Defensa mágica: 50 -Rapidez: Rapidez de Kimahri -4 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 4.500 -Guiles: 1.500"
+        },
+        {
+          "type": "h4",
+          "text": "YENKE RONSO"
+        },
+        {
+          "type": "p",
+          "text": "-VIT: 2.500 (Aumenta con la Fuerza y el Poder mágico de Kimahri) -PM: 200 Estadísticas -Fuerza: 1/2 de la Fuerza de Yenke -Defensa física: 30 -Poder mágico: Depende de la VIT de Kimahri -Defensa mágica: 50 -Rapidez: Rapidez de Kimahri -6 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 4.500 -Guiles: 1.500"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p30",
+    "disc": "Walkthrough",
+    "title": "Sendero del Monte Gagazet",
+    "href": "final-fantasy-x-p30.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/monte-gagazet_2.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Sendero del Monte Gagazet"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_monte-gagazet_2.jpg",
+          "alt": "Sendero del Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_monte-gagazet_3.jpg",
+          "alt": "Sendero del Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Continua por el camino y después de examinar otra piedra más, antes de ir por el camino de arriba (según el mapa) ve por el de la izquierda (también según el mapa) para abrir un cofre. Un poco más adelante te encontrarás con Wantz, al cual podrás comprar algunas cosas si lo necesitas. Tras examinar la siguiente piedra, graba la partida un poco más adelante subiendo por el camino y continua avanzando hasta llegar junto al boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Seymour Beta"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_seymour-beta.jpg",
+          "alt": "Seymour Beeta",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Antes de nada, procura llevar equipamiento que te proteja contra el estado \"zombi\". En el combate utiliza prisa en todos tus personajes. Atácalo con normalidad con los otros dos personajes mientras esperas a que llegue el turno de Yuna, con la que tendrás que usar los Eones (si usas el comando de Hablar con ella recibirás una bonificación extra). Procura tenerlos todos con el límite listo para utilizarlo al instante. Con eso ya debería ser suficiente para acabar con Seymour, aunque sin los Turbos de los eones va a ser una batalla bastante complicada. -VIT: 70.000 -PM: 512 Estadísticas -Fuerza: 30 -Defensa física: 40 -Poder mágico: 15 -Defensa mágica: 40 -Rapidez: 38 -Suerte: 15 -Evasión: 0 -Puntería: 100 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 10.000 -Guiles: 6.000"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_monte-gagazet_5.jpg",
+          "alt": "Sendero del Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_monte-gagazet_4.jpg",
+          "alt": "Sueño de Tidus",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p31",
+    "disc": "Walkthrough",
+    "title": "Caverna del Monte Gagazet",
+    "href": "final-fantasy-x-p31.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/caverna-monte-gagazet_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Caverna del Monte Gagazet"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_caverna-monte-gagazet_1.jpg",
+          "alt": "Caverna del Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_primera-prueba-del-gagazet.jpg",
+          "alt": "Primera prueba del Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Avanza hasta grabar la partida y después ve por el camino de la izquierda hasta llegar a una zona con agua en la que sólo podrás ir con Tidus, Wakka y Rikku. En la siguiente zona nada todo recto sin torcer y al salir del agua llegarás a la Primera prueba del Gagazet, la cual consiste en darle con el balón de wakka a la esfera del centro de ese mecanismo. Tan solo tienes que fijarte bien y lanzarla en el momento justo."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_segunda-prueba-del-gagazet.jpg",
+          "alt": "Segunda prueba del Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Abre el cofre y vuelve hasta donde estaba el punto de grabar partida para ir esta vez por la parte de arriba. Gira a la izquierda y continua hasta llegar a otra zona de agua. Ve todo recto hasta llegar a la Segunda prueba del Gagazet. Ésta consistirá en pasar con tus personajes por cada uno de los agujeros de colores, pero no de cualquier forma: -Rikku: Agujero verde -Tidus: Agujero azul -Wakka: Agujero rojo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_caverna-monte-gagazet_2.jpg",
+          "alt": "Caverna del Monte Gagazet",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Ya en el otro lado, avanza hasta salir del agua y sube por unas piedras a modo de escalera que están justo ahí. Tras la escena que verás, graba la partida en la esfera y prepárate para luchar contra un jefazo."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Custodio Sacro"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_custodio-sacro.jpg",
+          "alt": "Custodio Sacro",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aquí lo importante es aplicarle Espejo al boss para que no se pueda curar. Por lo demás, utiliza los turbos de los personajes y/o atácalos normalmente mientras esperas el turno de Yuna para utilizar sus Eones, a poder ser con el Turbo ya preparado de antes. -VIT: 40.000 -PM: 256 Estadísticas -Fuerza: 37 -Defensa física: 100 -Poder mágico: 40 -Defensa mágica: 100 -Rapidez: 32 -Suerte: 15 -Evasión: 0 -Puntería: 50 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 11.000 -Guiles: 6.500"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p32",
+    "disc": "Walkthrough",
+    "title": "Ruinas de Zarnakand",
+    "href": "final-fantasy-x-p32.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/zanarkand_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Ruinas de Zanarkand"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_zanarkand_1.jpg",
+          "alt": "Zanarkand",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_zanarkand_2.jpg",
+          "alt": "Zanarkand",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p33",
+    "disc": "Walkthrough",
+    "title": "Recinto de Yevon",
+    "href": "final-fantasy-x-p33.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/recinto-de-yevon_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Recinto de Yevon"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_recinto-de-yevon_1.jpg",
+          "alt": "Recinto de Yevon",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_recinto-de-yevon_2.jpg",
+          "alt": "Recinto de Yevon",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Graba la partida en la esfera que está nada más llegar y ve al interior del recinto en donde verás una pequeña escena. Un poco más adelante, tras grabar en otra esfera, en la bifurcación ve primero por arriba para abrir un cofre y luego continua por la izquierda (por la derecha no hay nada). En la siguiente pantalla abre el cofre de la derecha, sube las escaleras y graba la partida antes de entrar. Como siempre, sigue por orden las indicaciones que te damos a continuación en Eliteguias para resolver la prueba."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_recinto-de-yevon_3.jpg",
+          "alt": "Recinto de Yevon",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Primero ponte sobre el punto verde del principio y luego sitúate sobre los que te indicamos con las flechas blancas, da igual el orden. Verás como aparecen unos pilares a ambos lados de la sala. Los de arriba y abajo (en ambos lados) tienes que empujarlos sin más y los del medio... el de la izquierda necesita que le coloques una Esfera de Kilika y el de la derecha la Esfera de Besaid (están en la siguiente habitación las dos esferas). Dicho esto, tienes que hacerlo con uno solo, ir a la sala de al lado para pulsar los puntos brillantes del suelo (tal y como te indicamos más abajo) y repetir con los pilares restantes. Empieza por los que solo requieren empujarlos y deja los de las esferas para el final (estos no requieren de ninguna acción en la sala contigua). No os ponemos imágenes de la siguiente sala por que la cámara no la abarca todo y sería complicaros más, pero con texto lo endenderéis perfectamente igual. IZQUIERDA / ARRIBA -A la izquierda de todo, el de más arriba -En la parte izquierda, el que más está pegado al cuadrado central -Arriba, en la parte central, los 3 que están más cerca de la pantalla. -A la derecha, el tercero empezando por abajo. IZQUIERDA / ABAJO -En la parte de abajo, los tres que están más a la izquierda. -En la parte de arriba, el que está más pegado a la pantalla -El que está justo al lado de la entrada a esta habitación. -En la tercera fila empezando por arriba, hay 2 puntos, pues el de la derecha. -En la parte de arriba, el que está pegado al cuadrado central DERECHA / ARRIBA -El que está justo al lado de la entrada a esta habitación. -En la parte de arriba, el que está pegado a la pantalla -En la tercera fila empezando por arriba, los dos. -De los dos que están pegados (cerca del que está al lado de la entrada), el de abajo. -En la fila de más abajo, el que está más a la derecha -El que está más pegado al cuadrado central por la parte de abajo -El que está “justo” encima del de más a la derecha de la fila de abajo. -El que está más pegado al cuadrado central, en la parte izquierda. DERECHA / ABAJO -El que está justo al lado de la entrada a esta habitación -En la parte de arriba, el que está más pegado a la pantalla. -En la tercera fila, empezando por arriba, el de la derecha. -De los dos que están pegados (cerca del que está al lado de la entrada), el de abajo. -En la parte derecha y empezando por abajo, el segundo. -De los que están en la fila de más abajo, el de la izquierda. -De los que están más a la izquierda de la habitación, el de arriba."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p34",
+    "disc": "Walkthrough",
+    "title": "El encuentro con Yunalesca",
+    "href": "final-fantasy-x-p34.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/custodio-infernal.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El encuentro con Yunalesca"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Custodio infernal"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_custodio-infernal.jpg",
+          "alt": "Custodio infernal",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "En esta pelea es importante que prestes atención al comando extra \"trasladarse\", puesto que cuando atacas al jefazo, él devolverá el ataque a los personajes que estén en las 3 plataformas situadas enfrente de él... y la finalidad de esto es que no estén los 3 personajes justo ahí a la vez. Presta también atención a cuando aparezca una \"mina mágica\", momento en el que tendrás que quitar al personaje de dicha plataforma. Controlando esas dos cosas, tampoco hay mucho más que decir de este enfrentamiento. -VIT: 52.000 -PM: 500 Estadísticas -Fuerza: 36 -Defensa física: 100 -Poder mágico: 1 -Defensa mágica: 100 -Rapidez: 36 -Suerte: 15 -Evasión: 0 -Puntería: 8 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 12.000 -Guiles: 7.000 Tras el combate, una vez abajo graba la partida y ve a la siguiente sala. Mira una serie de escenas y prepárate para enfrentarte a un nuevo boss, Yunalesca, la cual tendrá lugar en 3 fases."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Yunalesca, forma 1"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yunalesca_1.jpg",
+          "alt": "Yunalesca",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "La primera forma no tiene mucha complicación, simplemente atácala normalmente usando prisa y ánimo en todo tu grupo, y si puedes, no uses ningún turbo ni ningún Eon, resérvalos para más adelante. -VIT: 24.000 -PM: 500 Estadísticas -Fuerza: 20 -Defensa física: 50 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 40 -Suerte: 20 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 0 -Guiles: 0"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Yunalesca, forma 2"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yunalesca_2.jpg",
+          "alt": "Yunalesca",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Cuando lance el ataque que produce estado zombie en todos tus personajes, no cures a todos, cura sólo a uno. Te preguntarás que por qué, pues por que al matar a esta segunda forma, matará a todo aquel que no esté en estado zombie. Aquí utiliza los Turbo de tus personajes y como mucho un Eón, pero ni se te ocurra usar todavía a Bahamut. -VIT: 48.000 -PM: 500 Estadísticas -Fuerza: 20 -Defensa física: 50 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 40 -Suerte: 20 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 0 -Guiles: 0"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Yunalesca, forma 3"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yunalesca_3.jpg",
+          "alt": "Yunalesca",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aquí si, usa todos tus Eones con el turbo preparado. Usa uno, retíralo sino te lo mata (y sino le ha causado el suficiente daño como para tener preparado otro turbo) y usa el siguiente Eon. Sólo con los Eones no te será suficiente, sobre todo si ya usaste alguno antes, entonces atácalo normalmente y con las magias ++ de Lulu, que funcionan bastante bien. -VIT: 60.000 -PM: 500 Estadísticas -Fuerza: 20 -Defensa física: 50 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 40 -Suerte: 20 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 14.000 -Guiles: 9.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p35",
+    "disc": "Walkthrough",
+    "title": "Última visita a Bevelle",
+    "href": "final-fantasy-x-p35.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Última visita a Bevelle"
+        },
+        {
+          "type": "p",
+          "text": "A partir de ahora ya tendrás disponible el barco volador para viajar a tu antojo por todo Spira, accediendo a el desde cualquier esfera. Pues bien, este es el momento perfecto para competar el juego al 100% yendo a por todos los eones oscuros, consiguiendo las armas de los 7 astros, etc..."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p36",
+    "disc": "Walkthrough",
+    "title": "La batalla contra Sin",
+    "href": "final-fantasy-x-p36.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/brazo-de-sinh.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La batalla contra Sinh"
+        },
+        {
+          "type": "p",
+          "text": "Ve a hablar con Cid y selecciona la opción de \"Sinh\" en la lista de viaje del barco. Al llegar, sal a la cubierta para comenzar la batalla final contra Sinh."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brazo izquierdo"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_brazo-de-sinh.jpg",
+          "alt": "Brazo de Sinh",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Usa prisa en tus personajes más fuertes, rómpele la defensa y atácalo hasta que muera, así de \"simple\". Y cuando esté \"concentrando energía\", aléjate y vuelve a acercarte una vez que ya lanzase el ataque. Mientras estás alejado aprovecha para curarte o atácalo con Wakka y con la magia de Lulu. Recuerda volver a usar rompecoraza en él cuando utilice \"Aura cero\". -VIT: 65.000 -PM: 999 Estadísticas -Fuerza: 30 -Defensa física: 100 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 16.000 -Guiles: 10.000"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Brazo derecho"
+        },
+        {
+          "type": "p",
+          "text": "Sigue exactamente el mismo procedimiento que el otro brazo. -VIT: 65.000 -PM: 999 Estadísticas -Fuerza: 30 -Defensa física: 100 -Poder mágico: 30 -Defensa mágica: 50 -Rapidez: 20 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 17.000 -Guiles: 10.000"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Sinh & Brote Gunai"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_sinh_brote-gunai.jpg",
+          "alt": "Sinh & Brote Gunai",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Estas vez estarás sobre el propio Sinh y antes de poder atacarle a él tienes que eliminar a su brote \"Gunai\". Utiliza prisa en todo tu equipo, al brote atácalo ya directamente y cuando te toque contra Sinh, utiliza primero Rompecoraza. Una táctica fácil que usamos en Eliteguías fue utilizar un único Eon para lanzarle el turbo, curarse mientras él atacaba hasta que se llenase de nuevo el turbo y repetir el procedimiento hasta acabar con él. Pero no valdrá ni Valefor ni Bahamut a no ser que dispongan de la magia Cura... el restos se pueden lanzar sobre si mismos su propio elemento para curarse. Tras el combate aprovecha el momento de descanso para grabar la partida y/o prepararte bien y cuando estés listo sal a cubierta para hablar con Yuna y el enfrentamiento final contra Sinh. -VIT: 20.000 -PM: 200 Estadísticas -Fuerza: 30 -Defensa física: 80 -Poder mágico: 35 -Defensa mágica: 50 -Rapidez: 25 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: x1.5 -Rayo: - -Agua: Absorbe -Frío: - -Sanctus: - Recompensas -PH: 1.800 -Guiles: 10.000"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Sinh"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_sinh_2.jpg",
+          "alt": "Sinh",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Lo difícil de este combate no va a ser que pierdas grandes cantidades de vida ni nada de eso, sino que hay un límite de tiempo y si no lo matas antes de que haga su ataque especial... será Game Over tengas las estadísticas que tengas y equipado con lo que sea. Primero Sinh estará lejos, así que tendrás que atacar con Wakka y con Lulu. Si tienes otro personaje capaz de lanzar magias potentes pues perfecto, pero sino, con el tercer personaje dedícate a lanzar prisa sobre etodo el grupo. Cuando Sinh esté cerca, entonces pon a los personajes que peguen más fuerte, ya sea a distancia o no. Los Eones probablemente ya los tendrás gastados de la pelea anterior (al menos sus turbos), por lo que la estrategia a seguir, al menos en Eliteguias fue utilizar a Lulu (las magias te deberían funcionar bastante bien dependiendo de cómo la tengas desarrollada y a dos personajes cuerpo a cuerpo (Wakka también cuenta). -VIT: 140.000 -PM: 999 Estadísticas -Fuerza: 30 -Defensa física: 40 -Poder mágico: 30 -Defensa mágica: 40 -Rapidez: 30 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 20.000 -Guiles: 12.000"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p37",
+    "disc": "Walkthrough",
+    "title": "El combate final",
+    "href": "final-fantasy-x-p37.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/seymour-omega.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "El combate final"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Seymour Omega"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_seymour-omega.jpg",
+          "alt": "Seymour Omega",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Lo primero de todo es fijarte en las cuatro esferas que tiene alrededor. Cada una de ellas contiene 4 bolas de cada uno de los elementos... cada vez una de esas bolas de cada rueda (pero todas del mismo elemento) estarán apuntando a Seymour y será con ese elemento con el que atacará. La táctica a seguir será protegerte con \"anti-elemento\", donde elemento es con el que atacará ese turno, y atacarle con la magia contraria a dicho elemento. Yuna para los \"anti\", Lulu para las magias y los personajes que más fuerte peguen para los ataques físicos. Puedes usar los turbos de los personajes, pero los Eones mejor que los guardes de momento. Y a los paneles o ruedas, mejor que no los ataques, céntrate tan solo en el propio Seymour. Y estate atento por que cuando te ataca con una magia ya se te quita el anti, así que tendrás que aplicarlo en cada turno. -VIT: 80.000 -PM: 999 Estadísticas -Fuerza: 20 -Defensa física: 180 -Poder mágico: 35 -Defensa mágica: 100 -Rapidez: 40 -Suerte: 20 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 24.000 -Guiles: 12.000 Tras la pelea, ve hacia atrás para grabar la partida y ahora si, continua. Sigue avanzando todo recto guiándote por las flechas rojas del mapa hasta que veas una escena en la que miras hacia abajo y ves un cofre. Entonces vete un poco más para atrás y a la derecha verás como un bloque en el que te puedes meter dentro y caerás por un tobogán para llegar al sitio del cofre. Después de abrir el cofre que contiene el arma de Yuna \"Save the Queen\", acércate a la pared y selecciona la opción \"subir\" varias veces hasta que llegues a la zona de arriba. Avanza a la siguiente pantalla y graba la partida en la esfera. Ve hacia el norte y al tocar la pared que cae de repente, serás tele-transportado a un sitio nuevo, el \"Núcleo de la pesadilla\". Aquí el objetivo será recoger unos objetos luminosos que aparecerán por la pantalla, pero ten cuidado de que no te toquen los bloques de hielo o lo que sea que sale del suelo, sino tendrás que luchar contra unos monstruos que no te serán nada fáciles (y la cámara no es que ayude a evitarlos precisamente). Tienes que reunir 10 objetos de estos. Entonces mira la escena y prepárate para el Final Boss."
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Eón de Braska, forma 1"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_eon-de-braska_1.jpg",
+          "alt": "Eón de Braska",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Simplemente atácalo con lo más fuerte que tengas, pero ten en cuenta una cosa, procura no matar a las dos pagodas que lo acompañan con mucha más energía de la que tienen, ya que si le quitas 10.000, aparecerán con 10.000 de energía después (y en un principio tienen sólo 9000). Usa rompecoraza en Jetch y háblale con Tidus para que baje su poder. Y cómo último consejo, los turbos de los personajes, úsalos cuando esté Jetch sólo, cuando esté con las pagodas usa solo los turbos de los eones, aunque estos últimos, mejor dejarlos para la segunda fase del combate. -VIT: 60.000 -PM: 100 Estadísticas -Fuerza: 45 -Defensa física: 100 -Poder mágico: 50 -Defensa mágica: 100 -Rapidez: 44 -Suerte: 15 -Evasión: 0 -Puntería: 10 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 0 -Guiles: 0"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Eón de Braska, forma 2"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_eon-de-braska_2.jpg",
+          "alt": "Eón de Braska",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Sigue la misma táctica de antes, pero ten en cuenta que ahora es más poderoso y tiene el doble de vida, y también que los ataques físicos le harán menos daño, o sea que usa las magias \"raras\" no elementales si las tienes, como por ejemplo \"Artema\". Ahora si, utiliza los Eones, y Bahamut déjalo para el final cuando le quede poca energía, por lo de las pagodas que dije antes. -VIT: 120.000 -PM: 100 Estadísticas -Fuerza: 50 -Defensa física: 100 -Poder mágico: 50 -Defensa mágica: 100 -Rapidez: 44 -Suerte: 15 -Evasión: 0 -Puntería: 10 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 0 -Guiles: 0"
+        },
+        {
+          "type": "h3",
+          "text": "Boss: Yu Yevon"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_yu-yevon.jpg",
+          "alt": "Yu Yevon",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Primero tendrás que matar a todos tus eones que consiguieras en el juego, pero es fácil por que te curarás automáticamente (ya verás como). Cuando los mates a todos, aparecerá Yu Yevon, al cual sólo tienes que aplicarle la técnica \"zombie\" (sino lo tienes… mal asunto) y lanzarle una cola de fénix... si, así de ridículamente fácil. Ahora a disfrutar de la escena final de Final Fantasy X."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p64",
+    "disc": "Walkthrough",
+    "title": "Eternal Calm",
+    "href": "final-fantasy-x-p64.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Eternal Calm"
+        },
+        {
+          "type": "p",
+          "text": "Eternal Calm o Calma Eterna, como prefieras llamarlo, es una escena cinemática cuyos eventos se sitúan entre Final Fantasy X y Final Fantasy X-2. En algunos países también se conoce con el nombre de “Another Story”. En un primer momento solo se podía adquirir con el DVD extra que venía incluido en Final Fantasy X: International y también el juego Unlimited Saga. Aunque más tarde (21 de Marzo del 2014) ya venía incluida en el recopilatorio para PS3 y PS VITA “Final Fantasy X / X-2 HD Remaster”."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-eones-secretos",
+    "disc": "Extras",
+    "title": "Eones secretos",
+    "href": "final-fantasy-x_eones-secretos.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Eones secretos"
+        },
+        {
+          "type": "p",
+          "text": "Durante la historia principal ya irás consiguiendo los Eones normales, es obligatorio para poder seguir avanzando y por lo tanto son imposibles de perder. Pero aparte de esos, también existen 3 eones secretos para los que hay que cumplir ciertos requisitos fuera de la historia principal si quieres conseguirlos."
+        },
+        {
+          "type": "h3",
+          "text": "Eones normales"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "- Valefor : Se consigue en Besaid .",
+            "- Ifrit : Se consigue en Kilika .",
+            "- Ixion : Se consigue en Djose .",
+            "- Shiva : Se consigue en Macalania .",
+            "- Bahamut : Se consigue en Bevelle ."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Eones secretos"
+        },
+        {
+          "type": "h4",
+          "text": "Ánima"
+        },
+        {
+          "type": "p",
+          "text": "Para poder acceder a este Eón secreto, tendrás que haber cogido los tesoros de todos los templos, es decir, haber usado la esfera de destrucción en cada uno de ellos. Todo esto ya se detalla en la parte de la guía como conseguirlos, menos el del templo que está en las Ruinas de Zanarkand, que tendrás que volver más tarde y esta vez pulsar todos los cuadrados blancos de las dos habitaciones (funciona como si fuera una sola, es decir, que si tienes los de la habitación pequeña pulsados y vas a la grande y fallas, tendrás que volver a empezar con los de la pequeña también. Cuando esté, coge la esfera de la sala pequeña y vete a la sala grande para ponerla en la parte derecha de la pantalla). Es recomendable que los consigas todos durante el transcurso de la historia, por que sino después por ejemplo en el templo de shiva y en el de valefor tendrás que enfrentarte a los eones oscuros y como no vallas bien entrenado… Pues bien, una vez que los tengas todos, tienes que ir al Templo de Baaj (utilizando las coordenadas X-16 Y-57 en el barco volador), ya sabes, el templo del principio del juego. Tienes que matar al monstruo del agua (sino lo hiciste ya para conseguir una arma legendaria) y después entrar en el templo. Vete examinando todas las estatuas y después al fondo ya podrás acceder a la Cámara del orador en donde te darán Ánima."
+        },
+        {
+          "type": "h4",
+          "text": "Yojimbo"
+        },
+        {
+          "type": "p",
+          "text": "Al fondo de la misma te enfrentarás a Yojimbo en combate. Tras vencerlo ve a la sala del orador y cuando te haga una pregunta, respóndele \"Para vencer a enemigos de gran fuerza\". Entonces te pedirá una cantidad de 250.000 guiles para contratarle. Se la puedes entregar directamente o intentar regatear un poco para que rebaje el precio. Pero ten cuidado con esto por que si te pasas regateando después tendrás que pagarle más, además como mucho conseguirás una rebaja de unos 50.000 guiles. Por otro lado, si le entregas tres veces más, es decir 750.000 te entregará 2 \"Esferas warp\"."
+        },
+        {
+          "type": "h4",
+          "text": "Hermanas Magus"
+        },
+        {
+          "type": "p",
+          "text": "Corona de Flores La conseguiras al vencer a todos los Eones de Belgemine en este mismo templo de Remiem. Con vencer hasta Bahamut ya es suficiente. Corona de pimpollos"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-eones-oscuros",
+    "disc": "Extras",
+    "title": "Eones oscuros",
+    "href": "final-fantasy-x_eones-oscuros.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Eones oscuros"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Valefor",
+            "Ifrit",
+            "Ixion",
+            "Shiva",
+            "Bahamut",
+            "Ánima",
+            "Yojimbo",
+            "Hermanas Magus",
+            "Verdugo Final"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-armas-7-astros",
+    "disc": "Extras",
+    "title": "Armas de los 7 astros",
+    "href": "final-fantasy-x_armas-7-astros.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Armas de los 7 astros"
+        },
+        {
+          "type": "p",
+          "text": "Para conseguir estas armas, antes de nada, tendrás que tener el espejo de los 7 astros . Para ello, vete a la llanura de la calma (en un principio lo puedes hacer nada más llegar a ella en la historia del juego) y coge un chocobo (dependiendo de por donde entres puede estar en un lado o en otro la dueña de los chocobos… es mejor que equipes un item con la habilidad “ningún encuentro” y lo busques). Una vez estés montado en el chocobo, ve a la entrada de la llanura desde el bosque de macalania, pero no entres en el bosque y vete todo hacia la derecha. Coge la pluma que está en el suelo y después de que salte el chocobo, avanza un poco y sin entrar en el templo, habla con el chocobo de la parte de la izquierda para jugar al minijuego de las carreras de chocobos . Ahora no importa los cofres que abras, simplemente tienes que ganar la carrera para recibir el \"Espejo empañado\". Ahora vete al Bosque de Macalania y busca a un niño que está con su madre (normalmente está al principio del bosque en la zona del camino de cristal, aunque puede variar, no estoy seguro), háblales varias veces a los dos, después sal de aquí por la derecha y después hacia arriba y habla con el hombre que está allí. Cuando salga corriendo, vete otra vez a donde estaba el niño con su madre y verás que ahora el que se perdió es el niño. Sube por el camino de cristal y cuando veas al niño habla con él. Cuando se valla, avanza hasta el fondo y tendrás el Espejo de los 7 astros recargado . Ahora que ya tienes el espejo recargado, podrás abrir los cofres que tienen las armas. A parte de las armas, para cada una de ellas tienes que conseguir 2 objetos, y una vez que los tengas, vuelve a donde recargaste el espejo de los 7 astros para ponerle las habilidades a las armas. A continuación, en Eliteguias os indicamos cómo conseguir las armas para cada uno de los personajes:"
+        },
+        {
+          "type": "h3",
+          "text": "Tidus"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Artema Símbolo del Sol Se consigue durante la historia principal. Cuando mates a Yunalesca, primero baja por las escaleras de la parte de arriba y ya verás aparecer el cofre en esa esquina de la pantalla (si por cualquier cosa no saliese, prueba a bajar más veces por esas escaleras). Emblema del Sol"
+        },
+        {
+          "type": "h3",
+          "text": "Wakka"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Campeón mundial Símbolo de Mercurio Emblema de Mercurio Esta parte no es difícil, lo único que te lleva bastante tiempo, ya que tendrás que jugar muchos partidos de Blizball, primero para conseguir los 4 Turbos de Wakka y después hasta conseguir el Emblema. Y claro, no aparecen todos seguidos campeonato tras campeonato. Eso si, puede aparecer tanto en la liga como en el torneo."
+        },
+        {
+          "type": "h3",
+          "text": "Auron"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Masamune Símbolo de Saturno Emblema de Saturno"
+        },
+        {
+          "type": "h3",
+          "text": "Yuna"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Nirvana Símbolo de la Luna Emblema de la Luna Tienes que capturar los monstruos del Monte Gagazet. Pero ten en cuenta que te aparecen tanto en la parte de afuera donde está la nieve y todo eso, como dentro de la caverna, y también hay otros 3 tipos de monstruos que sólo están dentro del agua."
+        },
+        {
+          "type": "h3",
+          "text": "Lulu"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Caballero Cebolla Cuando tengas el barco volador, vete al templo de Baaj (coordenadas: x = 11-16 y = 57-63) y una vez dentro del agua examínalo todo bien hasta que encuentres el arma. Te costará un poco encontrarla pero está ahí. Símbolo de Marte Cuando tengas el barco volador, vete al Etéreo en Guadosalam y lo encontrarás en un cofre que está allí. Emblema de Marte"
+        },
+        {
+          "type": "h3",
+          "text": "Rikku"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Mano de Dios Símbolo de Venus Emblema de Venus Tendrás que hacerlo en cada una de las 4 pantallas del desierto, y cada vez que encuentres a uno, tendrás que acercarte a él sin que te vea moverte, es decir, cuando se de la vuelta párate inmediatamente. Si lo haces bien, conseguirás una esfera con el hombre del Cactus y tendrás que volver a la estatua de la última pantalla para colocarla e ir a buscar al siguiente, y así con los 10. Localización de los Cactus Lo primero son las pantallas: -Primera: La del Oasis -Segunda: Donde está el punto de guardar en una tienda. -Tercera: En donde las ruinas a la izquierda. -Cuarta: Donde conseguiste el objeto 1. Los Cactus: 1- En el oasis en la primera pantalla 2- En la parte norte de la segunda pantalla, corriendo por la izquierda 3- En la cuarta pantalla tienes que examinar el cartel Albhed 4- En las ruinas de la tercera pantalla, lo verás corriendo por allí. 5- Está con el Cactus anterior, en la tercera pantalla 6- Está en la segunda pantalla, escondido en el punto de guardar 7- En la tercera pantalla, dentro de un cofre 8- En la cuarta pantalla, está corriendo dentro de un remolino de arena. Tienes que salir y volver a entrar en la pantalla. 9- Examina el Oasis. Después vete al barco volador y lo verás en la cubierta del barco. 10- Cuando coloques todas las esferas anteriores, te aparecerá de repente. Ahora que ya no hay tormenta de arena, vete a por el objeto."
+        },
+        {
+          "type": "h3",
+          "text": "Kimahri"
+        },
+        {
+          "type": "p",
+          "text": "Arma: Longinus Cuando las tengas todas activadas, tienes que volver a la primera pantalla, y tendrás que seguir a un fantasma algo complicado de ver por su transparencia. Cuando éste llegue a su destino, examínalo pulsando el botón Cuadrado y ya aparecerá el cofre que contiene el arma Longinus. Símbolo de Júpiter Emblema de Júpiter -Antes de derrotar a la esfera amorfa -Después de derrotarla -Una vez tengas el barco volador Para conseguir el objeto tienes que hacerlo después de tener el barco volador, sino conseguirás otros objetos. En cada “fase” aumenta la dificultad… menos tiempo, más mariposas rojas…Memorízate bien el camino y fíjate donde están todas las mariposas, no pierdas ni una milésima de segundo y sobre todo no cojas las mariposas rojas. También recuerda que en una de las zonas después de “activar” las mariposas, tendrás que ir hacia atrás para coger la azul y después ya continuar normal hacia adelante. No os extrañéis si los nombres de los símbolos/emblemas en el juego no se corresponden con los que os indicamos aquí en Eliteguias... no nos hemos equivocado, simplemente tiene que ver con las nomenclaturas occidentales/japonesas y que con la versión HD para las nuevas consolas y PC volvieron a cambiar de nuevo. Se hizo también una reedición de la guía añadiendo imágenes y demás, pero para ello se volvió a jugar con la versión de PS2, por eso no se ven reflejados estos pequeños cambios. En cualquier caso no os preocupéis, por que aunque los nombres cambien, las localizaciones seguirán siendo las mismas."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-turbos",
+    "disc": "Extras",
+    "title": "Turbos",
+    "href": "final-fantasy-x_turbos.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Turbos"
+        },
+        {
+          "type": "p",
+          "text": "Cuando la barra de energía de un personaje se llene podrás utilizar su habilidad especial o límite, que es lo que en Final Fantasy X se conoce como Turbo."
+        },
+        {
+          "type": "h3",
+          "text": "Turbos de los personajes"
+        },
+        {
+          "type": "h4",
+          "text": "Tidus - Esgrima"
+        },
+        {
+          "type": "p",
+          "text": "El límite consiste en parar el cursor en la marca que aparece en la barra antes de que se agote el tiempo. Para conseguir los distintos tipos de este turbo lo único que tienes que hacer es utilizarlos en batalla (cualquiera de ellos) un número determinado de veces. Estocada mortal : Ya lo tienes desde el principio Carga y asalto : Usa 10 turbos Lluvia de energía : Usa 30 turbos As de blitzball : Usa 80 turbos"
+        },
+        {
+          "type": "h4",
+          "text": "Wakka - Ruleta"
+        },
+        {
+          "type": "p",
+          "text": "En cualquiera de sus cuatro turbo, el objetivo será conseguir parar las ruedas para conseguir 3 símbolos iguales antes de que se agote el tiempo. Para conseguir los diferentes tipos de este turbo simplemente tendrás que ir ganando Torneos o Ligas de blitzball hasta que salga uno como premio. -Tipos de ruletas: Ruleta elemental Ruleta de chutes Ruleta de estados Ruleta Aurochs"
+        },
+        {
+          "type": "h4",
+          "text": "Yuna - Invocación +"
+        },
+        {
+          "type": "p",
+          "text": "Lo que hace este turbo de Yuna es invocar al Eón pero con la barra de turbo ya cargada lista para utilizar. Tras haberlo utilizado, la barra volverá a cómo estaba antes (en lugar de quedarse a 0). Este Turbo no tiene más variantes."
+        },
+        {
+          "type": "h4",
+          "text": "Auron - Arte secreta"
+        },
+        {
+          "type": "p",
+          "text": "Tendrás que pulsar los botones que aparezcan en pantalla antes de que se acabe el tiempo. Sablazo sísmico -Esferas: Lo tienes por defecto. -Botones: Abajo, Izquierda, Arriba, Derecha, L1, R1, Círculo, X. Estrella fugaz -Esferas: 1 Esfera -Botones: Triángulo, Círculo, Cuadrado, X, Izquierda, Derecha, X. Castigo místico -Esferas: 3 Esferas -Botones: Arriba, L1, Abajo, R1, Derecha, Izquierda, Triángulo. Huracán -Esferas: 10 Esferas -Botones: X, Derecha, R1, Izquierda, L1, Triángulo."
+        },
+        {
+          "type": "h4",
+          "text": "Lulu - Tentación"
+        },
+        {
+          "type": "p",
+          "text": "Sólo tendrás que girar el joystick derecho del mando (en un principio en cualquier sentido vale) y cuantas más vueltas le des antes de que se acabe el tiempo, más veces se repetirá la magia que elijas, hasta un máximo de 16 y teniendo que haberla aprendido antes."
+        },
+        {
+          "type": "h4",
+          "text": "Kimahri - Técnica robada"
+        },
+        {
+          "type": "p",
+          "text": "El turbo de Kimahri consiste en robar técnicas a los enemigos para luego utilizarlas tu mismo en combate. A continuación en Eliteguias te mostramos la lista y como se consiguen: -Salto Empiezas con ella. -Cañon de Semillas Apréndela de \"Barsam\" -Patada Circular Apréndela de \"Unidad Blindada 63\" o \"Unidad Blindada 11\" -Vaho Acuático Apréndela de \"Quimera\" o de\"Quimera Negra\" -Viento Blanco Apréndela de un \"Espíritu\" (en las Ruinas Omega) -Bola de Fuego Apréndela de \"Bicornio\" o \"Vraha\" -Kamikaze Apréndela de \"Bom\" -Aliento Petrificante Apréndela de \"Basilisco\" -Condena Apréndela de \"Fantasma\" -Aliento Fétido Apréndela de \"Mólbol\" o \"Gran Mólbol\" -Barrera Total Apréndela de \"Béjimo\" o \"Rey Béjimo\" -Resplandor Apréndela del \"Ente Omega\" (Ruinas Omega) o de la Maxima creación \"Summun\""
+        },
+        {
+          "type": "h4",
+          "text": "Rikku - Alquimia"
+        },
+        {
+          "type": "h3",
+          "text": "¿Cómo se llena la barra?"
+        },
+        {
+          "type": "p",
+          "text": "Por defecto solo se llena cuando el personaje recibe daño, pero más adelante se irán desbloqueando varios tipos y podrás activar cualquiera de ellos. A continuación en Eliteguias os indicamos los distintos tipos de Turbo que hay, indicando el número de veces que cada personaje tiene que cumplir la condición indicada. Baluarte El personaje usa estados alterados para impedir o reducir los daños provocados por un enemigo. -Tidus: 120 -Yuna: 110 -Wakka: 120 -Lulu: 120 -Kimahri: 120 -Auron: 120 -Rikku: 120 Combatividad El personaje hace daño a un enemigo sin usar un objeto o un Turbo. -Tidus: 150 -Yuna: 200 -Wakka: 160 -Lulu: 300 -Kimahri: 120 -Auron: 100 -Rikku: 140 Conmiseración El personaje restaura la VIT de sus compañeros. -Tidus: 80 -Yuna: 60 -Wakka: 100 -Lulu: 170 -Kimahri: 100 -Auron: 200 -Rikku: 70 Crisis El personaje lucha con menos del 50% de su VIT -Tidus: 170 -Yuna: 90 -Wakka: 140 -Lulu: 150 -Kimahri: 200 -Auron: 260 -Rikku: 110 Disciplina El personaje pierde VIT por un ataque enemigo. -Es el turbo que viene por defecto. Estoicismo El personaje sufre un estado alterado provocado por un ataque enemigo. -Tidus: 100 -Yuna: 80 -Wakka: 100 -Lulu: 110 -Kimahri: 130 -Auron: 120 -Rikku: 90 Furia Los camaradas sufren daños causados por el eneemigo. -Tidus: 300 -Yuna: 240 -Wakka: 100 -Lulu: 100 -Kimahri: 100 -Auron: 220 -Rikku: 100 Gallardia Es el turno del personaje. -Tidus: 600 -Yuna: 500 -Wakka: 350 -Lulu: 480 -Kimahri: 300 -Auron: 450 -Rikku: 320 Ingenio El personaje produce un estado alterado a un enemigo. -Tidus: 75 -Yuna: 100 -Wakka: 80 -Lulu: 75 -Kimahri: 60 -Auron: 110 -Rikku: 90 Ligereza El personaje esquiva el ataque del enemigo. -Tidus: 250 -Yuna: 200 -Wakka: 200 -Lulu: 300 -Kimahri: 130 -Auron: 200 -Rikku: 200 Penitencia El personaje sufre un estado alterado provocado por un oponente y es su turno. -Tidus: 120 -Yuna: 100 -Wakka: 110 -Lulu: 130 -Kimahri: 100 -Auron: 160 -Rikku: 125 Pesadumbre Un aliado muere a manos de un enemigo. -Tidus: 100 -Yuna: 80 -Wakka: 100 -Lulu: 150 -Kimahri: 100 -Auron: 120 -Rikku: 90 Proeza El personaje derrota a un eenemigo poderoso con más de 10.000 de VIT. -Tidus: 50 -Yuna: 50 -Wakka: 50 -Lulu: 70 -Kimahri: 45 -Auron: 40 -Rikku: 50 Soledad El personaje lucha solo y es su turno. -Tidus: 60 -Yuna: 180 -Wakka: 110 -Lulu: 45 -Kimahri: 90 -Auron: 35 -Rikku: 170 Supremacía El personaje derota a un enemigo. -Tidus: 100 -Yuna: 110 -Wakka: 90 -Lulu: 130 -Kimahri: 120 -Auron: 80 -Rikku: 100 Vergüenza El personaje huy de la batalla. -Tidus: 600 -Yuna: 900 -Wakka: 400 -Lulu: 980 -Kimahri: 700 -Auron: 1000 -Rikku: 450 Victoria El grupo vence una batalla. -Tidus: 120 -Yuna: 150 -Wakka: 160 -Lulu: 200 -Kimahri: 120 -Auron: 200 -Rikku: 140"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-diccionarios",
+    "disc": "Extras",
+    "title": "Diccionarios Al Bhed",
+    "href": "final-fantasy-x_diccionarios-albhed.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/diccionario-albhed_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Diccionarios Albhed"
+        },
+        {
+          "type": "p",
+          "text": "Repartidos por todo el juego hay una serie de diccionaros Albhed, los cuales no se limitarán a ser un simple coleccionable más, sino que servirán para entender el idioma de los Albhed, y por cada uno que encuentres, se cambiará una letra de su idioma por el tuyo, pudiendo ver los cambios en tus diálogos con ellos. A continuación en Eliteguias os indicamos la localización de estos diccionarios, que son 26 en total."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 1"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_1.jpg",
+          "alt": "Diccionario albhed 1",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"A\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 2"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_2.jpg",
+          "alt": "Diccionario albhed 2",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"B\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 3"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_3a.jpg",
+          "alt": "Diccionario Albhed 3",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_3b.jpg",
+          "alt": "Diccionario Albhed 3",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"C\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 4"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_4a.jpg",
+          "alt": "Diccionario Albhed 4",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_4b.jpg",
+          "alt": "Diccionario Albhed 4",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"D\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 5"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_5a.jpg",
+          "alt": "Diccionario Albhed 5",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_5b.jpg",
+          "alt": "Diccionario Albhed 5",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"E\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 6"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_6a.jpg",
+          "alt": "Diccionario Albhed 6",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_6b.jpg",
+          "alt": "Diccionario Albhed 6",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"F\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 7"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_7a.jpg",
+          "alt": "Diccionario Albhed 7",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_7b.jpg",
+          "alt": "Diccionario Albhed 7",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"G\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 8"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_8a.jpg",
+          "alt": "Diccionario Albhed 8",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_8b.jpg",
+          "alt": "Diccionario Albhed 8",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"H\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 9"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_9.jpg",
+          "alt": "Diccionario Albhed 9",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"I\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 10"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_10a.jpg",
+          "alt": "Diccionario Albhed 10",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_10b.jpg",
+          "alt": "Diccionario Albhed 10",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"J\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 11"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_11a.jpg",
+          "alt": "Diccionario Albhed 11",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_11b.jpg",
+          "alt": "Diccionario Albhed 11",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"K\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 12"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_12a.jpg",
+          "alt": "Diccionario Albhed 12",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_12b.jpg",
+          "alt": "Diccionario Albhed 12",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"L\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 13"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_13a.jpg",
+          "alt": "Diccionario Albhed 13",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_13b.jpg",
+          "alt": "Diccionario Albhed 13",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"M\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 14"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_14.jpg",
+          "alt": "Diccionario Albhed 14",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender las letras \"N\" y \"Ñ\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 15"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_15.jpg",
+          "alt": "Diccionario Albhed 15",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"O\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 16"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_16.jpg",
+          "alt": "Diccionario Albhed 16",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"P\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 17"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_17.jpg",
+          "alt": "Diccionario Albhed 17",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"Q\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 18"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_18.jpg",
+          "alt": "Diccionario Albhed 18",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"R\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 19"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_19.jpg",
+          "alt": "Diccionario Albhed 19",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"S\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 20"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_20.jpg",
+          "alt": "Diccionario Albhed 20",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"T\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 21"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_21.jpg",
+          "alt": "Diccionario Albhed 21",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"U\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 22"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_22.jpg",
+          "alt": "Diccionario Albhed 22",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"V\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 23"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_23.jpg",
+          "alt": "Diccionario Albhed 23",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"W\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 24"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_24a.jpg",
+          "alt": "Diccionario Albhed 24",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_24b.jpg",
+          "alt": "Diccionario Albhed 24",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"X\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 25"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_25.jpg",
+          "alt": "Diccionario Albhed 25",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "-Sirve para aprender la letra \"Y\" en albhed."
+        },
+        {
+          "type": "h3",
+          "text": "Diccionario albhed 26"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_diccionario-albhed_26.jpg",
+          "alt": "Diccionario Albhed 26",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Una vez allí desde la entrada gira a la izquierda, a la derecha, otra vez a la derecha y verás el diccionario en el suelo pasando de largo esos cuatro cofres. -Sirve para aprender la letra \"Z\" en albhed."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-esferas-jecht",
+    "disc": "Extras",
+    "title": "Esferas de Jecht",
+    "href": "final-fantasy-x_esferas-de-jecht.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/esfera-de-jetch_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Esferas de Jecht"
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 1"
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 2"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_1.jpg",
+          "alt": "Esfera de Jecht 2",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_2.jpg",
+          "alt": "Esfera de Jecht 2",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 3"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_3.jpg",
+          "alt": "Esfera de Jecht",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 4"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_4.jpg",
+          "alt": "Esfera de Jecht 4",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 5"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_5.jpg",
+          "alt": "Esfera de Jecht 5",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 6"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_6.jpg",
+          "alt": "Esfera de Jecht 6",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 7"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_7.jpg",
+          "alt": "Esfera de Jecht 7",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Jecht 8"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-jetch_8.jpg",
+          "alt": "Esfera de Jecht 8",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Auron 1"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-auron_1.jpg",
+          "alt": "Esfera de Auron 1",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-auron_2.jpg",
+          "alt": "Esfera de Auron 1",
+          "caption": ""
+        },
+        {
+          "type": "h3",
+          "text": "Esfera de Braska 1"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-braska_1.jpg",
+          "alt": "Esfera de Braska 1",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_esfera-de-braska_2.jpg",
+          "alt": "Esfera de Braska 1",
+          "caption": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-blitzbol",
+    "disc": "Extras",
+    "title": "Blitzbol",
+    "href": "final-fantasy-x_blitzbol.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Blitzbol"
+        },
+        {
+          "type": "p",
+          "text": "En Eliteguias no te vamos a explicar cómo jugar al blitzbol, eso es algo que aprenderás fácilmente con un par de partidos que juegues. Lo que si que te vamos a explicar, es lo que probablemente más te interese, que es cómo formar un buen equipo y donde conseguir a los mejores jugadores. Puede que el equipo que te proponemos no sea el mejor, pero si de los mejores y además es muy fácil de conseguir, sin tener que esperar interminables partidos hasta que los equipos se deshagan de sus estrellas (que rara vez ocurre). Colócalos según vienen aquí por orden y es recomendable que no juegues nngún partido hasta que no los tengas todos. Y luego no te centres en jugar únicamente con el mejor de tus jugadores (Tidus por ej), para que todos ganen experiencia al final de un partido tienen que participar activamente en el partido, es decir, realizar pases, moverse con el balón, tirar, etc..."
+        },
+        {
+          "type": "h3",
+          "text": "Tidus"
+        },
+        {
+          "type": "p",
+          "text": "En Eliteguias todavía no lo dimos conseguido, es bastante complicado..."
+        },
+        {
+          "type": "h3",
+          "text": "Wakka/Eigaar"
+        },
+        {
+          "type": "p",
+          "text": "Primero juega con Wakka en esta posición y luego cuando Eigaar esté disponible, fíchalo y quita a Wakka. Wakk S ólo lo podrás fichar cuando estés en el barco volador, al menos en Elitequias por mucho que se intentó antes, no se pudo. Eigaar Tendrás que esperar a que lo suelte su equipo."
+        },
+        {
+          "type": "h3",
+          "text": "Hermano"
+        },
+        {
+          "type": "p",
+          "text": "Lo puedes fichar en el barco volador."
+        },
+        {
+          "type": "h3",
+          "text": "Kyou"
+        },
+        {
+          "type": "p",
+          "text": "Está en el puente antes de llegar al templo de Djose"
+        },
+        {
+          "type": "h3",
+          "text": "Ropp"
+        },
+        {
+          "type": "p",
+          "text": "Lo puedes encontrar en el camino de Miihen."
+        },
+        {
+          "type": "h3",
+          "text": "Miyu/Nimrock"
+        },
+        {
+          "type": "p",
+          "text": "Puedes cambiar a Miyu por Nimrock cuando esté disponible, no está cual de los dos es mejor... Miyu En el Río de la Luna. Nimrock Está en el barco volador junto con los demás albhed."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-entrenamiento",
+    "disc": "Extras",
+    "title": "Entrenamiento",
+    "href": "final-fantasy-x_entrenamiento.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Entrenamiento"
+        },
+        {
+          "type": "p",
+          "text": "Para capturarlos tienes que darles el último golpe, el que los mata, con un arma especial que solo se le puede comprar al dueño de la zona de Entrenamiento."
+        },
+        {
+          "type": "h3",
+          "text": "Monstruos normales de cada zona"
+        },
+        {
+          "type": "p",
+          "text": "Besaid Cóndor, Dingo, Flan de agua Bikanel Cactilio, Gusano de arena, Halcón, Lobo del desierto, Mushufushu, Zu Camino de Djose Basilisco, Flan de nieve, Garmú, Lasca, Mosquito, Ochú, Quebrantahuesos Camino de Miihen Bicornio, Bom, Ente blanco, Fang de Miihen, Hiperia, Ojo flotante, Petro, Vihur Cueva del Barranco Ente oscuro, Everge, Fantasma, Galkimasera, Septa, Sigurd, Tomberi, Vraha, Yovi Interior de Sinh Adamantaimai, Amanita, Barbatos, Caronte, Gigante, Gran molbol, Monolito diabólico, Rey Bégimo Kilika Abeja asesina, Barsam, Dinonix, Ente amarillo Llanura de la Calma Bengal, Dole, Dracmón, Flan de llamas, Molbol, Ogro, Quimera negra, Shred, Véspida Llanura de los Rayos Airos, Buel, Cactilio X, Ente dorado, Férreo, Gecko, Kusarik, Máscara Macalania Avispa, Ente azul, Flan de hielo, Iguion, Kuspo, Lobo de nieves, Mafú, Mulfú, Ojo diabólico, Quimera Monte Gagazet Aqueoros, Arimán, Asur, Bégimo, Flan oscuro, Granada, Grat, Grendel, Mal Bernardo, Mandrágora, Pez luchador, Tritón Senda de las Rocas Hongo Ente rojo, Flan eléctrico, Fungo, Gandarva, Garuda, Ramashu, Raptor"
+        },
+        {
+          "type": "h3",
+          "text": "Listado de creaciones"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Creaciones por zona",
+            "Creaciones por especie",
+            "Creaciones máximas"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-barco-volador",
+    "disc": "Extras",
+    "title": "Localizaciones secretas con el Barco volador",
+    "href": "final-fantasy-x_barco-volador.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Localizaciones secretas con el barco volador"
+        },
+        {
+          "type": "p",
+          "text": "Hay 2 tipos de localizaciones secretas, las que accedes a ellas introduciendo una contraseña y las que tienes que poner las coordenadas o situar el cursor en unas coordenadas. Las coordenadas no hace falta que estén exactamente igual, aunque varíen un poco (muy poco) encontrarás el lugar igual."
+        },
+        {
+          "type": "h3",
+          "text": "Contraseñas"
+        },
+        {
+          "type": "p",
+          "text": "MANODEDIOS VICTORIOSA MURASAME"
+        },
+        {
+          "type": "h3",
+          "text": "Coordenadas"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-secretos",
+    "disc": "Extras",
+    "title": "Otros secretos",
+    "href": "final-fantasy-x_secretos.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Secretos"
+        },
+        {
+          "type": "h3",
+          "text": "Segundo Turbo de Valefor"
+        },
+        {
+          "type": "p",
+          "text": "Antes de salir de Besaid durante la historia principal, vuelve al poblado y vete a la tienda de items, compra una poción (sólo cuesta 50 guils) y te dirá algo sobre el pero; pues ahora vete a la casa de más arriba a la derecha y habla con el perro para que te de el segundo turbo de Valefor. Si el perro no está en la tienda, puede estar en la parte de arriba a la izquierda del poblado, por donde la casa de la Legión. Es muy importante que lo hagas ahora, por que después tendrás que vencer al Eón oscuro para poder volver a entrar al pueblo."
+        },
+        {
+          "type": "h3",
+          "text": "Wakka con la copa"
+        },
+        {
+          "type": "p",
+          "text": "Esto (y tu orgullo) es lo único que conseguirás si ganas el primer partido de blizball durante la historia principal. Es bastante difícil, pero si sabes jugar bien, mi consejo es que al menos intentes empatar la primera mitad y en la segunda marcar un gol con el tiro de jetch de Tidus y otro con Wakka. Más tarde verás a wakka con la copa en una escena."
+        },
+        {
+          "type": "h3",
+          "text": "Música y videos del juego"
+        },
+        {
+          "type": "p",
+          "text": "En el teatro de Luca, podrás escuchar la música y ver cualquier video del juego en cualquier momento. El único requisito es haberlos visto antes durante el juego."
+        },
+        {
+          "type": "h3",
+          "text": "Chocobos más estables"
+        },
+        {
+          "type": "p",
+          "text": "Sobre todo en la última carrera de entrenamiento te será de gran utilidad si mantienes pulsados los botones R1 + R2 + L1 + L2 a la vez. De esta forma el chocobo se irá menos para los lados."
+        },
+        {
+          "type": "h3",
+          "text": "Más daño en los ataques"
+        },
+        {
+          "type": "p",
+          "text": "Tienes que pulsar el botón R1 justo en el momento en el que golpeas al enemigo. Es un poco difícil hacerlo en el momento justo, pero si lo consigues le harás casi el doble de daño al enemigo."
+        },
+        {
+          "type": "h3",
+          "text": "Más tesoros en los templos"
+        },
+        {
+          "type": "p",
+          "text": "Una vez que tengas el barco volador. Vuelve a visitar los templos y entra en la cámara del orador para conseguir más items."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p94",
+    "disc": "Extras",
+    "title": "Templo de Remiem",
+    "href": "final-fantasy-x-p94.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/templo-de-remiem_1.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Templo de Remiem"
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-remiem_1.jpg",
+          "alt": "Templo de Remiem",
+          "caption": ""
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_templo-de-remiem_2.jpg",
+          "alt": "Templo de Remiem",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "¿Qué vas a encontrar en este templo?"
+        },
+        {
+          "type": "h3",
+          "text": "Carrera de chocobos"
+        },
+        {
+          "type": "p",
+          "text": "Habla con el chocobo que está por el lado derecho para comenzar este minijuego. El objetivo principal será llegar el primero a la meta, pero además, por cada cofre que abras recibirás una recompensa adicional. Hay 6 cofres, pero solo podrás coger un máximo de 5. -0 cofres: Espejo empañado (es el Espejo de los 7 astros sin recargar) -1 cofre: Elixir. -2 cofres: Omnielixir. -3 cofres: Alas misteriosas x30. -4 cofres: Péndulo x30. -5 cofres: Tres estrellas x60."
+        },
+        {
+          "type": "h3",
+          "text": "Coleccionables"
+        },
+        {
+          "type": "h3",
+          "text": "Eones"
+        },
+        {
+          "type": "h3",
+          "text": "Armas de los 7 astros"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-p97",
+    "disc": "Extras",
+    "title": "Ruinas Omega",
+    "href": "final-fantasy-x-p97.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": "/img/juegos/final-fantasy-x/ente-artema.jpg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Ruinas Omega"
+        },
+        {
+          "type": "p",
+          "text": "En el barco volador utiliza las coordenadas X-74 Y-36 para descubrir las Ruinas Omega y entonces selecciona esta localización como destino de la lista para ir hasta allí."
+        },
+        {
+          "type": "h3",
+          "text": "Ente Artema"
+        },
+        {
+          "type": "p",
+          "text": "Primero ve hacia la parte Noreste de la cueva y tras subir por un pequeño elevador, avanza un poco y automáticamente tendrás el combate con el Ente Artema."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_ente-artema.jpg",
+          "alt": "Ente Artema",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "No te dejes impresionar por su aspecto, si has venido hasta aquí es que ya tienes un grupo medianamente preparado, con lo cual no te debería de dar muchos problemas, \"sólo\" tiene 99.999 de vitalidad (en la versión PAL, en las demás 70.000) y sus ataques como mucho te deberían quitar 4000 de daño. No hará ni falta que tengas las armas de los 7 astros (aunque deberías, por que más adelante está el Ente Omega). Tampoco te olvides de robarle unas cuantas \"Puertas al mañana\". -VIT: 99.999 -PM: 1 Estadísticas -Fuerza: 50 -Defensa física: 60 -Poder mágico: 45 -Defensa mágica: 60 -Rapidez: 28 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: - -Rayo: - -Agua: - -Frío: - -Sanctus: - Recompensas -PH: 40.000 -Guiles: 20.000"
+        },
+        {
+          "type": "h3",
+          "text": "Ente Omega"
+        },
+        {
+          "type": "p",
+          "text": "Tras haber derrotado al Ente Artema, súbete a la plataforma que estaba custodiando para ir a la siguiente zona. Aquí aunque vayas con la habilidad para no tener encuentros, en cada una de las plataformas circulares te vas a enfrentar si o si a enemigos raritos. -Por el lado izquierdo hay 2 plataformas y tras cruzarlas llegarás a un cofre que contiene una \"Esfera amiga\". -Por la derecha hay 7 plataformas y al fondo te espera el Ente Omega."
+        },
+        {
+          "type": "img",
+          "src": "/img/ff10/img_juegos_final-fantasy-x_ente-omega.jpg",
+          "alt": "Ente Omega",
+          "caption": ""
+        },
+        {
+          "type": "p",
+          "text": "Aquí si que tienes que empezar a preocuparte y tener si o si las armas de los 7 astros y la expansión de vitalidad con los personajes con los que vayas a luchar. Lo principal aquí es que mientras los que tengan la versión NTSC o la japonesa, el Ente Omega solo tendrá 99.999 de salud, pero los que tengan la región PAL del juego, tendrán que enfrentarse a una versión con 999.999 de vida.... casi nada. Usar a Yojimbo con su ataque de muerte instantánea será demasiado fácil, así que procura que todos los personajes tengan el turbo ya preparado antes del combate, entonces ve utilizando los turbos y cambiando ese personaje cuando acabes. Lo mismo con los eones, lánzalos con el turbo preparado, sigue con ellos hasta que mueran y lanza al siguiente en cuanto a Yuna le llegue el turno. -VIT: 999.999 -PM: 999 Estadísticas -Fuerza: 64 -Defensa física: 90 -Poder mágico: 57 -Defensa mágica: 80 -Rapidez: 38 -Suerte: 15 -Evasión: 0 -Puntería: 0 Elementos -Fuego: Absorbe -Rayo: Absorbe -Agua: Absorbe -Frío: Absorbe -Sanctus: Absorbe Recompensas -PH: 50.000 -Guiles: 30.000 En donde estaba Omega hay un cofre que contiene una \"Esfera de Poder mágico\", pero si quieres cogerlo tendrás que recorrer de nuevo todas las ruinas, por que habrás aparecido automáticamente al inicio de las mismas."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ff10-requisitos",
+    "disc": "Extras",
+    "title": "Requisitos PC",
+    "href": "final-fantasy-x_requisitos.php",
+    "content": {
+      "title": "Guía Final Fantasy X",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Requisitos mínimos y recomendados en PC"
+        },
+        {
+          "type": "h3",
+          "text": "Requisitos mínimos"
+        },
+        {
+          "type": "p",
+          "text": "-SO: Windows Vista -CPU: Dual Core 2 GHz -Gráfica: Nvidia Geforce 9600 GT o ATI Radeon HD 2600 XT (ambas con 512 VRAM) -RAM: 1 GB -HD: 37 GB"
+        },
+        {
+          "type": "h3",
+          "text": "Requisitos recomendados"
+        },
+        {
+          "type": "p",
+          "text": "-SO: Windows Vista -CPU: Quad Core 2.4 GHz -Gráfica: Nvidia Geforce GTX 450 o AMD Radeon HD 5750 (ambas con 512 VRAM) -RAM: 2 GB -HD: 40 GB"
+        }
+      ]
+    }
+  }
+]

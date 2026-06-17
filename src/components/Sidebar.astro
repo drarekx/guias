@@ -1,0 +1,151 @@
+---
+import Logo from "./Logo.astro";
+import Search from "./Search.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+import { totalPagesFor, getStructure, loadGame } from "../lib/guide";
+import type { Game } from "../lib/games";
+
+interface Props {
+  game: Game;
+  currentSlug?: string;
+}
+const { game, currentSlug } = Astro.props;
+
+const { structure, meta } = loadGame(game.slug);
+const total = totalPagesFor(game.slug);
+---
+<aside class="sidebar hidden lg:flex flex-col w-[300px] shrink-0 h-screen sticky top-0 border-r border-[var(--color-border)] bg-[var(--color-surface-1)]/60 backdrop-blur-md">
+  <!-- Header -->
+  <div class="px-5 pt-5 pb-4 flex items-center justify-between gap-2">
+    <a href="/" class="flex items-center gap-2 group" title="Todos los juegos">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="text-[var(--color-text-mute)] group-hover:text-[var(--color-crystal)] transition-colors">
+        <path d="m3 11 9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/>
+      </svg>
+      <Logo size={28} game={game} />
+    </a>
+    <ThemeToggle />
+  </div>
+
+  <!-- Search trigger -->
+  <div class="px-4 pb-4">
+    <Search />
+  </div>
+
+  <!-- Progress summary -->
+  <div class="px-5 pb-3">
+    <div class="flex items-center justify-between font-ui text-[0.7rem] uppercase tracking-widest text-[var(--color-text-mute)] mb-2">
+      <span>Progreso</span>
+      <span data-progress-overall={total} class="text-[var(--color-gold)] font-semibold">0 / {total}</span>
+    </div>
+    <div class="h-1 w-full bg-[var(--color-surface-3)] rounded-full overflow-hidden">
+      <div data-progress-bar class="h-full bg-gradient-to-r from-[var(--color-crystal)] to-[var(--color-gold)] transition-all" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Nav -->
+  <nav class="flex-1 overflow-y-auto px-3 pb-6 space-y-1">
+    {structure.map((g) => (
+      <details open class="group/section sidebar-section">
+        <summary class="list-none cursor-pointer flex items-center justify-between px-2 py-2 rounded-md hover:bg-[var(--color-surface-2)] transition-colors">
+          <span class="font-display text-[0.75rem] tracking-[0.18em] uppercase text-[var(--color-gold)]">{g.disc}</span>
+          <span class="flex items-center gap-2">
+            <span class="font-mono text-[0.65rem] text-[var(--color-text-mute)]">{g.items.length}</span>
+            <svg class="w-3 h-3 text-[var(--color-text-mute)] transition-transform group-open/section:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6" />
+            </svg>
+          </span>
+        </summary>
+        <ul class="mt-1 mb-3 space-y-0.5">
+          {g.items.map((it) => {
+            const isCurrent = it.slug === currentSlug;
+            return (
+              <li>
+                <a
+                  href={`/${game.slug}/guia/${it.slug}`}
+                  data-nav-slug={it.slug}
+                  class={`nav-item group flex items-center gap-2.5 pl-3 pr-2 py-1.5 rounded-md text-sm transition-colors ${
+                    isCurrent
+                      ? "bg-[var(--color-crystal)]/12 text-[var(--color-text)] border-l-2 border-[var(--color-crystal)]"
+                      : "text-[var(--color-text-soft)] hover:text-[var(--color-text)] hover:bg-[var(--color-surface-2)]"
+                  }`}
+                >
+                  <span class="nav-dot inline-block w-1.5 h-1.5 rounded-full bg-[var(--color-mist)] group-hover:bg-[var(--color-crystal)] transition-colors shrink-0"></span>
+                  <span class="truncate flex-1">{it.title}</span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </details>
+    ))}
+  </nav>
+
+  <!-- Footer -->
+  <div class="px-5 py-4 border-t border-[var(--color-border-soft)] text-[0.7rem] text-[var(--color-text-mute)] font-ui flex items-center justify-between">
+    <span>Basada en <a href={game.baseUrl + game.indexHref} target="_blank" rel="noopener" class="text-[var(--color-text-soft)] hover:text-[var(--color-crystal)] underline-offset-2 hover:underline">Eliteguias</a></span>
+    <span style={`color:${game.theme.accent.hex}`}>✦</span>
+  </div>
+</aside>
+
+<!-- Mobile bottom bar -->
+<div class="lg:hidden fixed bottom-0 inset-x-0 z-50 border-t border-[var(--color-border)] bg-[var(--color-surface-1)]/95 backdrop-blur-md flex items-center justify-around px-2 py-2">
+  <a href={`/${game.slug}/`} class="btn btn--ghost btn--icon" aria-label="Inicio del juego">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 12 9-9 9 9M5 10v10h14V10"/></svg>
+  </a>
+  <button id="mobile-search" type="button" class="btn btn--ghost btn--icon" aria-label="Buscar">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+  </button>
+  <button id="mobile-toc" type="button" class="btn btn--ghost btn--icon" aria-label="Índice">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+  </button>
+  <ThemeToggle />
+</div>
+
+<!-- Mobile TOC drawer -->
+<div id="mobile-toc-drawer" class="lg:hidden fixed inset-0 z-[90] hidden">
+  <div id="mobile-toc-backdrop" class="absolute inset-0 bg-[var(--color-void)]/80 backdrop-blur-sm"></div>
+  <nav class="absolute bottom-0 inset-x-0 max-h-[80vh] overflow-y-auto rounded-t-2xl bg-[var(--color-surface-1)] border-t border-[var(--color-border)] p-4">
+    <div class="w-10 h-1 rounded-full bg-[var(--color-mist)] mx-auto mb-4"></div>
+    {structure.map((g) => (
+      <details open class="mb-3">
+        <summary class="font-display text-[0.75rem] tracking-[0.18em] uppercase text-[var(--color-gold)] py-2 cursor-pointer">{g.disc}</summary>
+        <ul class="space-y-1 mt-1">
+          {g.items.map((it) => (
+            <li>
+              <a
+                href={`/${game.slug}/guia/${it.slug}`}
+                data-nav-slug={it.slug}
+                class={`block px-3 py-2 rounded-md text-sm ${it.slug === currentSlug ? "bg-[var(--color-crystal)]/15 text-[var(--color-text)]" : "text-[var(--color-text-soft)] hover:bg-[var(--color-surface-2)]"}`}
+              >
+                {it.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
+    ))}
+  </nav>
+</div>
+
+<script is:inline>
+  document.getElementById("mobile-search")?.addEventListener("click", () => {
+    document.getElementById("search-trigger")?.click();
+  });
+  const drawer = document.getElementById("mobile-toc-drawer");
+  const tocBtn = document.getElementById("mobile-toc");
+  const drawerBack = document.getElementById("mobile-toc-backdrop");
+  tocBtn?.addEventListener("click", () => {
+    drawer?.classList.remove("hidden");
+    document.body.style.overflow = "hidden";
+  });
+  drawerBack?.addEventListener("click", () => {
+    drawer?.classList.add("hidden");
+    document.body.style.overflow = "";
+  });
+  drawer?.addEventListener("click", (e) => {
+    if (e.target instanceof HTMLAnchorElement) {
+      drawer.classList.add("hidden");
+      document.body.style.overflow = "";
+    }
+  });
+</script>

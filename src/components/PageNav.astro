@@ -1,0 +1,26 @@
+---
+import type { PageMeta } from "../lib/guide";
+import type { Game } from "../lib/games";
+interface Props { game: Game; meta: PageMeta; }
+const { game, meta } = Astro.props;
+---
+<nav aria-label="Navegación de página" class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-16 pt-8 border-t border-[var(--color-border-soft)]">
+  {meta.prev ? (
+    <a href={`/${game.slug}/guia/${meta.prev.slug}`} class="card p-5 group hover:border-[var(--color-crystal)]/40 transition-all">
+      <div class="flex items-center gap-2 text-[0.7rem] font-ui uppercase tracking-widest text-[var(--color-text-mute)] mb-2">
+        <svg class="w-3.5 h-3.5 group-hover:-translate-x-0.5 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 6-6 6 6 6"/></svg>
+        <span>Anterior</span>
+      </div>
+      <div class="font-display text-[var(--color-text)] group-hover:text-[var(--color-crystal-2)] transition-colors text-lg leading-tight">{meta.prev.title}</div>
+    </a>
+  ) : <div></div>}
+  {meta.next ? (
+    <a href={`/${game.slug}/guia/${meta.next.slug}`} class="card p-5 group hover:border-[var(--color-gold)]/40 transition-all text-right sm:col-start-2">
+      <div class="flex items-center justify-end gap-2 text-[0.7rem] font-ui uppercase tracking-widest text-[var(--color-text-mute)] mb-2">
+        <span>Siguiente</span>
+        <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+      </div>
+      <div class="font-display text-[var(--color-text)] group-hover:text-[var(--color-gold)] transition-colors text-lg leading-tight">{meta.next.title}</div>
+    </a>
+  ) : <div></div>}
+</nav>

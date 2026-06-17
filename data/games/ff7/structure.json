@@ -1,0 +1,134 @@
+[
+  {
+    "disc": "CD 1",
+    "items": [
+      {
+        "slug": "ff7-p1",
+        "title": "Avalancha y los reactores Mako"
+      },
+      {
+        "slug": "ff7-p2",
+        "title": "El mercado Muro"
+      },
+      {
+        "slug": "ff7-p3",
+        "title": "El Sector 7"
+      },
+      {
+        "slug": "ff7-p4",
+        "title": "Edificio Shinra"
+      },
+      {
+        "slug": "ff7-p5",
+        "title": "El mundo exterior"
+      },
+      {
+        "slug": "ff7-p6",
+        "title": "Junon y Costa del Sol"
+      },
+      {
+        "slug": "ff7-p14",
+        "title": "Corel del Norte y Gold Saucer"
+      },
+      {
+        "slug": "ff7-p7",
+        "title": "Cañón Cosmo"
+      },
+      {
+        "slug": "ff7-p8",
+        "title": "Nibelheim y el cohete de Cid"
+      },
+      {
+        "slug": "ff7-p15",
+        "title": "Wutai"
+      },
+      {
+        "slug": "ff7-p16",
+        "title": "Conseguir la Piedra angular"
+      },
+      {
+        "slug": "ff7-p9",
+        "title": "El Templo de los ancianos"
+      },
+      {
+        "slug": "ff7-p10",
+        "title": "La Ciudad Olvidada"
+      }
+    ]
+  },
+  {
+    "disc": "CD 2",
+    "items": [
+      {
+        "slug": "ff7-p11",
+        "title": "Valle del Coral y acantilados de Gaea"
+      },
+      {
+        "slug": "ff7-p12",
+        "title": "El Cráter y la vuelta a Junon"
+      },
+      {
+        "slug": "ff7-p13",
+        "title": "Las materias enormes"
+      },
+      {
+        "slug": "ff7-p17",
+        "title": "El final del segundo disco"
+      }
+    ]
+  },
+  {
+    "disc": "CD 3",
+    "items": [
+      {
+        "slug": "ff7-p18",
+        "title": "Cueva norte y batalla final"
+      }
+    ]
+  },
+  {
+    "disc": "Extras",
+    "items": [
+      {
+        "slug": "ff7-limites-nivel-4",
+        "title": "Límites de Nivel 4"
+      },
+      {
+        "slug": "ff7-chocobos",
+        "title": "Chocobos"
+      },
+      {
+        "slug": "ff7-habilidades-enemigas",
+        "title": "Habilidades enemigas"
+      },
+      {
+        "slug": "ff7-arma-rubi-esmeralda",
+        "title": "Arma Ruby & Arma Esmeralda"
+      },
+      {
+        "slug": "ff7-equipo",
+        "title": "Equipo"
+      },
+      {
+        "slug": "ff7-experiencia-dinero",
+        "title": "Experiencia y Dinero"
+      },
+      {
+        "slug": "ff7-noticias-tortugas",
+        "title": "Noticias del paraíso de las tortugas"
+      },
+      {
+        "slug": "ff7-dano-triple",
+        "title": "Daño triple"
+      },
+      {
+        "slug": "ff7-minijuego-mog",
+        "title": "Minijuego de Mog"
+      },
+      {
+        "slug": "ff7-curiosidades",
+        "title": "Curiosidades"
+      }
+    ]
+  }
+]

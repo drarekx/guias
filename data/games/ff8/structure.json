@@ -1,0 +1,291 @@
+[
+  {
+    "disc": "CD 1",
+    "items": [
+      {
+        "slug": "ff8-p1",
+        "title": "Jardín de Balamb"
+      },
+      {
+        "slug": "ff8-p2",
+        "title": "Dollet"
+      },
+      {
+        "slug": "ff8-p3",
+        "title": "Los resultados del examen práctico"
+      },
+      {
+        "slug": "ff8-p4",
+        "title": "Hacia Timber"
+      },
+      {
+        "slug": "ff8-p5",
+        "title": "Laguna (primer sueño)"
+      },
+      {
+        "slug": "ff8-p6",
+        "title": "El Tren de Timber"
+      },
+      {
+        "slug": "ff8-p7",
+        "title": "Timber"
+      },
+      {
+        "slug": "ff8-p8",
+        "title": "Laguna (segundo sueño)"
+      },
+      {
+        "slug": "ff8-p9",
+        "title": "Jardín de Galbadia"
+      },
+      {
+        "slug": "ff8-p10",
+        "title": "Deling"
+      },
+      {
+        "slug": "ff8-p11",
+        "title": "La tumba del Rey sin nombre"
+      },
+      {
+        "slug": "ff8-p12",
+        "title": "El desfile de Deling"
+      }
+    ]
+  },
+  {
+    "disc": "CD 2",
+    "items": [
+      {
+        "slug": "ff8-p13",
+        "title": "Laguna (tercer sueño)"
+      },
+      {
+        "slug": "ff8-p14",
+        "title": "La prisión del desierto"
+      },
+      {
+        "slug": "ff8-p15",
+        "title": "Base de misiles"
+      },
+      {
+        "slug": "ff8-p16",
+        "title": "De vuelta al Jardín de Balamb"
+      },
+      {
+        "slug": "ff8-p17",
+        "title": "Fisherman's Horizon"
+      },
+      {
+        "slug": "ff8-p133",
+        "title": "Concierto en el Jardín de Balamb"
+      },
+      {
+        "slug": "ff8-p18",
+        "title": "Balamb bajo el dominio de Galbadia"
+      },
+      {
+        "slug": "ff8-p19",
+        "title": "Pueblo Shumi"
+      },
+      {
+        "slug": "ff8-p20",
+        "title": "Jardín de Trabia"
+      },
+      {
+        "slug": "ff8-p21",
+        "title": "Ruinas de Centra"
+      },
+      {
+        "slug": "ff8-p22",
+        "title": "El asalto de los jardines"
+      },
+      {
+        "slug": "ff8-p23",
+        "title": "De vuelta al Jardín de Galbadia"
+      }
+    ]
+  },
+  {
+    "disc": "CD 3",
+    "items": [
+      {
+        "slug": "ff8-p81",
+        "title": "Casa de Edea"
+      },
+      {
+        "slug": "ff8-p24",
+        "title": "Laguna (cuarto sueño)"
+      },
+      {
+        "slug": "ff8-p134",
+        "title": "Buque de los Seeds blancos"
+      },
+      {
+        "slug": "ff8-p25",
+        "title": "De camino a Esthar"
+      },
+      {
+        "slug": "ff8-p26",
+        "title": "Laguna (quinto sueño)"
+      },
+      {
+        "slug": "ff8-p27",
+        "title": "Ciudad de Esthar y Base Lunagate"
+      },
+      {
+        "slug": "ff8-p135",
+        "title": "De vuelta a la Ciudad de Esthar"
+      },
+      {
+        "slug": "ff8-p28",
+        "title": "Base Lunar"
+      },
+      {
+        "slug": "ff8-p29",
+        "title": "Lagunamov"
+      },
+      {
+        "slug": "ff8-p136",
+        "title": "Pabellón de la bruja"
+      },
+      {
+        "slug": "ff8-p137",
+        "title": "De excursión en el Lagunamov"
+      }
+    ]
+  },
+  {
+    "disc": "CD 4",
+    "items": [
+      {
+        "slug": "ff8-p31",
+        "title": "Lunatic Pandora"
+      },
+      {
+        "slug": "ff8-p32",
+        "title": "Adel y Rinoa"
+      },
+      {
+        "slug": "ff8-p33",
+        "title": "La compresión del tiempo"
+      },
+      {
+        "slug": "ff8-p34",
+        "title": "El Castillo de Artemisa"
+      },
+      {
+        "slug": "ff8-p35",
+        "title": "Enfrentamiento contra Artemisa"
+      }
+    ]
+  },
+  {
+    "disc": "Extras",
+    "items": [
+      {
+        "slug": "ff8-fuerzas-guardianes",
+        "title": "Fuerzas Guardianes (GF)"
+      },
+      {
+        "slug": "ff8-habilidades",
+        "title": "Habilidades"
+      },
+      {
+        "slug": "ff8-magia",
+        "title": "Magia"
+      },
+      {
+        "slug": "ff8-produccion-magia",
+        "title": "Producción de magia"
+      },
+      {
+        "slug": "ff8-equipo-limites",
+        "title": "Armas y límites"
+      },
+      {
+        "slug": "ff8-produccion-objetos",
+        "title": "Producción de objetos"
+      },
+      {
+        "slug": "ff8-objetos-buscados",
+        "title": "Los objetos más buscados"
+      },
+      {
+        "slug": "ff8-cartas-cambio",
+        "title": "Cambiar cartas por objetos"
+      },
+      {
+        "slug": "ff8-triple-triad",
+        "title": "Triple Triad y Cartas"
+      },
+      {
+        "slug": "ff8-rango-seed",
+        "title": "Rango de Seed"
+      },
+      {
+        "slug": "ff8-revistas",
+        "title": "Revistas"
+      },
+      {
+        "slug": "ff8-jarron-winhill",
+        "title": "Jarrón de Winhill"
+      },
+      {
+        "slug": "ff8-minichocobo",
+        "title": "Minichocobo de Winhill"
+      },
+      {
+        "slug": "ff8-bosques-chocobos",
+        "title": "Bosques de los Chocobos"
+      },
+      {
+        "slug": "ff8-arma-ultima",
+        "title": "Arma Última"
+      },
+      {
+        "slug": "ff8-arma-omega",
+        "title": "Arma Omega"
+      },
+      {
+        "slug": "ff8-anillo-nupcial",
+        "title": "Anillo Nupcial"
+      },
+      {
+        "slug": "ff8-organo-artemisa",
+        "title": "Órgano Artemisa"
+      },
+      {
+        "slug": "ff8-lago-timber",
+        "title": "El lago Aubert/Obel"
+      },
+      {
+        "slug": "ff8-carta-alienigena",
+        "title": "Carta del alienígena"
+      },
+      {
+        "slug": "ff8-lionheart",
+        "title": "Lionheart"
+      },
+      {
+        "slug": "ff8-experiencia-dinero",
+        "title": "Experiencia y Dinero"
+      },
+      {
+        "slug": "ff8-curiosidades",
+        "title": "Curiosidades"
+      },
+      {
+        "slug": "ff8-chocobo-world",
+        "title": "Chocobo World"
+      },
+      {
+        "slug": "ff8-requisitos",
+        "title": "Requisitos PC"
+      },
+      {
+        "slug": "ff8-requisitos-remastered",
+        "title": "Requisitos Remastered PC"
+      }
+    ]
+  }
+]

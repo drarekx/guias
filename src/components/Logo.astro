@@ -1,0 +1,55 @@
+---
+// Logo: cristal + monograma del juego
+import type { Game } from "../lib/games";
+interface Props {
+  size?: number;
+  variant?: "full" | "mark";
+  game?: Game;
+  class?: string;
+}
+const { size = 36, variant = "mark", game, class: cls = "" } = Astro.props;
+const short = game?.shortTitle ?? "FF";
+---
+{variant === "full" ? (
+  <span class:list={["flex items-center gap-2 group", cls]}>
+    <span class="relative inline-block" style={`width:${size}px;height:${size}px`}>
+      <svg viewBox="0 0 40 40" width={size} height={size} fill="none" aria-hidden="true">
+        <defs>
+          <linearGradient id="lg-crystal" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="var(--color-crystal-2)" />
+            <stop offset="1" stop-color="var(--color-crystal)" />
+          </linearGradient>
+          <linearGradient id="lg-gold" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="var(--color-gold-2)" />
+            <stop offset="1" stop-color="var(--color-gold)" />
+          </linearGradient>
+        </defs>
+        <path d="M20 3 L34 14 L28 34 L12 34 L6 14 Z" fill="url(#lg-crystal)" opacity="0.85" />
+        <path d="M20 3 L20 34 M6 14 L34 14 M12 34 L28 14 M28 34 L12 14" stroke="var(--color-crystal-ink)" stroke-width="0.6" opacity="0.5" />
+        <path d="M20 3 L34 14 L28 34 L12 34 L6 14 Z" fill="none" stroke="url(#lg-gold)" stroke-width="1.2" />
+      </svg>
+    </span>
+    <span class="flex flex-col leading-none">
+      <span class="font-display text-[0.65rem] tracking-[0.28em] text-[var(--color-gold)] uppercase">Final Fantasy</span>
+      <span class="font-display text-xl tracking-[0.1em] text-[var(--color-text)]">{short}</span>
+    </span>
+  </span>
+) : (
+  <span class:list={["inline-flex items-center justify-center", cls]}>
+    <svg viewBox="0 0 40 40" width={size} height={size} fill="none">
+      <defs>
+        <linearGradient id="lgc2" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="var(--color-crystal-2)" />
+          <stop offset="1" stop-color="var(--color-crystal)" />
+        </linearGradient>
+        <linearGradient id="lgg2" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="var(--color-gold-2)" />
+          <stop offset="1" stop-color="var(--color-gold)" />
+        </linearGradient>
+      </defs>
+      <path d="M20 3 L34 14 L28 34 L12 34 L6 14 Z" fill="url(#lgc2)" />
+      <path d="M20 3 L20 34 M6 14 L34 14 M12 34 L28 14 M28 34 L12 14" stroke="var(--color-crystal-ink)" stroke-width="0.6" opacity="0.5" />
+      <path d="M20 3 L34 14 L28 34 L12 34 L6 14 Z" fill="none" stroke="url(#lgg2)" stroke-width="1.2" />
+    </svg>
+  </span>
+)}

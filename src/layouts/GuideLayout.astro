@@ -1,0 +1,58 @@
+---
+import "../styles/global.css";
+import Sidebar from "../components/Sidebar.astro";
+import Lightbox from "../components/Lightbox.astro";
+import BackToTop from "../components/BackToTop.astro";
+import ProgressTracker from "../components/ProgressTracker.astro";
+import { themeVars, type Game } from "../lib/games";
+
+interface Props {
+  title: string;
+  description?: string;
+  game?: Game;        // si no, layout sin sidebar (p.ej. games index)
+  currentSlug?: string;
+}
+const {
+  title,
+  description = "Guías completas de Final Fantasy — 100%, oscuras, con búsqueda, navegación y modo claro.",
+  game,
+  currentSlug,
+} = Astro.props;
+
+const gameStyle = game ? Object.entries(themeVars(game.theme)).map(([k, v]) => `${k}: ${v}`).join("; ") : "";
+---
+<!doctype html>
+<html lang="es" data-game={game?.slug}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content={game?.theme.bg ?? "#0c0a1f"} media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content={game?.theme.bg ?? "#f1e6c4"} media="(prefers-color-scheme: light)" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Manrope:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    />
+    <title>{title}</title>
+    {gameStyle && <style is:inline set:html={`:root[data-game="${game!.slug}"]{${gameStyle}}`} />}
+  </head>
+  <body>
+    <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[200] focus:px-3 focus:py-2 focus:rounded focus:bg-[var(--color-crystal)] focus:text-[var(--color-crystal-ink)]">Saltar al contenido</a>
+    <div class="relative z-10 flex min-h-screen">
+      {game && <Sidebar game={game} currentSlug={currentSlug} />}
+      <main id="main" class="flex-1 min-w-0">
+        <slot />
+      </main>
+    </div>
+    <Lightbox />
+    <BackToTop />
+    <ProgressTracker gameSlug={game?.slug ?? ""} />
+  </body>
+</html>

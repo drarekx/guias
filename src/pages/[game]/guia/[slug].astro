@@ -1,0 +1,156 @@
+---
+import GuideLayout from "../../../layouts/GuideLayout.astro";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import ContentBlocks from "../../../components/ContentBlocks.astro";
+import PageNav from "../../../components/PageNav.astro";
+import ProgressToggle from "../../../components/ProgressToggle.astro";
+import { GAMES, getGame, isGameAvailable } from "../../../lib/games";
+import { getPage, getMeta, loadGame } from "../../../lib/guide";
+
+export function getStaticPaths() {
+  const out: any[] = [];
+  for (const g of GAMES) {
+    if (!isGameAvailable(g.slug)) continue;
+    const { pages } = loadGame(g.slug);
+    for (const p of pages) {
+      out.push({ params: { game: g.slug, slug: p.slug }, props: { game: g } });
+    }
+  }
+  return out;
+}
+
+const { game, slug } = { ...Astro.params, ...Astro.props as any };
+const gameSlug = (Astro.params as any).game as string;
+const pageSlug = (Astro.params as any).slug as string;
+const game_ = getGame(gameSlug)!;
+const page = getPage(gameSlug, pageSlug)!;
+const meta = getMeta(gameSlug, pageSlug)!;
+const { structure } = loadGame(gameSlug);
+const discPages = pagesForDisc(gameSlug, page.disc);
+const discIndex = discPages.findIndex((p) => p.slug === page.slug) + 1;
+
+function pagesForDisc(gs: string, disc: string) {
+  const sec = structure.find((s) => s.disc === disc);
+  if (!sec) return [];
+  return sec.items.map((i) => loadGame(gs).bySlug.get(i.slug)).filter((x): x is NonNullable<typeof x> => !!x);
+}
+
+const heroImage = (() => {
+  for (const b of page.content.blocks) {
+    if (b.type === "img") return b.src;
+  }
+  return null;
+})();
+
+const bodyBlocks = heroImage
+  ? page.content.blocks.filter((b) => !(b.type === "img" && b.src === heroImage))
+  : page.content.blocks;
+
+const intro = page.content.intro?.trim() ||
+  (bodyBlocks.find((b) => b.type === "p") as { text: string } | undefined)?.text?.slice(0, 280) || "";
+
+const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+
+const headings = bodyBlocks
+  .map((b) => {
+    if (b.type === "h2" || b.type === "h3" || b.type === "h4") {
+      return {
+        level: b.type,
+        text: b.text,
+        id: b.text.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")
+      };
+    }
+    return null;
+  })
+  .filter((x): x is { level: "h2" | "h3" | "h4"; text: string; id: string } => x !== null)
+  .slice(0, 14);
+
+const filteredHeadings = (() => {
+  const target = norm(page.title);
+  let dropped = false;
+  return headings.filter((h) => {
+    if (!dropped && h.level === "h2" && norm(h.text) === target) {
+      dropped = true;
+      return false;
+    }
+    return true;
+  });
+})();
+---
+<GuideLayout
+  title={`${page.title} · ${game_.shortTitle} Guía`}
+  description={intro?.slice(0, 160) || `Capítulo: ${page.title} — ${game_.title}`}
+  game={game_}
+  currentSlug={page.slug}
+>
+  <article class="max-w-3xl mx-auto px-5 sm:px-10 pt-10 pb-24 lg:pl-12">
+    <Breadcrumbs game={game_} disc={page.disc} title={page.title} slug={page.slug} />
+
+    <header class="mb-10 reveal">
+      <div class="flex items-center gap-2 text-[0.7rem] font-ui uppercase tracking-widest text-[var(--color-gold)] mb-3">
+        <span>{page.disc}</span>
+        <span class="text-[var(--color-text-mute)]">·</span>
+        <span class="text-[var(--color-text-mute)]">Capítulo {discIndex} de {discPages.length}</span>
+        {meta.index !== undefined && (
+          <>
+            <span class="text-[var(--color-text-mute)]">·</span>
+            <span class="text-[var(--color-text-mute)]">#{String(meta.index + 1).padStart(3, "0")}</span>
+          </>
+        )}
+      </div>
+      <h1 class="font-display text-5xl sm:text-6xl leading-[0.95] tracking-[0.005em] text-[var(--color-text)]">
+        {page.title}
+      </h1>
+      {intro && (
+        <p class="mt-6 text-lg text-[var(--color-text-soft)] leading-relaxed italic border-l-2 pl-4 max-w-2xl" style={`border-color: color-mix(in oklab, ${game_.theme.accent.hex} 40%, transparent)`}>
+          {intro}
+        </p>
+      )}
+      <div class="mt-7 flex items-center gap-3 flex-wrap">
+        <ProgressToggle slug={page.slug} />
+        <div class="flex items-center gap-2 text-[0.75rem] font-ui text-[var(--color-text-mute)]">
+          <span>Presiona</span>
+          <kbd class="font-mono px-1.5 py-0.5 rounded border border-[var(--color-border)] bg-[var(--color-surface-2)]">/</kbd>
+          <span>para buscar</span>
+        </div>
+      </div>
+    </header>
+
+    {heroImage && (
+      <figure class="mb-10 -mx-2 sm:mx-0 reveal">
+        <div class="relative overflow-hidden rounded-xl border border-[var(--color-border)]">
+          <img src={heroImage} alt={page.title} class="w-full max-h-[440px] object-cover" />
+          <div class="absolute inset-0 bg-gradient-to-t from-[var(--color-bg)] via-transparent to-transparent opacity-60 pointer-events-none"></div>
+        </div>
+      </figure>
+    )}
+
+    <ContentBlocks blocks={bodyBlocks} pageTitle={page.title} />
+
+    {filteredHeadings.length > 1 && (
+      <aside class="hidden xl:block fixed top-32 right-8 w-56 max-h-[70vh] overflow-y-auto">
+        <div class="font-ui text-[0.65rem] uppercase tracking-widest text-[var(--color-gold)] mb-3">En esta página</div>
+        <ul class="space-y-1.5 border-l border-[var(--color-border)] pl-3">
+          {filteredHeadings.map((h) => {
+            const ind = h.level === "h3" ? "pl-3" : h.level === "h4" ? "pl-6" : "";
+            const tone = h.level === "h2" ? "text-[var(--color-text-soft)]" : "text-[var(--color-text-mute)]";
+            return (
+              <li>
+                <a href={`#${h.id}`} class={`block text-[0.78rem] leading-snug hover:text-[var(--color-crystal)] transition-colors ${ind} ${tone}`}>
+                  {h.text}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </aside>
+    )}
+
+    <PageNav game={game_} meta={meta} />
+  </article>
+  <div class="h-24 lg:h-0"></div>
+</GuideLayout>
+
+<script is:inline>
+  window.dispatchEvent(new Event("ff9:recheck"));
+</script>
