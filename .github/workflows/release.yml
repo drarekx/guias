@@ -1,0 +1,47 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Package
+        # COPYFILE_DISABLE=1 evita los xattr de macOS que ensucian el tar
+        env:
+          COPYFILE_DISABLE: 1
+        run: |
+          VERSION="${GITHUB_REF#refs/tags/v}"
+          tar -czf "tomo-del-cristal-v${VERSION}.tar.gz" -C dist .
+          ls -lh "tomo-del-cristal-v${VERSION}.tar.gz"
+          # También generamos un zip para usuarios Windows
+          (cd dist && zip -qr "../tomo-del-cristal-v${VERSION}.zip" .)
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: "Tomo del Cristal v${{ github.ref_name }}"
+          generate_release_notes: true
+          files: |
+            tomo-del-cristal-*.tar.gz
+            tomo-del-cristal-*.zip
