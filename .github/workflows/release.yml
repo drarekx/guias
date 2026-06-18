@@ -31,6 +31,7 @@ jobs:
         env:
           COPYFILE_DISABLE: 1
         run: |
+          # Strip "v" prefix del tag para usar en el nombre del archivo
           VERSION="${GITHUB_REF#refs/tags/v}"
           tar -czf "tomo-del-cristal-v${VERSION}.tar.gz" -C dist .
           ls -lh "tomo-del-cristal-v${VERSION}.tar.gz"
@@ -40,7 +41,8 @@ jobs:
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
-          name: "Tomo del Cristal v${{ github.ref_name }}"
+          # github.ref_name = "v0.1.2" → usamos el tag tal cual (ya incluye la v)
+          name: "Tomo del Cristal ${{ github.ref_name }}"
           generate_release_notes: true
           files: |
             tomo-del-cristal-*.tar.gz
