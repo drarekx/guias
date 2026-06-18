@@ -119,7 +119,7 @@ const games: Array<Game & { available: boolean; total: number }> = GAMES.map((g)
     <script is:inline>
       (() => {
         const root = document.documentElement;
-        const KEY = "ff9-theme";
+        const KEY = "guide-theme";
         const stored = localStorage.getItem(KEY);
         const isLight = stored === "light";
         if (isLight) root.classList.add("light");
