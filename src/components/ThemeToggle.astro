@@ -20,10 +20,15 @@
 
 <script is:inline>
   (() => {
+    // <ThemeToggle /> se renderiza dos veces (sidebar + bottom-bar móvil),
+    // así que el script se ejecuta dos veces. Sin este flag, dos listeners
+    // harían add+remove = nada cambia.
+    if (window.__themeInit) return;
+    window.__themeInit = true;
+
     const root = document.documentElement;
     const KEY = "guide-theme";
     const stored = localStorage.getItem(KEY);
-    // Default: dark. Solo claro si el usuario lo eligió.
     const isLight = stored === "light";
     if (isLight) root.classList.add("light");
 
@@ -34,7 +39,6 @@
     };
     applyIcons();
 
-    // Delegación: captura clicks en cualquier botón .theme-toggle (sidebar + mobile bar)
     document.addEventListener("click", (e) => {
       const btn = e.target instanceof Element ? e.target.closest(".theme-toggle") : null;
       if (!btn) return;
