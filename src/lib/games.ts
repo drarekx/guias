@@ -29,9 +29,15 @@ export interface Game {
   sections: GameSection[];
 }
 
-const games = (gamesData as { games: Game[] }).games;
-export const GAMES: Game[] = games;
-export const BY_SLUG: Record<string, Game> = Object.fromEntries(games.map(g => [g.slug, g]));
+const games = (gamesData as { games: (Game & { order?: number })[] }).games;
+// Orden por `order` (cronología del número romano), luego por nombre.
+const sortedGames = [...games].sort((a, b) => {
+  const oa = a.order ?? 999;
+  const ob = b.order ?? 999;
+  return oa - ob || a.slug.localeCompare(b.slug);
+});
+export const GAMES: Game[] = sortedGames;
+export const BY_SLUG: Record<string, Game> = Object.fromEntries(sortedGames.map(g => [g.slug, g]));
 
 export function getGame(slug: string): Game | undefined {
   return BY_SLUG[slug];
