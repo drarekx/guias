@@ -4,6 +4,7 @@ import Sidebar from "../components/Sidebar.astro";
 import Lightbox from "../components/Lightbox.astro";
 import BackToTop from "../components/BackToTop.astro";
 import ProgressTracker from "../components/ProgressTracker.astro";
+import ReadingProgress from "../components/ReadingProgress.astro";
 import { themeVars, type Game } from "../lib/games";
 
 interface Props {
@@ -45,6 +46,7 @@ const gameStyle = game ? Object.entries(themeVars(game.theme)).map(([k, v]) => `
   </head>
   <body>
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[200] focus:px-3 focus:py-2 focus:rounded focus:bg-[var(--color-crystal)] focus:text-[var(--color-crystal-ink)]">Saltar al contenido</a>
+    {game && <ReadingProgress />}
     <div class="relative z-10 flex min-h-screen">
       {game && <Sidebar game={game} currentSlug={currentSlug} />}
       <main id="main" class="flex-1 min-w-0">

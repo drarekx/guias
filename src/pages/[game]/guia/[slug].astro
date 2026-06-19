@@ -3,6 +3,7 @@ import GuideLayout from "../../../layouts/GuideLayout.astro";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import ContentBlocks from "../../../components/ContentBlocks.astro";
 import PageNav from "../../../components/PageNav.astro";
+import ChapterNav from "../../../components/ChapterNav.astro";
 import ProgressToggle from "../../../components/ProgressToggle.astro";
 import { GAMES, getGame, isGameAvailable } from "../../../lib/games";
 import { getPage, getMeta, loadGame } from "../../../lib/guide";
@@ -85,6 +86,8 @@ const filteredHeadings = (() => {
 >
   <article class="max-w-3xl mx-auto px-5 sm:px-10 pt-10 pb-24 lg:pl-12">
     <Breadcrumbs game={game_} disc={page.disc} title={page.title} slug={page.slug} />
+
+    <ChapterNav game={game_} meta={meta} />
 
     <header class="mb-10 reveal">
       <div class="flex items-center gap-2 text-[0.7rem] font-ui uppercase tracking-widest text-[var(--color-gold)] mb-3">
