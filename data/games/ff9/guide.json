@@ -5502,5 +5502,962 @@
         }
       ]
     }
+  },
+  {
+    "slug": "ff9-bestiario",
+    "disc": "Extras",
+    "title": "Bestiario",
+    "href": "final-fantasy-ix_bestiario.php",
+    "content": {
+      "title": "Guía Final Fantasy IX",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Listado de enemigos de Final Fantasy IX. Cada nombre enlaza a su ficha en la Final Fantasy Wiki (búsqueda) o a su página individual cuando existe."
+        },
+        {
+          "type": "h3",
+          "text": "Enemigos normales (93)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Nombre"
+            ],
+            [
+              {
+                "text": "Ballena Zombi",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ballena+Zombi"
+              }
+            ],
+            [
+              {
+                "text": "Basilisco",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Basilisco"
+              }
+            ],
+            [
+              {
+                "text": "Bégimo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Bégimo"
+              }
+            ],
+            [
+              {
+                "text": "Bengal",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Bengal"
+              }
+            ],
+            [
+              {
+                "text": "Bom",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Bom"
+              }
+            ],
+            [
+              {
+                "text": "Bomut",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Bomut"
+              }
+            ],
+            [
+              {
+                "text": "Buver",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Buver"
+              }
+            ],
+            [
+              {
+                "text": "Cactilio",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Cactilio"
+              }
+            ],
+            [
+              {
+                "text": "Canicas",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Canicas"
+              }
+            ],
+            [
+              {
+                "text": "Caronte",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Caronte"
+              }
+            ],
+            [
+              {
+                "text": "Casa Maldita",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Casa+Maldita"
+              }
+            ],
+            [
+              {
+                "text": "Catoblepas",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Catoblepas"
+              }
+            ],
+            [
+              {
+                "text": "Cerbero",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Cerbero"
+              }
+            ],
+            [
+              {
+                "text": "Cofre Mágico",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Cofre+Mágico"
+              }
+            ],
+            [
+              {
+                "text": "Crank",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Crank"
+              }
+            ],
+            [
+              {
+                "text": "Dendrómera",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dendrómera"
+              }
+            ],
+            [
+              {
+                "text": "Diablillo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Diablillo"
+              }
+            ],
+            [
+              {
+                "text": "Dodo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dodo"
+              }
+            ],
+            [
+              {
+                "text": "Drabolik",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Drabolik"
+              }
+            ],
+            [
+              {
+                "text": "Dragón Zombi",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dragón+Zombi"
+              }
+            ],
+            [
+              {
+                "text": "Duende Mago",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Duende+Mago"
+              }
+            ],
+            [
+              {
+                "text": "Duende",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Duende"
+              }
+            ],
+            [
+              {
+                "text": "Epitaf",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Epitaf"
+              }
+            ],
+            [
+              {
+                "text": "Espín",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Espín"
+              }
+            ],
+            [
+              {
+                "text": "Esqueleto",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Esqueleto"
+              }
+            ],
+            [
+              {
+                "text": "Falso",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Falso"
+              }
+            ],
+            [
+              {
+                "text": "Fang",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Fang"
+              }
+            ],
+            [
+              {
+                "text": "Fantasma",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Fantasma"
+              }
+            ],
+            [
+              {
+                "text": "Férreo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Férreo"
+              }
+            ],
+            [
+              {
+                "text": "Flan",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Flan"
+              }
+            ],
+            [
+              {
+                "text": "Gárgola",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gárgola"
+              }
+            ],
+            [
+              {
+                "text": "Garuda",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Garuda"
+              }
+            ],
+            [
+              {
+                "text": "Gato Gorrón",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gato+Gorrón"
+              }
+            ],
+            [
+              {
+                "text": "Golem",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Golem"
+              }
+            ],
+            [
+              {
+                "text": "Gorrión Artero",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gorrión+Artero"
+              }
+            ],
+            [
+              {
+                "text": "Gran Dragón",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gran+Dragón"
+              }
+            ],
+            [
+              {
+                "text": "Gran Gusano",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gran+Gusano"
+              }
+            ],
+            [
+              {
+                "text": "Granada",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Granada"
+              }
+            ],
+            [
+              {
+                "text": "Grifo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Grifo"
+              }
+            ],
+            [
+              {
+                "text": "Guardia Alexandrina",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Guardia+Alexandrina"
+              }
+            ],
+            [
+              {
+                "text": "Hidra",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Hidra"
+              }
+            ],
+            [
+              {
+                "text": "Hombre Reptil",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Hombre+Reptil"
+              }
+            ],
+            [
+              {
+                "text": "Horribilis",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Horribilis"
+              }
+            ],
+            [
+              {
+                "text": "Jaba",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Jaba"
+              }
+            ],
+            [
+              {
+                "text": "Kraken (Cristal)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Kraken+%28Cristal%29"
+              }
+            ],
+            [
+              {
+                "text": "Lamia",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lamia"
+              }
+            ],
+            [
+              {
+                "text": "Legionaria",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Legionaria"
+              }
+            ],
+            [
+              {
+                "text": "Libélula",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Libélula"
+              }
+            ],
+            [
+              {
+                "text": "Lich (Cristal)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lich+%28Cristal%29"
+              }
+            ],
+            [
+              {
+                "text": "Mago Negro A",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mago+Negro+A"
+              }
+            ],
+            [
+              {
+                "text": "Mago Negro B",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mago+Negro+B"
+              }
+            ],
+            [
+              {
+                "text": "Mago Negro C",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mago+Negro+C"
+              }
+            ],
+            [
+              {
+                "text": "Malbernardo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Malbernardo"
+              }
+            ],
+            [
+              {
+                "text": "Malilith (Cristal)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Malilith+%28Cristal%29"
+              }
+            ],
+            [
+              {
+                "text": "Mandrágora",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mandrágora"
+              }
+            ],
+            [
+              {
+                "text": "Micónido",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Micónido"
+              }
+            ],
+            [
+              {
+                "text": "Molbol",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Molbol"
+              }
+            ],
+            [
+              {
+                "text": "Mosquito",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mosquito"
+              }
+            ],
+            [
+              {
+                "text": "Mubah",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mubah"
+              }
+            ],
+            [
+              {
+                "text": "Mu",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mu"
+              }
+            ],
+            [
+              {
+                "text": "Mushufushu",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mushufushu"
+              }
+            ],
+            [
+              {
+                "text": "Neblinio",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Neblinio"
+              }
+            ],
+            [
+              {
+                "text": "Ninfa",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ninfa"
+              }
+            ],
+            [
+              {
+                "text": "Nol",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Nol"
+              }
+            ],
+            [
+              {
+                "text": "Oculus",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Oculus"
+              }
+            ],
+            [
+              {
+                "text": "Ochu",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ochu"
+              }
+            ],
+            [
+              {
+                "text": "Ogro",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ogro"
+              }
+            ],
+            [
+              {
+                "text": "Oruga",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Oruga"
+              }
+            ],
+            [
+              {
+                "text": "Pelisaurus",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Pelisaurus"
+              }
+            ],
+            [
+              {
+                "text": "Pitón",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Pitón"
+              }
+            ],
+            [
+              {
+                "text": "Pulpo Gigante",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Pulpo+Gigante"
+              }
+            ],
+            [
+              {
+                "text": "Quelonoide",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Quelonoide"
+              }
+            ],
+            [
+              {
+                "text": "Quimera",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Quimera"
+              }
+            ],
+            [
+              {
+                "text": "Raya",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Raya"
+              }
+            ],
+            [
+              {
+                "text": "Rey Lear",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Rey+Lear"
+              }
+            ],
+            [
+              {
+                "text": "Sagnar",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Sagnar"
+              }
+            ],
+            [
+              {
+                "text": "Sapo Gigante",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Sapo+Gigante"
+              }
+            ],
+            [
+              {
+                "text": "Squidlarchen",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Squidlarchen"
+              }
+            ],
+            [
+              {
+                "text": "Tiamant (Cristal)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Tiamant+%28Cristal%29"
+              }
+            ],
+            [
+              {
+                "text": "Tombery",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Tombery"
+              }
+            ],
+            [
+              {
+                "text": "Troll",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Troll"
+              }
+            ],
+            [
+              {
+                "text": "Vampiro",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vampiro"
+              }
+            ],
+            [
+              {
+                "text": "Vegétula",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vegétula"
+              }
+            ],
+            [
+              {
+                "text": "Vepal (Rojo)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vepal+%28Rojo%29"
+              }
+            ],
+            [
+              {
+                "text": "Vepal (Verde)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vepal+%28Verde%29"
+              }
+            ],
+            [
+              {
+                "text": "Verdadero",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Verdadero"
+              }
+            ],
+            [
+              {
+                "text": "Verminio",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Verminio"
+              }
+            ],
+            [
+              {
+                "text": "Viuda Violeta",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Viuda+Violeta"
+              }
+            ],
+            [
+              {
+                "text": "Wais",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Wais"
+              }
+            ],
+            [
+              {
+                "text": "Wais Mágico",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Wais+Mágico"
+              }
+            ],
+            [
+              {
+                "text": "Yan",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Yan"
+              }
+            ],
+            [
+              {
+                "text": "Yeti",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Yeti"
+              }
+            ],
+            [
+              {
+                "text": "Zombi",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Zombi"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Jefes (48)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Nombre"
+            ],
+            [
+              {
+                "text": "Amdusias",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Amdusias"
+              }
+            ],
+            [
+              {
+                "text": "Antoleón",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Antoleón"
+              }
+            ],
+            [
+              {
+                "text": "Argentus",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Argentus"
+              }
+            ],
+            [
+              {
+                "text": "Ark",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ark"
+              }
+            ],
+            [
+              {
+                "text": "Bakú",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Bakú"
+              }
+            ],
+            [
+              {
+                "text": "Beatrix",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Beatrix"
+              }
+            ],
+            [
+              {
+                "text": "Benaro",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Benaro"
+              }
+            ],
+            [
+              {
+                "text": "Cefalopodo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Cefalopodo"
+              }
+            ],
+            [
+              {
+                "text": "Crustopodo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Crustopodo"
+              }
+            ],
+            [
+              {
+                "text": "Dantarián",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dantarián"
+              }
+            ],
+            [
+              {
+                "text": "Desgueis",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Desgueis"
+              }
+            ],
+            [
+              {
+                "text": "Dragón Divino",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dragón+Divino"
+              }
+            ],
+            [
+              {
+                "text": "Dragón Rojo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Dragón+Rojo"
+              }
+            ],
+            [
+              {
+                "text": "Durangón",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Durangón"
+              }
+            ],
+            [
+              {
+                "text": "Individuo Enmascarado",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Individuo+Enmascarado"
+              }
+            ],
+            [
+              {
+                "text": "Ferralla",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ferralla"
+              }
+            ],
+            [
+              {
+                "text": "Garland",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Garland"
+              }
+            ],
+            [
+              {
+                "text": "Gigante",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gigante"
+              }
+            ],
+            [
+              {
+                "text": "Gizamaluke",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Gizamaluke"
+              }
+            ],
+            [
+              {
+                "text": "Guardián T",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Guardián+T"
+              }
+            ],
+            [
+              {
+                "text": "Haagen",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Haagen"
+              }
+            ],
+            [
+              {
+                "text": "Hades",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Hades"
+              }
+            ],
+            [
+              {
+                "text": "Jaula",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Jaula"
+              }
+            ],
+            [
+              {
+                "text": "Kuja",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Kuja"
+              }
+            ],
+            [
+              {
+                "text": "Kraken",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Kraken"
+              }
+            ],
+            [
+              {
+                "text": "Kuja-Trance",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Kuja-Trance"
+              }
+            ],
+            [
+              {
+                "text": "Lani",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lani"
+              }
+            ],
+            [
+              {
+                "text": "Lárvalida",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lárvalida"
+              }
+            ],
+            [
+              {
+                "text": "Lárvalida X",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lárvalida+X"
+              }
+            ],
+            [
+              {
+                "text": "Lich",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Lich"
+              }
+            ],
+            [
+              {
+                "text": "Malilith",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Malilith"
+              }
+            ],
+            [
+              {
+                "text": "Meltigeminis",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Meltigeminis"
+              }
+            ],
+            [
+              {
+                "text": "Onodrim",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Onodrim"
+              }
+            ],
+            [
+              {
+                "text": "Ozma",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ozma"
+              }
+            ],
+            [
+              {
+                "text": "Pelirrojo",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Pelirrojo"
+              }
+            ],
+            [
+              {
+                "text": "Pilar Mágico",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Pilar+Mágico"
+              }
+            ],
+            [
+              {
+                "text": "Quera",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Quera"
+              }
+            ],
+            [
+              {
+                "text": "Son",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Son"
+              }
+            ],
+            [
+              {
+                "text": "Steiner",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Steiner"
+              }
+            ],
+            [
+              {
+                "text": "Tiamant",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Tiamant"
+              }
+            ],
+            [
+              {
+                "text": "Tiniebla Eterna",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Tiniebla+Eterna"
+              }
+            ],
+            [
+              {
+                "text": "Ton",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ton"
+              }
+            ],
+            [
+              {
+                "text": "Vals Negro No. 1",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vals+Negro+No.+1"
+              }
+            ],
+            [
+              {
+                "text": "Vals Negro No. 2",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vals+Negro+No.+2"
+              }
+            ],
+            [
+              {
+                "text": "Vals Negro No. 3",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Vals+Negro+No.+3"
+              }
+            ],
+            [
+              {
+                "text": "Weimar",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Weimar"
+              }
+            ],
+            [
+              {
+                "text": "Zenaro",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Zenaro"
+              }
+            ],
+            [
+              {
+                "text": "Zillion",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Zillion"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Monstruos bondadosos (9)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Nombre"
+            ],
+            [
+              {
+                "text": "Mu (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Mu+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Fantasma (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Fantasma+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Legionaria (Bondadosa)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Legionaria+%28Bondadosa%29"
+              }
+            ],
+            [
+              {
+                "text": "Yeti (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Yeti+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Ninfa (Bondadosa)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Ninfa+%28Bondadosa%29"
+              }
+            ],
+            [
+              {
+                "text": "Jaba (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Jaba+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Raya (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Raya+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Garuda (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Garuda+%28Bondadoso%29"
+              }
+            ],
+            [
+              {
+                "text": "Yan (Bondadoso)",
+                "href": "https://finalfantasy.fandom.com/es/wiki/Special:Search?query=Yan+%28Bondadoso%29"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Fuente: Final Fantasy Wiki (es.finalfantasy.fandom.com), CC-BY-SA."
+        }
+      ]
+    }
   }
 ]

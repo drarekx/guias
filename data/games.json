@@ -1348,6 +1348,11 @@
               "slug": "ff9-curiosidades",
               "title": "Curiosidades",
               "href": "final-fantasy-ix_curiosidades.php"
+            },
+            {
+              "slug": "ff9-bestiario",
+              "title": "Bestiario",
+              "href": "final-fantasy-ix_bestiario.php"
             }
           ]
         },

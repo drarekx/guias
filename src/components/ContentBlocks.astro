@@ -45,16 +45,21 @@ const filtered = (() => {
     }
     if (b.type === "table") {
       const [head, ...rest] = b.rows;
+      const renderCell = (c: string | { text: string; href?: string }) => {
+        if (typeof c === "string") return c;
+        if (c.href) return (<a href={c.href} target="_blank" rel="noopener noreferrer">{c.text}</a>);
+        return c.text;
+      };
       return (
         <div class="overflow-x-auto my-6">
           <table>
             {head && (
               <thead>
-                <tr>{head.map((c) => <th>{c}</th>)}</tr>
+                <tr>{head.map((c) => <th>{renderCell(c)}</th>)}</tr>
               </thead>
             )}
             <tbody>
-              {rest.map((r) => <tr>{r.map((c) => <td>{c}</td>)}</tr>)}
+              {rest.map((r) => <tr>{r.map((c) => <td>{renderCell(c)}</td>)}</tr>)}
             </tbody>
           </table>
         </div>

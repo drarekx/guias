@@ -12,6 +12,9 @@ const structModules = import.meta.glob<GameSection[]>("../../data/games/*/struct
   import: "default",
 });
 
+export type CellLink = { text: string; href?: string };
+export type TableCell = string | CellLink;
+
 export type Block =
   | { type: "h2"; text: string }
   | { type: "h3"; text: string }
@@ -20,7 +23,7 @@ export type Block =
   | { type: "ul"; items: string[] }
   | { type: "ol"; items: string[] }
   | { type: "img"; src: string; alt: string; caption: string }
-  | { type: "table"; rows: string[][] };
+  | { type: "table"; rows: TableCell[][] };
 
 export interface PageContent {
   title: string;
@@ -130,7 +133,10 @@ export function pagePlainText(p: GuidePage): string {
     if (b.type === "p" || b.type.startsWith("h")) parts.push(b.text);
     else if (b.type === "ul" || b.type === "ol") parts.push(b.items.join(" "));
     else if (b.type === "img") parts.push(b.alt, b.caption);
-    else if (b.type === "table") parts.push(b.rows.flat().join(" "));
+    else if (b.type === "table") {
+      const cells = b.rows.flat().map((c) => typeof c === "string" ? c : c.text);
+      parts.push(cells.join(" "));
+    }
   }
   return parts.join("\n").toLowerCase();
 }
