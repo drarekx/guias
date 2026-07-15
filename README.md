@@ -1,163 +1,116 @@
-# Tomo del Cristal — Guías de Final Fantasy
+# Tomo del Cristal
 
-Una **colección de guías modernas, rápidas y visualmente memorables** de Final Fantasy, construida con Astro 5 + Tailwind v4. Cada guía es un "tomo" del mismo arco visual pero con su propia paleta cromática. El contenido se adapta de [Eliteguias](https://www.eliteguias.com).
+Guías walkthrough de Final Fantasy (FF6 / FF7 / FF8 / FF9 / FF10) en español rioplatense. Contenido scrapeado de [eliteguias.com](https://www.eliteguias.com) y, para FF9, un bestiario extraído de la [Final Fantasy Wiki](https://finalfantasy.fandom.com/es/) (CC-BY-SA).
 
-## 🎮 Guías disponibles
+Stack: **Astro 5 + Tailwind v4**. Output 100% estático (`dist/`), deployable a cualquier host.
 
-| Juego | Año | Paleta | Capítulos |
-|---|---|---|---|
-| **Final Fantasy IX** | 2000 | Cristal violeta + Tantalus gold | 74 |
-| **Final Fantasy VII** | 1997 | Mako green + Ember | 28 |
-| **Final Fantasy VIII** | 1999 | Lionheart blue + Rose | 66 |
-| **Final Fantasy X** | 2001 | Spira teal + Yuna pink | 52 |
-| **Final Fantasy VI** | 1994 | Maduin ember + Crimson | 54 |
-
-## ✨ Features
-
-- **🔍 Búsqueda global cross-game** con `⌘K` o `/`, ranking por relevancia y resaltado.
-- **🌗 Dark/Light mode** (dark por defecto, light = pergamino).
-- **📑 Sidebar TOC** por juego con secciones colapsables, items activos y progreso.
-- **✅ Marcador de progreso** por juego, persistido en `localStorage`.
-- **➡️ Anterior/Siguiente** + migas de pan (Juego › CD/Sección › Capítulo).
-- **🖼️ Lightbox** para todas las imágenes.
-- **📱 Responsive** con bottom-bar en móvil.
-- **🚀 100% estático** + sitemap automático.
-
-## 🛠️ Stack
-
-- **[Astro 5](https://astro.build)** + `getStaticPaths` dinámico
-- **[Tailwind CSS v4](https://tailwindcss.com)** con `@theme` y variables por juego
-- **TypeScript** estricto
-- **Python 3** (BeautifulSoup) para el parser de eliteguias
-- **Google Fonts**: Cinzel (display), Spectral (body), Manrope (UI), JetBrains Mono (datos)
-
-## 🚀 Quick start
+## Quick start
 
 ```bash
-# 1) Instalar dependencias
 npm install
+npm run dev          # http://127.0.0.1:4321
+npm run build        # → dist/ (~261 MB)
+npm run preview      # sirve dist/ local
+```
 
-# 2a) Descargar TODAS las guías (5 juegos, ~30 min, ~45 MB de imágenes)
+Re-scrapear datos:
+
+```bash
+python3 scripts/download.py --game ff9
 python3 scripts/download.py --game all
-
-# 2b) O descarga solo un juego
-python3 scripts/download.py --game ff7
-
-# 3) Dev server
-npm run dev   # → http://127.0.0.1:4321
-
-# 4) Build de producción
-npm run build
 ```
 
-## 📂 Estructura
+## MCP server
 
-```
-ff9/
-├── scripts/
-│   ├── download.py            # Descargador + parser (game-agnostic)
-│   ├── screenshot.mjs         # Verificador visual con Playwright
-│   └── screenshot-themes.mjs  # Screenshots cross-game
-├── data/
-│   ├── games.json             # Registry: juegos, paletas, secciones
-│   └── games/
-│       ├── ff9/{guide.json, structure.json, raw/}
-│       ├── ff7/...
-│       ├── ff8/...
-│       ├── ff10/...
-│       └── ff6/...
-├── public/
-│   ├── favicon.svg
-│   └── img/
-│       ├── ff9/  (~310 imágenes)
-│       ├── ff7/  (~170 imágenes)
-│       ├── ff8/  (~300 imágenes)
-│       ├── ff10/ (~190 imágenes)
-│       └── ff6/  (~655 imágenes)
-├── src/
-│   ├── components/
-│   │   ├── BackToTop.astro
-│   │   ├── Breadcrumbs.astro
-│   │   ├── ContentBlocks.astro
-│   │   ├── Crystal.astro
-│   │   ├── Lightbox.astro
-│   │   ├── Logo.astro
-│   │   ├── PageNav.astro
-│   │   ├── ProgressToggle.astro
-│   │   ├── ProgressTracker.astro
-│   │   ├── Search.astro
-│   │   ├── Sidebar.astro
-│   │   └── ThemeToggle.astro
-│   ├── layouts/
-│   │   └── GuideLayout.astro
-│   ├── lib/
-│   │   ├── games.ts           # Registry + temas
-│   │   ├── guide.ts           # Data loaders por juego
-│   │   └── search.ts          # Índice cross-game
-│   ├── pages/
-│   │   ├── 404.astro
-│   │   ├── index.astro        # Games index (list de todos)
-│   │   └── [game]/
-│   │       ├── index.astro    # Home de cada juego
-│   │       └── guia/
-│   │           └── [slug].astro
-│   └── styles/
-│       └── global.css         # Tailwind v4 + tema
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+`scripts/mcp_server.py` expone la guía como tools de [Model Context Protocol](https://modelcontextprotocol.io/) (stdio, Python ≥ 3.10), para que agentes LLM como Claude Desktop o Cursor las consulten.
+
+### Setup
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
 ```
 
-## 🎨 Sistema de temas
+### Tools
 
-Cada juego tiene su **paleta** definida en `data/games.json`:
+| Tool | Input | Devuelve |
+|---|---|---|
+| `list_games` | — | slugs y títulos disponibles |
+| `list_structure` | `game` | TOC por disc con slugs |
+| `get_page` | `game`, `slug` | contenido completo (h2/h3/p/table/ul) |
+| `search_guide` | `game`, `query`, `max_results?` | snippets con match |
+| `list_enemies` | `game`, `group?` (`all`/`normales`/`jefes`/`bondadosos`) | bestiario (solo FF9) |
+| `find_item` | `game`, `item_name` | páginas donde aparece un item en el walkthrough |
+
+`search_guide` y `find_item` son case-insensitive. Cada celda linkable de las tablas (ej. nombres de enemigos del bestiario) también se indexa.
+
+### Conectar a Claude Desktop
+
+Editá `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ```json
-"theme": {
-  "primary":   { "name": "crystal", "hex": "#9b7aff", "ink": "#2d1f5e" },
-  "accent":    { "name": "gold",    "hex": "#e8b75d", "ink": "#5a3a0e" },
-  "rose": "#e07a9e", "azure": "#6fb8e8", ...
+{
+  "mcpServers": {
+    "tomo-del-cristal": {
+      "command": "/Users/mrdrarek/dev/guia/ff9/.venv/bin/python",
+      "args": ["/Users/mrdrarek/dev/guia/ff9/scripts/mcp_server.py"]
+    }
+  }
 }
 ```
 
-El layout inyecta estas variables en `:root[data-game="ff9"]` (o el slug correspondiente) y todo el CSS consume `var(--color-crystal)`, `var(--color-gold)`, etc. Cambiar de juego = cambiar el `data-game` del `<html>` y se repinta todo.
+Reiniciá Claude Desktop y las 6 tools aparecen en el selector de tools.
 
-**Paletas actuales:**
-- **FF9** — Cristal violeta + Tantalus gold (medieval, mágico)
-- **FF7** — Mako green + Ember (corporativo, post-apocalíptico)
-- **FF8** — Lionheart blue + Rose (romántico, futurista)
-- **FF10** — Spira teal + Yuna pink (religioso, acuático)
-- **FF6** — Maduin ember + Crimson (épico, decrépito)
+### Conectar a Cursor
 
-## 🔧 Cómo añadir un juego nuevo
+Settings → Features → Model Context Protocol → Add new MCP server con la misma `command` y `args`.
 
-1. **Editar `data/games.json`**: añadir entrada con `title`, `slug`, `theme`, `sections` (estructura de páginas con `href` apuntando a eliteguias).
-2. **Descargar**: `python3 scripts/download.py --game {slug}`.
-3. **Build**: `npm run build` — el `import.meta.glob` en `src/lib/guide.ts` recoge automáticamente `data/games/{slug}/guide.json`.
-
-No requiere tocar código de Astro si la paleta es suficiente con la paleta por defecto (FF9). Para un tema visual único, edita `theme` en el registro.
-
-## 🔍 Búsqueda
-
-`src/lib/search.ts` genera un índice con todos los capítulos de todos los juegos en build time. El modal ⌘K busca en cliente (vanilla JS) sobre ese índice, con ranking por nº de matches + bonus por match en título/heading. Cada resultado muestra el badge del juego (FF9, FF7, etc.).
-
-## 🚢 Despliegue
-
-Build estático (`dist/`) en cualquier host:
+### Smoke test
 
 ```bash
-npm run build
-# → dist/ con 281 HTML + 1620 imágenes (~280 MB)
+.venv/bin/python scripts/test_mcp.py
 ```
 
-Funciona en Cloudflare Pages, Vercel, Netlify, GitHub Pages. El `sitemap-index.xml` se genera automáticamente.
+Ejecuta 6 invocaciones round-trip (initialize + tools/list + 4 tools/call) por stdio y muestra el output.
 
-## 📝 Créditos
+## Deploy
 
-- **Contenido**: adaptado de la guía de [Eliteguias](https://www.eliteguias.com) © Eliteguias.
-- **Juegos**: *Final Fantasy* © Square Enix.
-- **Esta guía**: proyecto fan-made sin ánimo de lucro.
+En el server corre `scripts/deploy-guias.sh` (instalado en `$PATH` como `deploy-guias`):
 
-## 📜 Licencia del código
+```bash
+sudo deploy-guias latest      # última release de drarekx/guias
+sudo deploy-guias v0.1.2      # release específica
+```
 
-MIT — siéntete libre de reutilizar la arquitectura (no el contenido de Eliteguias).
+Baja el tarball `tomo-del-cristal-vX.Y.Z.tar.gz` del último release, hace backup de `/var/www/guias`, extrae y recarga nginx. Rollback automático si la verificación falla.
+
+El tarball lo genera `.github/workflows/release.yml` al pushear un tag `v*`.
+
+## Estructura del proyecto
+
+```
+src/
+├── layouts/GuideLayout.astro       # inyecto vars CSS por juego
+├── lib/{games,guide,search}.ts     # registry, loaders, search index
+├── pages/[game]/guia/[slug].astro  # rutas estaticas
+└── components/                     # Sidebar, Search, ContentBlocks, ...
+
+data/games/{slug}/
+├── guide.json                      # contenido (93 paginas en ff9)
+├── structure.json                  # TOC por disc
+└── bestiario.json                  # solo ff9 (CC-BY-SA desde.fandom)
+
+scripts/
+├── download.py                     # scraper eliteguias
+├── fetch-bestiario.py              # scraper MediaWiki API para bestiario
+├── inject-bestiario.py             # inyecta bloque bestiario en guide.json
+├── mcp_server.py                   # MCP server (stdio)
+└── test_mcp.py                     # smoke test
+```
+
+Ver `AGENTS.md` para contexto extendido (sistema de temas, trucos no obvios, TODOs priorizados).
+
+## Atribución
+
+- Walkthroughs: [Eliteguias](https://www.eliteguias.com)
+- Bestiario de FF9: [Final Fantasy Wiki](https://finalfantasy.fandom.com/es/) (CC-BY-SA)
