@@ -5,6 +5,7 @@ import Lightbox from "../components/Lightbox.astro";
 import BackToTop from "../components/BackToTop.astro";
 import ProgressTracker from "../components/ProgressTracker.astro";
 import ReadingProgress from "../components/ReadingProgress.astro";
+import WebMCP from "../components/WebMCP.astro";
 import { themeVars, type Game } from "../lib/games";
 
 interface Props {
@@ -56,5 +57,6 @@ const gameStyle = game ? Object.entries(themeVars(game.theme)).map(([k, v]) => `
     <Lightbox />
     <BackToTop />
     <ProgressTracker gameSlug={game?.slug ?? ""} />
+    {game && <WebMCP currentSlug={currentSlug} />}
   </body>
 </html>

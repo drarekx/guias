@@ -1,0 +1,83 @@
+---
+// WebMCP: expone la página actual como tools MCP al cliente LLM del browser.
+// Usa la implementación de jasonjmcghee/WebMCP (la única funcional hoy; el
+// repo W3C webmachinelearning/webmcp es solo spec, sin implementación).
+// Cuando Chrome/Firefox expongan document.modelContext nativamente, migrar.
+---
+<script src="/webmcp.js" is:inline></script>
+<script is:inline define:vars={{ slug: Astro.props.currentSlug || "" }}>
+  (function () {
+    if (!window.__webmcp) return;
+
+    function text(t) {
+      return { content: [{ type: "text", text: t }] };
+    }
+
+    window.__webmcp.registerTool(
+      "get_current_chapter",
+      "Devuelve el slug y titulo del capitulo actual, mas la ruta.",
+      { type: "object", properties: {}, required: [] },
+      function () {
+        const h1 = document.querySelector("article h1, main h1, h1");
+        const title = h1 ? h1.textContent.trim() : document.title;
+        return text(JSON.stringify({ slug: location.pathname.match(/guia\/([^/]+)/)?.[1] || null, title, path: location.pathname }, null, 2));
+      }
+    );
+
+    window.__webmcp.registerTool(
+      "search_in_chapter",
+      "Busca texto dentro del capitulo actual visible y devuelve snippets.",
+      {
+        type: "object",
+        properties: { query: { type: "string", description: "Texto a buscar" } },
+        required: ["query"],
+      },
+      function (args) {
+        const q = (args.query || "").toLowerCase();
+        if (!q) return text("Falta el parametro query.");
+        const article = document.querySelector("article.prose-guide, article") || document.body;
+        const text0 = article.textContent || "";
+        const idx = text0.toLowerCase().indexOf(q);
+        if (idx === -1) return text("Sin coincidencias en el capitulo actual.");
+        const start = Math.max(0, idx - 120);
+        const end = Math.min(text0.length, idx + 240);
+        return text("…" + text0.slice(start, end).replace(/\s+/g, " ").trim() + "…");
+      }
+    );
+
+    window.__webmcp.registerTool(
+      "mark_chapter_completed",
+      "Marca (o desmarca) el capitulo actual como completado. Persiste en localStorage.",
+      { type: "object", properties: {}, required: [] },
+      function () {
+        const btn = document.querySelector("[data-progress-toggle]");
+        if (!btn) return text("Boton de progreso no encontrado (no estas en una pagina de guia?).");
+        btn.click();
+        const done = btn.classList.contains("is-completed") || btn.getAttribute("aria-pressed") === "true";
+        return text(done ? "Capitulo marcado como completado." : "Capitulo desmarcado.");
+      }
+    );
+
+    window.__webmcp.registerTool(
+      "navigate_to_chapter",
+      "Navega a otro capitulo del juego por slug (ej. ff9-p2, ff9-bestiario).",
+      {
+        type: "object",
+        properties: { slug: { type: "string", description: "Slug del capitulo (ej. ff9-p2)" } },
+        required: ["slug"],
+      },
+      function (args) {
+        const m = location.pathname.match(/^\/(ff\d+|ff\d+|ff\d+|ff\d+|ff\d+)\//);
+        const gameSlug = m ? m[1] : "ff9";
+        const target = `/${gameSlug}/guia/${args.slug}/`;
+        const link = document.querySelector(`a[href$="/guia/${args.slug}/"]`);
+        if (link) {
+          link.click();
+          return text(`Navegando a ${target}`);
+        }
+        location.href = target;
+        return text(`Forzando navegacion a ${target}`);
+      }
+    );
+  })();
+</script>
