@@ -33,10 +33,24 @@ jobs:
         run: |
           # Strip "v" prefix del tag para usar en el nombre del archivo
           VERSION="${GITHUB_REF#refs/tags/v}"
+          # Sitio estático para nginx (lo que se sirve en /var/www/guias)
           tar -czf "tomo-del-cristal-v${VERSION}.tar.gz" -C dist .
           ls -lh "tomo-del-cristal-v${VERSION}.tar.gz"
-          # También generamos un zip para usuarios Windows
+          # Zip para usuarios Windows
           (cd dist && zip -qr "../tomo-del-cristal-v${VERSION}.zip" .)
+          # Código fuente (sin node_modules / dist / .astro / .venv / raw) para
+          # devs que quieran usar el MCP server o contribuir.
+          tar -czf "tomo-del-cristal-v${VERSION}-source.tar.gz" \
+            --exclude='./node_modules' \
+            --exclude='./dist' \
+            --exclude='./.astro' \
+            --exclude='./.venv' \
+            --exclude='./.git' \
+            --exclude='./data/games/*/raw' \
+            --exclude='./*.log' \
+            --exclude='./.DS_Store' \
+            .
+          ls -lh "tomo-del-cristal-v${VERSION}-source.tar.gz"
 
       - name: Create release
         uses: softprops/action-gh-release@v2
@@ -45,5 +59,6 @@ jobs:
           name: "Tomo del Cristal ${{ github.ref_name }}"
           generate_release_notes: true
           files: |
-            tomo-del-cristal-*.tar.gz
-            tomo-del-cristal-*.zip
+            tomo-del-cristal-v*.tar.gz
+            tomo-del-cristal-v*-source.tar.gz
+            tomo-del-cristal-v*.zip
