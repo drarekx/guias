@@ -38,18 +38,10 @@ jobs:
           ls -lh "tomo-del-cristal-v${VERSION}.tar.gz"
           # Zip para usuarios Windows
           (cd dist && zip -qr "../tomo-del-cristal-v${VERSION}.zip" .)
-          # Código fuente (sin node_modules / dist / .astro / .venv / raw) para
-          # devs que quieran usar el MCP server o contribuir.
-          tar -czf "tomo-del-cristal-v${VERSION}-source.tar.gz" \
-            --exclude='./node_modules' \
-            --exclude='./dist' \
-            --exclude='./.astro' \
-            --exclude='./.venv' \
-            --exclude='./.git' \
-            --exclude='./data/games/*/raw' \
-            --exclude='./*.log' \
-            --exclude='./.DS_Store' \
-            .
+          # Código fuente (solo archivos trackeados en git, vía git archive —
+          # evita el "file changed as we read it" de tar sobre fs dinámico)
+          git archive --format=tar.gz \
+            --output="tomo-del-cristal-v${VERSION}-source.tar.gz" HEAD
           ls -lh "tomo-del-cristal-v${VERSION}-source.tar.gz"
 
       - name: Create release
