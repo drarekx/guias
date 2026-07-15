@@ -73,6 +73,35 @@ Settings → Features → Model Context Protocol → Add new MCP server con la m
 
 Ejecuta 6 invocaciones round-trip (initialize + tools/list + 4 tools/call) por stdio y muestra el output.
 
+## WebMCP (en el browser)
+
+Ademas del MCP server Python (que consulta todo el contenido desde local), el sitio expone **4 tools en el browser** via [WebMCP](https://webmcp.dev/). Cuando navegas cualquier pagina de guia aparece un cuadrado azul/violeta abajo a la derecha; al clickearlo te pide un token de conexion (que generas pidendoselo a Claude). Una vez conectado, el LLM puede actuar sobre la pagina visible.
+
+Tools expuestas en cada pagina:
+
+| Tool | Que hace |
+|---|---|
+| `get_current_chapter` | Devuelve el slug y titulo del capitulo visible |
+| `search_in_chapter(query)` | Full-text search dentro del capitulo abierto |
+| `mark_chapter_completed` | Toggle del boton "marcar completado" (usa el localStorage del sitio) |
+| `navigate_to_chapter(slug)` | Navega a otro capitulo del juego actual |
+
+Setup del cliente (igual que en el README oficial de WebMCP):
+
+```json
+{
+  "mcpServers": {
+    "webmcp": {
+      "command": "npx",
+      "args": ["-y", "@jason.today/webmcp@latest", "--mcp"]
+    }
+  }
+}
+```
+
+Notas:
+- La implementacion de WebMCP que usamos (`public/webmcp.js`) viene del repo [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) v0.1.13. La spec oficial de W3C esta en [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) pero todavia no tiene implementacion en browsers. Migrar a `document.modelContext.registerTool()` cuando Chrome/Firefox lo soporten nativamente.
+
 ## Deploy
 
 En el server corre `scripts/deploy-guias.sh` (instalado en `$PATH` como `deploy-guias`):
@@ -104,8 +133,8 @@ scripts/
 ├── download.py                     # scraper eliteguias
 ├── fetch-bestiario.py              # scraper MediaWiki API para bestiario
 ├── inject-bestiario.py             # inyecta bloque bestiario en guide.json
-├── mcp_server.py                   # MCP server (stdio)
-└── test_mcp.py                     # smoke test
+├── mcp_server.py                   # MCP server (stdio, Python)
+└── test_mcp.py                     # smoke test del MCP server
 ```
 
 Ver `AGENTS.md` para contexto extendido (sistema de temas, trucos no obvios, TODOs priorizados).
@@ -114,3 +143,4 @@ Ver `AGENTS.md` para contexto extendido (sistema de temas, trucos no obvios, TOD
 
 - Walkthroughs: [Eliteguias](https://www.eliteguias.com)
 - Bestiario de FF9: [Final Fantasy Wiki](https://finalfantasy.fandom.com/es/) (CC-BY-SA)
+- WebMCP client-side JS: [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) (MIT)

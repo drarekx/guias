@@ -168,4 +168,19 @@ Conectar a Claude Desktop (`~/Library/Application Support/Claude/claude_desktop_
 
 Smoke test: `python3 scripts/test_mcp.py`.
 
+## WebMCP (en el browser)
+
+Ademas del MCP server Python, el sitio expone tools en el browser via [WebMCP](https://webmcp.dev/). El client-side JS vive en `public/webmcp.js` (bajado de jasonjmcghee/WebMCP v0.1.13 — unica implementacion funcional hoy, la spec W3C todavia no tiene implementacion en browsers).
+
+`src/components/WebMCP.astro` registra 4 tools que operan sobre la pagina visible (no sobre todo el contenido):
+
+- `get_current_chapter`
+- `search_in_chapter(query)` — full-text en el DOM actual
+- `mark_chapter_completed` — toggle del boton de progreso
+- `navigate_to_chapter(slug)` — navega via sidebar
+
+Cuando agregues paginas o componentes nuevos, considera si deberian exponerse como tools. WebMCP usa `window.__webmcp.registerTool(name, description, schema, executeFn)`. Schema es un objeto JSON Schema con `properties`. La `executeFn` recibe args y devuelve `{content: [{type: "text", text: "..."}]}`.
+
+TODO: migrar a `document.modelContext.registerTool()` (W3C spec) cuando Chrome/Firefox lo soporten nativamente. La API actual (`window.__webmcp.registerTool` con 4 args) es del repo viejo.
+
 No hay test suite ni linter configurado. El verificador visual es `scripts/screenshot.mjs` (Playwright).
