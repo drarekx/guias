@@ -1,0 +1,42 @@
+{
+  "_source": "GameFAQs - Final Fantasy IX Walkthrough by bover_87 (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/sidequests-mini-games)",
+  "intro": "Seis minijuegos complementarios de FF9 que no tienen pagina propia en la guia principal. Datos factuales del juego (ubicaciones, recompensas, restricciones) con descripciones re-escritas en espanol rioplatense.",
+  "games": [
+    {
+      "title": "Conde Petie Colored Stones",
+      "where": "Conde Petie (CD 2-3)",
+      "reward": "Moonstone (unica vez)",
+      "how": "Tu primera tarea es juntar las cuatro piedras de colores (Roja, Verde, Azul y Amarilla). Las instrucciones para conseguirlas estan en el walkthrough (Codre Petie Mountain Path).\n\nUna vez que tenes las cuatro, busca la maquina de intercambio al oeste de Suzuna, examinala e insertalas para recibir un Moonstone. Esto solo se puede hacer una vez."
+    },
+    {
+      "title": "Oglop Trading",
+      "where": "Conde Petie Mountain Path -> Conde Petie (CD 2-3)",
+      "reward": "Oglop Card (repetible, recompensa mediocre)",
+      "how": "Simple y casi sin sentido (la recompensa es una Card mediocre). Atrapá un Oglop en Conde Petie Mountain Path y volvé a Conde Petie, donde Bryan Rootrunner (cerca del Item Shop) te da un Oglop Card. Se puede repetir cuantas veces quieras para juntar mas Oglop Cards, pero como la recompensa no vale nada, no tiene mucho punto."
+    },
+    {
+      "title": "Double or Nothing",
+      "where": "Alexandria Weapon Shop, controlando Zidane (CD 3, antes de ver a Dagger)",
+      "reward": "Gil (sin items)",
+      "how": "Hablá con los Nero brothers en la Weapon Shop de Alexandria y aceptá jugar por 50 gil. Si identificas al hermano correcto, duplicas la apuesta. Cada vez que ganás te ofrecen subir (150 la segunda, después el doble de la anterior); si perdés o abandonás, la apuesta vuelve a 50 gil.\n\nSalvo la primera partida (donde el premio se duplica), si ganás recuperás tu apuesta mas un tercio. No hay premios en items, solo Gil.\n\nTeóricamente podes juntar una fortuna ganando muchas rondas seguidas sin save, pero perder o salir resetea todo a 50 gil. Útil solo si vas por el achievement 'Found in the Shuffle' (9 rondas seguidas)."
+    },
+    {
+      "title": "Daguerreo",
+      "where": "Sacrobless Island (la isla mas grande del Salvage Archipelago, al sur del Forgotten Continent)",
+      "reward": "Items de shop, Elixires, Namingway, Magical Fingertip",
+      "how": "Llegá con el Hilda Garde 3 (o un Sky Chocobo si queres lucirte) a la sección alta de Sacrobless Island y entrá por la entrada obvia. Cuidado con el Gimme Cat: si te pide un Diamond, NO se lo des (no es parte del sidequest de Friendly Creatures).\n\nEn la intersección central: tomá la derecha para encontrar el Stellazzio Capricorn en un nicho. Seguí el canal a la siguiente pantalla, donde está el Four-Armed Man que ya viste en otras zonas (jugá cartas con Cuadrado, pero no le hables con X hasta estar seguro de tener todas las cartas que querés). Si seguiste el walkthrough, ya tenés suficiente tesoro para obtener el Rank S Medal Key Item (después de eso el NPC huye para siempre). Subí por el ascensor al Synthesis Shop, que vende mucho equipo bueno (Sargatanas, robes nuevos, Summon Jewels). Hay un Moogle (Noggy) arriba pero no tiene cartas para Mognet.\n\nCosas para hacer arriba: examinar la pila de libros. Cerca está el Item Shop. Hay un hombre discutiendo con la dependienta: si le das la razón a él repetidamente, recibís una Holy Card; si le das la razón a ella, una Meteor Card. Hay un botón raro cerca que activa la maquina de Aquamarine del piso inferior (por cada 4 Ore te hace una Aquamarine). El Librarian tiene un Inn (100 gil). El hombre de los estantes quiere un libro; si examinaste la pila, se mueve y te da acceso al piso medio.\n\nPiso medio: tenés un Elixir y un NPC que te deja cambiar los nombres de tus personajes (si tenés la Namingway Card). A la derecha hay otro Elixir.\n\nVolvé a la bifurcación de la entrada y tomá la izquierda. Tu objetivo es arreglar el hidrolift (sin esto la Weapon Shop no abre): mové la palanca izquierda hasta que aparezca un agujero, examiná el agujero y después el rod cercano. Bajá la palanca derecha hasta nivelar la plataforma con vos, y subí hasta la Weapon Shop.\n\n**La Weapon Shop de CD 3** tiene items unicos y muchos son missables: comprá 2 de cada uno de Asura's Rod, Hamelin, Obelisk, Tiger Fangs, Octagon Rod, y 3 Diamond Armor. Todos son perdibles y esta es la ultima tienda que los vende (sigue abierta hasta el final del CD si no querés hacerlo ahora). Hamelin, Rune Blade y Octagon Rod enseñan abilities unicas, así que conseguilas y usalas aunque tengas mejores cosas de Chocographs. Tené entre las dos tipos (Zorlin Shapes y Sargatanas) un total de 8 weapons para Synth.\n\n**En CD 4** todo lo de arriba sigue disponible (con inventario distinto en la Weapon Shop) y se suma el sidequest de Magical Fingertip. La Weapon Shop de CD 4 es basicamente la ultima del juego: tiene el mejor equipo buyable. Stockeá lo que necesites."
+    },
+    {
+      "title": "Magical Fingertip",
+      "where": "Empieza en Daguerreo (CD 4)",
+      "reward": "Excalibur (Knight Sword #3 de Steiner)",
+      "how": "Habla con el viejo cerca del Inn en Daguerreo (CD 4) para arrancar el quest. Tu tarea es rastrear el Magical Fingertip.\n\nAndá a Treno y asegurate de haber comprado y revendido Une's Mirror, Doga's Artifact, Griffin's Heart y Rat Tail (si no lo hiciste, comprá y revendé las que te falten). Una vez hecho, el Magical Fingertip aparece en las subastas de Treno. Esperá pagar al menos 40,000 gil. Ganala y llevala de vuelta al viejo en Daguerreo para recibir el Excalibur (tercer Knight Sword de Steiner)."
+    },
+    {
+      "title": "Kupo Nuts",
+      "where": "Gizamaluke's Grotto (Moguta)",
+      "reward": "Holy Bell (D1), Elixir (D2), Extension (D3), Aloha T-Shirt (D4)",
+      "how": "Sidequest muy simple: entregar Kupo Nuts a Moguta en Gizamaluke's Grotto a cambio de items. La primera Kupo Nut es parte de la historia; el resto se obtienen completando entregas de Mognet.\n\nLa primera entrega por CD da un premio fijo:\n\n- **CD 1**: Holy Bell (Key Item).\n- **CD 2**: Elixir (solo disponible después de Cleyra).\n- **CD 3**: Extension (hairpiece).\n- **CD 4**: Aloha T-Shirt.\n\nCualquier Kupo Nut extra en el mismo CD da un item al azar: Tent, Phoenix Pinion o Ether. Fuera de los premios fijos por CD, no hay rewards especiales, asi que el quest es opcional salvo que quieras los items de completionist.\n\n**Cuidado**: solo podes llevar una Kupo Nut a la vez. Si ya tenes una, los Moguris NUNCA te daran otra, aunque correspondiera. Si te interesa el quest, entregá las Kupo Nuts apenas las recibas.\n\nPara el Item List completo (100%): en CD 4, entregá al menos una Kupo Nut antes de entregar la ultima carta de Mognet (todas las entregas de CD 4 dan una Kupo Nut). Asi obtenés la Aloha T-Shirt unica (aunque no vale nada) y podes quedarte con la Kupo Nut final en el inventario (la Kupo Nut misma es item unico, no la entregues)."
+    }
+  ]
+}

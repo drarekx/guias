@@ -1358,6 +1358,11 @@
               "slug": "ff9-missables",
               "title": "Items perdibles",
               "href": "final-fantasy-ix_missables.php"
+            },
+            {
+              "slug": "ff9-otros-minijuegos",
+              "title": "Otros minijuegos",
+              "href": "final-fantasy-ix_otros-minijuegos.php"
             }
           ]
         },
