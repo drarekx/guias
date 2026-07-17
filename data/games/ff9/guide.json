@@ -8570,5 +8570,1662 @@
         }
       ]
     }
+  },
+  {
+    "slug": "ff9-shops",
+    "disc": "Extras",
+    "title": "Tiendas",
+    "href": "final-fantasy-ix_shops.php",
+    "content": {
+      "title": "Guía Final Fantasy IX",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Catalogo de tiendas de Final Fantasy IX agrupadas por ubicacion. Para cada tienda se listan los items notables (no se incluyen items triviales como Potion que estan en todas). Los precios en gil. Las Synth Shop muestran item + ingredientes + costo. Para el catalogo completo con cada item, consultar la guia de bover_87."
+        },
+        {
+          "type": "h3",
+          "text": "Alexandria Item Shop (CD 1)"
+        },
+        {
+          "type": "p",
+          "text": "Alexandria, cerca de la plaza"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "South Gate Shop (pre-Dali, CD 1)"
+        },
+        {
+          "type": "p",
+          "text": "Alexandria, puerta sur"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Dali Weapon Shop (CD 1)"
+        },
+        {
+          "type": "p",
+          "text": "Dali"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Dagger",
+              "320 gil"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Broadsword",
+              "330 gil"
+            ],
+            [
+              "Iron Sword",
+              "660 gil"
+            ],
+            [
+              "Rod",
+              "260 gil"
+            ],
+            [
+              "Mage Staff",
+              "320 gil"
+            ],
+            [
+              "Wrist",
+              "130 gil"
+            ],
+            [
+              "Leather Wrist",
+              "200 gil"
+            ],
+            [
+              "Bronze Gloves",
+              "480 gil"
+            ],
+            [
+              "Leather Hat",
+              "150 gil"
+            ],
+            [
+              "Feather Hat",
+              "200 gil"
+            ],
+            [
+              "Rubber Helm",
+              "250 gil"
+            ],
+            [
+              "Bronze Helm",
+              "330 gil"
+            ],
+            [
+              "Leather Shirt",
+              "270 gil"
+            ],
+            [
+              "Silk Shirt",
+              "400 gil"
+            ],
+            [
+              "Bronze Armor",
+              "650 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Dali Item Shop (CD 1)"
+        },
+        {
+          "type": "p",
+          "text": "Dali"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Dragoos' Weapon Shop, Lindblum (pre-Cleyra)"
+        },
+        {
+          "type": "p",
+          "text": "Lindblum, distrito comercial"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Dagger",
+              "320 gil"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Mythril Dagger",
+              "950 gil"
+            ],
+            [
+              "Iron Sword",
+              "660 gil"
+            ],
+            [
+              "Javelin",
+              "880 gil"
+            ],
+            [
+              "Rod",
+              "260 gil"
+            ],
+            [
+              "Fork",
+              "1100 gil"
+            ],
+            [
+              "Leather Wrist",
+              "200 gil"
+            ],
+            [
+              "Glass Armlet",
+              "250 gil"
+            ],
+            [
+              "Bronze Gloves",
+              "480 gil"
+            ],
+            [
+              "Silver Gloves",
+              "720 gil"
+            ],
+            [
+              "Steepled Hat",
+              "260 gil"
+            ],
+            [
+              "Headgear",
+              "330 gil"
+            ],
+            [
+              "Iron Helm",
+              "450 gil"
+            ],
+            [
+              "Leather Plate",
+              "530 gil"
+            ],
+            [
+              "Linen Cuirass",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Lindblum Synthesis Shop (CD 1)"
+        },
+        {
+          "type": "p",
+          "text": "Lindblum, distrito comercial"
+        },
+        {
+          "type": "p",
+          "text": "Primera Synth Shop del juego. Lista basica."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Ingredientes",
+              "Costo"
+            ],
+            [
+              "Butterfly Sword",
+              "Dagger + Mage Masher",
+              "300 gil"
+            ],
+            [
+              "The Ogre",
+              "Mage Masher x2",
+              "700 gil"
+            ],
+            [
+              "Cotton Robe",
+              "Wrist + Steepled Hat",
+              "1000 gil"
+            ],
+            [
+              "Desert Boots",
+              "Leather Hat + Leather Shirt",
+              "300 gil"
+            ],
+            [
+              "Yellow Scarf",
+              "Feather Hat + Steepled Hat",
+              "400 gil"
+            ],
+            [
+              "Glass Buckle",
+              "Leather Wrist + Glass Armlet",
+              "500 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Summit Station Shop (CD 2)"
+        },
+        {
+          "type": "p",
+          "text": "Treno, estacion de tren"
+        },
+        {
+          "type": "p",
+          "text": "Unica oportunidad. Varios items son missable."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Air Racket",
+              "400 gil"
+            ],
+            [
+              "Mythril Rod",
+              "560 gil"
+            ],
+            [
+              "Glass Armlet",
+              "250 gil"
+            ],
+            [
+              "Silver Gloves",
+              "720 gil"
+            ],
+            [
+              "Mythril Gloves",
+              "980 gil"
+            ],
+            [
+              "Steepled Hat",
+              "260 gil"
+            ],
+            [
+              "Headgear",
+              "330 gil"
+            ],
+            [
+              "Magus Hat",
+              "400 gil"
+            ],
+            [
+              "Rubber Helm",
+              "250 gil"
+            ],
+            [
+              "Iron Helm",
+              "450 gil"
+            ],
+            [
+              "Barbut",
+              "600 gil"
+            ],
+            [
+              "Bronze Vest",
+              "670 gil"
+            ],
+            [
+              "Linen Cuirass",
+              "800 gil"
+            ],
+            [
+              "Echo Screen",
+              "50 gil"
+            ],
+            [
+              "Soft",
+              "100 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Treno Weapon Shop (CD 2)"
+        },
+        {
+          "type": "p",
+          "text": "Treno, distrito noble"
+        },
+        {
+          "type": "p",
+          "text": "Ultima oportunidad para Mythril Sword y Air Racket (ambos utiles para Synth)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Dagger",
+              "320 gil"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Mythril Dagger",
+              "950 gil"
+            ],
+            [
+              "Mythril Sword",
+              "1300 gil"
+            ],
+            [
+              "Mythril Spear",
+              "1100 gil"
+            ],
+            [
+              "Air Racket",
+              "400 gil"
+            ],
+            [
+              "Mythril Rod",
+              "560 gil"
+            ],
+            [
+              "Flame Staff",
+              "1100 gil"
+            ],
+            [
+              "Ice Staff",
+              "980 gil"
+            ],
+            [
+              "Lightning Staff",
+              "1200 gil"
+            ],
+            [
+              "Fork",
+              "1100 gil"
+            ],
+            [
+              "Needle Fork",
+              "3100 gil"
+            ],
+            [
+              "Mythril Gloves",
+              "980 gil"
+            ],
+            [
+              "Chain Plate",
+              "810 gil"
+            ],
+            [
+              "Chain Mail",
+              "1200 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Burmecian Soldier Dan's Weapon Shop (Cleyra)"
+        },
+        {
+          "type": "p",
+          "text": "Cleyra, settlement"
+        },
+        {
+          "type": "p",
+          "text": "Como llego todo este equipo hasta el tronco es un misterio."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Partisan",
+              "1600 gil"
+            ],
+            [
+              "Multina Racket",
+              "750 gil"
+            ],
+            [
+              "Mythril Rod",
+              "560 gil"
+            ],
+            [
+              "Flame Staff",
+              "1100 gil"
+            ],
+            [
+              "Ice Staff",
+              "980 gil"
+            ],
+            [
+              "Needle Fork",
+              "3100 gil"
+            ],
+            [
+              "Mythril Armlet",
+              "500 gil"
+            ],
+            [
+              "Mythril Gloves",
+              "980 gil"
+            ],
+            [
+              "Thunder Gloves",
+              "1200 gil"
+            ],
+            [
+              "Mage's Hat",
+              "600 gil"
+            ],
+            [
+              "Mythril Helm",
+              "1000 gil"
+            ],
+            [
+              "Mythril Vest",
+              "1180 gil"
+            ],
+            [
+              "Mythril Armor",
+              "1830 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Dragon's Gate Merchant (CD 2)"
+        },
+        {
+          "type": "p",
+          "text": "Dragon's Gate, camino a la Outer Continent"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Ice Brand",
+              "3780 gil"
+            ],
+            [
+              "Partisan",
+              "1600 gil"
+            ],
+            [
+              "Multina Racket",
+              "750 gil"
+            ],
+            [
+              "Stardust Rod",
+              "750 gil"
+            ],
+            [
+              "Mythril Armlet",
+              "500 gil"
+            ],
+            [
+              "Thunder Gloves",
+              "1200 gil"
+            ],
+            [
+              "Bandana",
+              "500 gil"
+            ],
+            [
+              "Mage's Hat",
+              "1000 gil"
+            ],
+            [
+              "Mythril Helm",
+              "1000 gil"
+            ],
+            [
+              "Chain Plate",
+              "810 gil"
+            ],
+            [
+              "Mythril Vest",
+              "1180 gil"
+            ],
+            [
+              "Adaman Vest",
+              "1600 gil"
+            ],
+            [
+              "Mythril Armor",
+              "1830 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Treasure Hunter's Shop (Fossil Roo, CD 2)"
+        },
+        {
+          "type": "p",
+          "text": "Fossil Roo"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Ice Brand",
+              "3780 gil"
+            ],
+            [
+              "Partisan",
+              "1600 gil"
+            ],
+            [
+              "Multina Racket",
+              "750 gil"
+            ],
+            [
+              "Stardust Rod",
+              "750 gil"
+            ],
+            [
+              "Mythril Armlet",
+              "500 gil"
+            ],
+            [
+              "Thunder Gloves",
+              "1200 gil"
+            ],
+            [
+              "Bandana",
+              "500 gil"
+            ],
+            [
+              "Mage's Hat",
+              "1000 gil"
+            ],
+            [
+              "Mythril Helm",
+              "1000 gil"
+            ],
+            [
+              "Adaman Vest",
+              "1600 gil"
+            ],
+            [
+              "Mythril Armor",
+              "1830 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Thomas Goldpiler's Weapon Shop (Conde Petie)"
+        },
+        {
+          "type": "p",
+          "text": "Conde Petie"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Poison Knuckles",
+              "5000 gil"
+            ],
+            [
+              "Multina Racket",
+              "750 gil"
+            ],
+            [
+              "Stardust Rod",
+              "750 gil"
+            ],
+            [
+              "Flame Staff",
+              "1100 gil"
+            ],
+            [
+              "Ice Staff",
+              "980 gil"
+            ],
+            [
+              "Lightning Staff",
+              "1200 gil"
+            ],
+            [
+              "Oak Staff",
+              "2400 gil"
+            ],
+            [
+              "Mythril Fork",
+              "4700 gil"
+            ],
+            [
+              "Mythril Armlet",
+              "500 gil"
+            ],
+            [
+              "Magic Armlet",
+              "1000 gil"
+            ],
+            [
+              "Lamia's Tiara",
+              "800 gil"
+            ],
+            [
+              "Ritual Hat",
+              "1000 gil"
+            ],
+            [
+              "Adaman Vest",
+              "1600 gil"
+            ],
+            [
+              "Magician Cloak",
+              "1850 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Black Mage Village Item Shop (CD 2-3)"
+        },
+        {
+          "type": "p",
+          "text": "Black Mage Village"
+        },
+        {
+          "type": "p",
+          "text": "Las tiendas BMV son las mas utiles del juego: precios bajos, inventario completo."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Hi-Potion",
+              "200 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Echo Screen",
+              "50 gil"
+            ],
+            [
+              "Soft",
+              "100 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Remedy",
+              "300 gil"
+            ],
+            [
+              "Annoyntment",
+              "150 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Black Mage Village Weapon Shop (CD 2-3)"
+        },
+        {
+          "type": "p",
+          "text": "Black Mage Village"
+        },
+        {
+          "type": "p",
+          "text": "Mejor tienda de equipment del juego medio."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Mythril Dagger",
+              "950 gil"
+            ],
+            [
+              "Gladius",
+              "2300 gil"
+            ],
+            [
+              "Stardust Rod",
+              "750 gil"
+            ],
+            [
+              "Mage Staff",
+              "320 gil"
+            ],
+            [
+              "Flame Staff",
+              "1100 gil"
+            ],
+            [
+              "Ice Staff",
+              "980 gil"
+            ],
+            [
+              "Lightning Staff",
+              "1200 gil"
+            ],
+            [
+              "Oak Staff",
+              "2400 gil"
+            ],
+            [
+              "Mythril Fork",
+              "4700 gil"
+            ],
+            [
+              "Mythril Armlet",
+              "500 gil"
+            ],
+            [
+              "Magic Armlet",
+              "1000 gil"
+            ],
+            [
+              "Mage's Hat",
+              "1000 gil"
+            ],
+            [
+              "Lamia's Tiara",
+              "800 gil"
+            ],
+            [
+              "Ritual Hat",
+              "1000 gil"
+            ],
+            [
+              "Mythril Vest",
+              "1180 gil"
+            ],
+            [
+              "Adaman Vest",
+              "1600 gil"
+            ],
+            [
+              "Magician Cloak",
+              "1850 gil"
+            ],
+            [
+              "Survival Vest",
+              "2900 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Black Cat Synthesis Shop (BMV, CD 4)"
+        },
+        {
+          "type": "p",
+          "text": "Black Mage Village"
+        },
+        {
+          "type": "p",
+          "text": "Tienda Synth mas completa del juego."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Ingredientes",
+              "Costo"
+            ],
+            [
+              "Rune Tooth",
+              "Mythril Dagger x2",
+              "1900 gil"
+            ],
+            [
+              "Angel Bless",
+              "Mythril Dagger + Gladius",
+              "3500 gil"
+            ],
+            [
+              "Sargatanas",
+              "Gladius + Zorlin Shape",
+              "4750 gil"
+            ],
+            [
+              "Masamune",
+              "Zorlin Shape + Orichalcon",
+              "6500 gil"
+            ],
+            [
+              "Priest's Racket",
+              "Air Racket + Cachusha",
+              "4000 gil"
+            ],
+            [
+              "Princess Guard",
+              "Healing Rod + Asura's Rod + Stardust Rod",
+              "5000 gil"
+            ],
+            [
+              "Silk Robe",
+              "Silk Shirt + Bandana",
+              "2000 gil"
+            ],
+            [
+              "Black Robe",
+              "Magic Robe + Lamia's Tiara + Moonlight Robe",
+              "5000 gil"
+            ],
+            [
+              "Lunar Curtain",
+              "Black Robe x2 + Running Shoes",
+              "5000 gil"
+            ],
+            [
+              "Tin Armor",
+              "Hammer x100",
+              "5000 gil"
+            ],
+            [
+              "Duel Claws",
+              "Dragon's Claws + Tiger Fangs",
+              "10750 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Esto Gaza Shop (pre-Desert Palace)"
+        },
+        {
+          "type": "p",
+          "text": "Esto Gaza, pueblo costero"
+        },
+        {
+          "type": "p",
+          "text": "Ultima oportunidad para Mythril Sword."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Mythril Sword",
+              "1300 gil"
+            ],
+            [
+              "Coral Sword",
+              "2000 gil"
+            ],
+            [
+              "Healing Rod",
+              "885 gil"
+            ],
+            [
+              "Mythril Racket",
+              "1125 gil"
+            ],
+            [
+              "Trident",
+              "1790 gil"
+            ],
+            [
+              "Mythril Claws",
+              "3250 gil"
+            ],
+            [
+              "Mythril Helm",
+              "1000 gil"
+            ],
+            [
+              "Survival Vest",
+              "2900 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Esto Gaza Shop (post-Desert Palace)"
+        },
+        {
+          "type": "p",
+          "text": "Esto Gaza, despues de Desert Palace"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Coral Sword",
+              "2000 gil"
+            ],
+            [
+              "Diamond Sword",
+              "2350 gil"
+            ],
+            [
+              "Flame Saber",
+              "2595 gil"
+            ],
+            [
+              "Gladius",
+              "2300 gil"
+            ],
+            [
+              "Asura's Rod",
+              "1590 gil"
+            ],
+            [
+              "Wizard Rod",
+              "1850 gil"
+            ],
+            [
+              "Zorlin Shape",
+              "3000 gil"
+            ],
+            [
+              "Heavy Lance",
+              "2350 gil"
+            ],
+            [
+              "Scissor Fangs",
+              "4000 gil"
+            ],
+            [
+              "Magic Racket",
+              "675 gil"
+            ],
+            [
+              "Mythril Claws",
+              "3250 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Mimoza's Mogshop (Oeilvert)"
+        },
+        {
+          "type": "p",
+          "text": "Oeilvert, Forgotten Continent"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Rising Sun",
+              "250 gil"
+            ],
+            [
+              "Pinwheel",
+              "100 gil"
+            ],
+            [
+              "Healing Rod",
+              "885 gil"
+            ],
+            [
+              "Mythril Claws",
+              "3250 gil"
+            ],
+            [
+              "Trident",
+              "1790 gil"
+            ],
+            [
+              "Magic Racket",
+              "675 gil"
+            ],
+            [
+              "Diamond Sword",
+              "2350 gil"
+            ],
+            [
+              "Mythril Vest",
+              "1180 gil"
+            ],
+            [
+              "Rosetta Ring",
+              "5000 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Mojito's Mogshop (Desert Palace)"
+        },
+        {
+          "type": "p",
+          "text": "Desert Palace"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Rising Sun",
+              "250 gil"
+            ],
+            [
+              "Healing Rod",
+              "885 gil"
+            ],
+            [
+              "Magic Racket",
+              "675 gil"
+            ],
+            [
+              "Mythril Claws",
+              "3250 gil"
+            ],
+            [
+              "Trident",
+              "1790 gil"
+            ],
+            [
+              "Diamond Sword",
+              "2350 gil"
+            ],
+            [
+              "Mythril Vest",
+              "1180 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Kumool's Mogshop (Ipsen's Castle)"
+        },
+        {
+          "type": "p",
+          "text": "Ipsen's Castle"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Dagger",
+              "320 gil"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Iron Sword",
+              "660 gil"
+            ],
+            [
+              "Javelin",
+              "880 gil"
+            ],
+            [
+              "Mythril Spear",
+              "1100 gil"
+            ],
+            [
+              "Cat's Claws",
+              "2000 gil"
+            ],
+            [
+              "Poison Knuckles",
+              "5000 gil"
+            ],
+            [
+              "Iron Sword (Staff)",
+              "1100 gil"
+            ],
+            [
+              "Needle Fork",
+              "3100 gil"
+            ],
+            [
+              "Multina Racket",
+              "750 gil"
+            ],
+            [
+              "Mythril Gloves",
+              "980 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Wendy Grocer's Item Shop (Conde Petie)"
+        },
+        {
+          "type": "p",
+          "text": "Conde Petie"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Echo Screen",
+              "50 gil"
+            ],
+            [
+              "Soft",
+              "100 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Annoyntment",
+              "150 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Daguerreo Item Shop (CD 3)"
+        },
+        {
+          "type": "p",
+          "text": "Daguerreo, Sacrobless Island"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Potion",
+              "50 gil"
+            ],
+            [
+              "Hi-Potion",
+              "200 gil"
+            ],
+            [
+              "Phoenix Down",
+              "150 gil"
+            ],
+            [
+              "Echo Screen",
+              "50 gil"
+            ],
+            [
+              "Soft",
+              "100 gil"
+            ],
+            [
+              "Antidote",
+              "50 gil"
+            ],
+            [
+              "Eye Drops",
+              "50 gil"
+            ],
+            [
+              "Remedy",
+              "300 gil"
+            ],
+            [
+              "Annoyntment",
+              "150 gil"
+            ],
+            [
+              "Tent",
+              "800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Daguerreo Weapon Shop (CD 3)"
+        },
+        {
+          "type": "p",
+          "text": "Daguerreo, Sacrobless Island"
+        },
+        {
+          "type": "p",
+          "text": "Aqui se compran los items missables criticos: Hamelin (Flute, ensenia Sound of Earth), Tiger Fangs (Claws, ensenia Revive), Asura's Rod, Obelisk (Lance), Octagon Rod (Staff, ensenia Doom), Rune Blade (Sword, ensenia Iai Strike), Diamond Armor. Compra minimo 2 de cada uno antes de salir del CD 3."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Mythril Dagger",
+              "950 gil"
+            ],
+            [
+              "Gladius",
+              "2300 gil"
+            ],
+            [
+              "Zorlin Shape",
+              "3000 gil"
+            ],
+            [
+              "Ice Brand",
+              "3780 gil"
+            ],
+            [
+              "Coral Sword",
+              "2000 gil"
+            ],
+            [
+              "Rune Blade",
+              "4450 gil"
+            ],
+            [
+              "Mythril Spear",
+              "1100 gil"
+            ],
+            [
+              "Obelisk",
+              "3000 gil"
+            ],
+            [
+              "Healing Rod",
+              "885 gil"
+            ],
+            [
+              "Asura's Rod",
+              "1590 gil"
+            ],
+            [
+              "Wizard Rod",
+              "1850 gil"
+            ],
+            [
+              "Mythril Racket",
+              "1125 gil"
+            ],
+            [
+              "Hamelin",
+              "4000 gil"
+            ],
+            [
+              "Octagon Rod",
+              "2800 gil"
+            ],
+            [
+              "Tiger Fangs",
+              "6750 gil"
+            ],
+            [
+              "Diamond Armor",
+              "4600 gil"
+            ],
+            [
+              "Mythril Helm",
+              "1000 gil"
+            ],
+            [
+              "Demon's Vest",
+              "3800 gil"
+            ],
+            [
+              "Gold Armor",
+              "3800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Moorock's Mogshop (Bran Bal, CD 4)"
+        },
+        {
+          "type": "p",
+          "text": "Bran Bal"
+        },
+        {
+          "type": "p",
+          "text": "Mejor Mogshop del juego. Muchos items solo disponibles aqui en CD 4. Compra al menos 9 Zorlin Shape (necesarios para Synth)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Dagger",
+              "320 gil"
+            ],
+            [
+              "Mage Masher",
+              "500 gil"
+            ],
+            [
+              "Mythril Dagger",
+              "950 gil"
+            ],
+            [
+              "Gladius",
+              "2300 gil"
+            ],
+            [
+              "Zorlin Shape",
+              "3000 gil"
+            ],
+            [
+              "Orichalcon",
+              "8500 gil"
+            ],
+            [
+              "Ice Brand",
+              "3780 gil"
+            ],
+            [
+              "Defender",
+              "4670 gil"
+            ],
+            [
+              "Holy Lance",
+              "5500 gil"
+            ],
+            [
+              "Healing Rod",
+              "885 gil"
+            ],
+            [
+              "Wizard Rod",
+              "1850 gil"
+            ],
+            [
+              "Mythril Racket",
+              "1125 gil"
+            ],
+            [
+              "Faerie Tail",
+              "5500 gil"
+            ],
+            [
+              "High Mage Staff",
+              "4200 gil"
+            ],
+            [
+              "Mythril Fork",
+              "4700 gil"
+            ],
+            [
+              "Avenger",
+              "8000 gil"
+            ],
+            [
+              "Wing Edge",
+              "1500 gil"
+            ],
+            [
+              "Crystal Gloves",
+              "4200 gil"
+            ],
+            [
+              "Platinum Armlet",
+              "4500 gil"
+            ],
+            [
+              "Crystal Belt",
+              "4800 gil"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Treno Auction House (CD 3+)"
+        },
+        {
+          "type": "p",
+          "text": "Treno, plaza central"
+        },
+        {
+          "type": "p",
+          "text": "Las subastas cambian cada CD. Item raros aparecen aca que no se consiguen en otro lado (Dark Matter, Magical Fingertip, etc)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Precio"
+            ],
+            [
+              "Une's Mirror",
+              ""
+            ],
+            [
+              "Doga's Artifact",
+              ""
+            ],
+            [
+              "Griffin's Heart",
+              ""
+            ],
+            [
+              "Rat Tail",
+              ""
+            ],
+            [
+              "Magical Fingertip",
+              ""
+            ],
+            [
+              "Dark Matter",
+              ""
+            ],
+            [
+              "Hammer",
+              ""
+            ],
+            [
+              "Excalibur",
+              ""
+            ],
+            [
+              "Adaman Vest",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Basado en la guia de bover_87 en GameFAQs (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/shops). Catalogo compacto de tiendas con items notables y precios; descripciones re-escritas en espanol rioplatense."
+        }
+      ]
+    }
   }
 ]

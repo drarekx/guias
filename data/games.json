@@ -1368,6 +1368,11 @@
               "slug": "ff9-items",
               "title": "Items",
               "href": "final-fantasy-ix_items.php"
+            },
+            {
+              "slug": "ff9-shops",
+              "title": "Tiendas",
+              "href": "final-fantasy-ix_shops.php"
             }
           ]
         },

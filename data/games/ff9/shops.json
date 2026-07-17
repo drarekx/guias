@@ -1,0 +1,454 @@
+{
+  "_source": "GameFAQs - Final Fantasy IX Walkthrough by bover_87 (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/shops)",
+  "intro": "Catalogo de tiendas de Final Fantasy IX agrupadas por ubicacion. Para cada tienda se listan los items notables (no se incluyen items triviales como Potion que estan en todas). Los precios en gil. Las Synth Shop muestran item + ingredientes + costo. Para el catalogo completo con cada item, consultar la guia de bover_87.",
+  "shops": [
+    {
+      "title": "Alexandria Item Shop (CD 1)",
+      "where": "Alexandria, cerca de la plaza",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "South Gate Shop (pre-Dali, CD 1)",
+      "where": "Alexandria, puerta sur",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "Dali Weapon Shop (CD 1)",
+      "where": "Dali",
+      "items": [
+        {"name": "Dagger", "price": 320},
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Broadsword", "price": 330},
+        {"name": "Iron Sword", "price": 660},
+        {"name": "Rod", "price": 260},
+        {"name": "Mage Staff", "price": 320},
+        {"name": "Wrist", "price": 130},
+        {"name": "Leather Wrist", "price": 200},
+        {"name": "Bronze Gloves", "price": 480},
+        {"name": "Leather Hat", "price": 150},
+        {"name": "Feather Hat", "price": 200},
+        {"name": "Rubber Helm", "price": 250},
+        {"name": "Bronze Helm", "price": 330},
+        {"name": "Leather Shirt", "price": 270},
+        {"name": "Silk Shirt", "price": 400},
+        {"name": "Bronze Armor", "price": 650}
+      ]
+    },
+    {
+      "title": "Dali Item Shop (CD 1)",
+      "where": "Dali",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "Dragoos' Weapon Shop, Lindblum (pre-Cleyra)",
+      "where": "Lindblum, distrito comercial",
+      "items": [
+        {"name": "Dagger", "price": 320},
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Mythril Dagger", "price": 950},
+        {"name": "Iron Sword", "price": 660},
+        {"name": "Javelin", "price": 880, "note": "Ultima oportunidad antes de Cleyra."},
+        {"name": "Rod", "price": 260},
+        {"name": "Fork", "price": 1100},
+        {"name": "Leather Wrist", "price": 200},
+        {"name": "Glass Armlet", "price": 250},
+        {"name": "Bronze Gloves", "price": 480},
+        {"name": "Silver Gloves", "price": 720},
+        {"name": "Steepled Hat", "price": 260},
+        {"name": "Headgear", "price": 330},
+        {"name": "Iron Helm", "price": 450},
+        {"name": "Leather Plate", "price": 530},
+        {"name": "Linen Cuirass", "price": 800}
+      ]
+    },
+    {
+      "title": "Lindblum Synthesis Shop (CD 1)",
+      "where": "Lindblum, distrito comercial",
+      "note": "Primera Synth Shop del juego. Lista basica.",
+      "items": [
+        {"name": "Butterfly Sword", "ingredients": "Dagger + Mage Masher", "cost": 300},
+        {"name": "The Ogre", "ingredients": "Mage Masher x2", "cost": 700},
+        {"name": "Cotton Robe", "ingredients": "Wrist + Steepled Hat", "cost": 1000},
+        {"name": "Desert Boots", "ingredients": "Leather Hat + Leather Shirt", "cost": 300},
+        {"name": "Yellow Scarf", "ingredients": "Feather Hat + Steepled Hat", "cost": 400},
+        {"name": "Glass Buckle", "ingredients": "Leather Wrist + Glass Armlet", "cost": 500}
+      ]
+    },
+    {
+      "title": "Summit Station Shop (CD 2)",
+      "where": "Treno, estacion de tren",
+      "note": "Unica oportunidad. Varios items son missable.",
+      "items": [
+        {"name": "Air Racket", "price": 400, "note": "Missable: solo CD 2."},
+        {"name": "Mythril Rod", "price": 560},
+        {"name": "Glass Armlet", "price": 250},
+        {"name": "Silver Gloves", "price": 720, "note": "Missable: ultima oportunidad."},
+        {"name": "Mythril Gloves", "price": 980},
+        {"name": "Steepled Hat", "price": 260},
+        {"name": "Headgear", "price": 330},
+        {"name": "Magus Hat", "price": 400},
+        {"name": "Rubber Helm", "price": 250},
+        {"name": "Iron Helm", "price": 450, "note": "Missable."},
+        {"name": "Barbut", "price": 600},
+        {"name": "Bronze Vest", "price": 670},
+        {"name": "Linen Cuirass", "price": 800},
+        {"name": "Echo Screen", "price": 50},
+        {"name": "Soft", "price": 100}
+      ]
+    },
+    {
+      "title": "Treno Weapon Shop (CD 2)",
+      "where": "Treno, distrito noble",
+      "note": "Ultima oportunidad para Mythril Sword y Air Racket (ambos utiles para Synth).",
+      "items": [
+        {"name": "Dagger", "price": 320},
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Mythril Dagger", "price": 950},
+        {"name": "Mythril Sword", "price": 1300, "note": "Unica source de Armor Break para Steiner, util para Synth."},
+        {"name": "Mythril Spear", "price": 1100},
+        {"name": "Air Racket", "price": 400, "note": "Missable."},
+        {"name": "Mythril Rod", "price": 560},
+        {"name": "Flame Staff", "price": 1100},
+        {"name": "Ice Staff", "price": 980},
+        {"name": "Lightning Staff", "price": 1200},
+        {"name": "Fork", "price": 1100},
+        {"name": "Needle Fork", "price": 3100},
+        {"name": "Mythril Gloves", "price": 980},
+        {"name": "Chain Plate", "price": 810},
+        {"name": "Chain Mail", "price": 1200}
+      ]
+    },
+    {
+      "title": "Burmecian Soldier Dan's Weapon Shop (Cleyra)",
+      "where": "Cleyra, settlement",
+      "note": "Como llego todo este equipo hasta el tronco es un misterio.",
+      "items": [
+        {"name": "Partisan", "price": 1600},
+        {"name": "Multina Racket", "price": 750},
+        {"name": "Mythril Rod", "price": 560},
+        {"name": "Flame Staff", "price": 1100},
+        {"name": "Ice Staff", "price": 980},
+        {"name": "Needle Fork", "price": 3100},
+        {"name": "Mythril Armlet", "price": 500},
+        {"name": "Mythril Gloves", "price": 980},
+        {"name": "Thunder Gloves", "price": 1200},
+        {"name": "Mage's Hat", "price": 600},
+        {"name": "Mythril Helm", "price": 1000},
+        {"name": "Mythril Vest", "price": 1180},
+        {"name": "Mythril Armor", "price": 1830}
+      ]
+    },
+    {
+      "title": "Dragon's Gate Merchant (CD 2)",
+      "where": "Dragon's Gate, camino a la Outer Continent",
+      "items": [
+        {"name": "Ice Brand", "price": 3780},
+        {"name": "Partisan", "price": 1600},
+        {"name": "Multina Racket", "price": 750},
+        {"name": "Stardust Rod", "price": 750},
+        {"name": "Mythril Armlet", "price": 500},
+        {"name": "Thunder Gloves", "price": 1200},
+        {"name": "Bandana", "price": 500},
+        {"name": "Mage's Hat", "price": 1000},
+        {"name": "Mythril Helm", "price": 1000},
+        {"name": "Chain Plate", "price": 810},
+        {"name": "Mythril Vest", "price": 1180},
+        {"name": "Adaman Vest", "price": 1600},
+        {"name": "Mythril Armor", "price": 1830}
+      ]
+    },
+    {
+      "title": "Treasure Hunter's Shop (Fossil Roo, CD 2)",
+      "where": "Fossil Roo",
+      "items": [
+        {"name": "Ice Brand", "price": 3780},
+        {"name": "Partisan", "price": 1600},
+        {"name": "Multina Racket", "price": 750},
+        {"name": "Stardust Rod", "price": 750},
+        {"name": "Mythril Armlet", "price": 500},
+        {"name": "Thunder Gloves", "price": 1200},
+        {"name": "Bandana", "price": 500},
+        {"name": "Mage's Hat", "price": 1000},
+        {"name": "Mythril Helm", "price": 1000},
+        {"name": "Adaman Vest", "price": 1600},
+        {"name": "Mythril Armor", "price": 1830}
+      ]
+    },
+    {
+      "title": "Thomas Goldpiler's Weapon Shop (Conde Petie)",
+      "where": "Conde Petie",
+      "items": [
+        {"name": "Poison Knuckles", "price": 5000},
+        {"name": "Multina Racket", "price": 750},
+        {"name": "Stardust Rod", "price": 750},
+        {"name": "Flame Staff", "price": 1100},
+        {"name": "Ice Staff", "price": 980},
+        {"name": "Lightning Staff", "price": 1200},
+        {"name": "Oak Staff", "price": 2400},
+        {"name": "Mythril Fork", "price": 4700},
+        {"name": "Mythril Armlet", "price": 500},
+        {"name": "Magic Armlet", "price": 1000},
+        {"name": "Lamia's Tiara", "price": 800},
+        {"name": "Ritual Hat", "price": 1000},
+        {"name": "Adaman Vest", "price": 1600},
+        {"name": "Magician Cloak", "price": 1850}
+      ]
+    },
+    {
+      "title": "Black Mage Village Item Shop (CD 2-3)",
+      "where": "Black Mage Village",
+      "note": "Las tiendas BMV son las mas utiles del juego: precios bajos, inventario completo.",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Hi-Potion", "price": 200},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Echo Screen", "price": 50},
+        {"name": "Soft", "price": 100},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Remedy", "price": 300},
+        {"name": "Annoyntment", "price": 150},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "Black Mage Village Weapon Shop (CD 2-3)",
+      "where": "Black Mage Village",
+      "note": "Mejor tienda de equipment del juego medio.",
+      "items": [
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Mythril Dagger", "price": 950},
+        {"name": "Gladius", "price": 2300},
+        {"name": "Stardust Rod", "price": 750},
+        {"name": "Mage Staff", "price": 320},
+        {"name": "Flame Staff", "price": 1100},
+        {"name": "Ice Staff", "price": 980},
+        {"name": "Lightning Staff", "price": 1200},
+        {"name": "Oak Staff", "price": 2400},
+        {"name": "Mythril Fork", "price": 4700},
+        {"name": "Mythril Armlet", "price": 500},
+        {"name": "Magic Armlet", "price": 1000},
+        {"name": "Mage's Hat", "price": 1000},
+        {"name": "Lamia's Tiara", "price": 800},
+        {"name": "Ritual Hat", "price": 1000},
+        {"name": "Mythril Vest", "price": 1180},
+        {"name": "Adaman Vest", "price": 1600},
+        {"name": "Magician Cloak", "price": 1850},
+        {"name": "Survival Vest", "price": 2900}
+      ]
+    },
+    {
+      "title": "Black Cat Synthesis Shop (BMV, CD 4)",
+      "where": "Black Mage Village",
+      "note": "Tienda Synth mas completa del juego.",
+      "items": [
+        {"name": "Rune Tooth", "ingredients": "Mythril Dagger x2", "cost": 1900},
+        {"name": "Angel Bless", "ingredients": "Mythril Dagger + Gladius", "cost": 3500},
+        {"name": "Sargatanas", "ingredients": "Gladius + Zorlin Shape", "cost": 4750},
+        {"name": "Masamune", "ingredients": "Zorlin Shape + Orichalcon", "cost": 6500},
+        {"name": "Priest's Racket", "ingredients": "Air Racket + Cachusha", "cost": 4000},
+        {"name": "Princess Guard", "ingredients": "Healing Rod + Asura's Rod + Stardust Rod", "cost": 5000},
+        {"name": "Silk Robe", "ingredients": "Silk Shirt + Bandana", "cost": 2000},
+        {"name": "Black Robe", "ingredients": "Magic Robe + Lamia's Tiara + Moonlight Robe", "cost": 5000},
+        {"name": "Lunar Curtain", "ingredients": "Black Robe x2 + Running Shoes", "cost": 5000},
+        {"name": "Tin Armor", "ingredients": "Hammer x100", "cost": 5000, "note": "Mejor armor del juego."},
+        {"name": "Duel Claws", "ingredients": "Dragon's Claws + Tiger Fangs", "cost": 10750}
+      ]
+    },
+    {
+      "title": "Esto Gaza Shop (pre-Desert Palace)",
+      "where": "Esto Gaza, pueblo costero",
+      "note": "Ultima oportunidad para Mythril Sword.",
+      "items": [
+        {"name": "Mythril Sword", "price": 1300, "note": "Missable."},
+        {"name": "Coral Sword", "price": 2000},
+        {"name": "Healing Rod", "price": 885},
+        {"name": "Mythril Racket", "price": 1125},
+        {"name": "Trident", "price": 1790},
+        {"name": "Mythril Claws", "price": 3250},
+        {"name": "Mythril Helm", "price": 1000},
+        {"name": "Survival Vest", "price": 2900}
+      ]
+    },
+    {
+      "title": "Esto Gaza Shop (post-Desert Palace)",
+      "where": "Esto Gaza, despues de Desert Palace",
+      "items": [
+        {"name": "Coral Sword", "price": 2000},
+        {"name": "Diamond Sword", "price": 2350},
+        {"name": "Flame Saber", "price": 2595},
+        {"name": "Gladius", "price": 2300},
+        {"name": "Asura's Rod", "price": 1590},
+        {"name": "Wizard Rod", "price": 1850},
+        {"name": "Zorlin Shape", "price": 3000},
+        {"name": "Heavy Lance", "price": 2350},
+        {"name": "Scissor Fangs", "price": 4000},
+        {"name": "Magic Racket", "price": 675},
+        {"name": "Mythril Claws", "price": 3250}
+      ]
+    },
+    {
+      "title": "Mimoza's Mogshop (Oeilvert)",
+      "where": "Oeilvert, Forgotten Continent",
+      "items": [
+        {"name": "Rising Sun", "price": 250},
+        {"name": "Pinwheel", "price": 100},
+        {"name": "Healing Rod", "price": 885},
+        {"name": "Mythril Claws", "price": 3250},
+        {"name": "Trident", "price": 1790},
+        {"name": "Magic Racket", "price": 675},
+        {"name": "Diamond Sword", "price": 2350},
+        {"name": "Mythril Vest", "price": 1180},
+        {"name": "Rosetta Ring", "price": 5000}
+      ]
+    },
+    {
+      "title": "Mojito's Mogshop (Desert Palace)",
+      "where": "Desert Palace",
+      "items": [
+        {"name": "Rising Sun", "price": 250},
+        {"name": "Healing Rod", "price": 885},
+        {"name": "Magic Racket", "price": 675},
+        {"name": "Mythril Claws", "price": 3250},
+        {"name": "Trident", "price": 1790},
+        {"name": "Diamond Sword", "price": 2350},
+        {"name": "Mythril Vest", "price": 1180}
+      ]
+    },
+    {
+      "title": "Kumool's Mogshop (Ipsen's Castle)",
+      "where": "Ipsen's Castle",
+      "items": [
+        {"name": "Dagger", "price": 320},
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Iron Sword", "price": 660},
+        {"name": "Javelin", "price": 880},
+        {"name": "Mythril Spear", "price": 1100},
+        {"name": "Cat's Claws", "price": 2000},
+        {"name": "Poison Knuckles", "price": 5000},
+        {"name": "Iron Sword (Staff)", "price": 1100},
+        {"name": "Needle Fork", "price": 3100},
+        {"name": "Multina Racket", "price": 750},
+        {"name": "Mythril Gloves", "price": 980}
+      ]
+    },
+    {
+      "title": "Wendy Grocer's Item Shop (Conde Petie)",
+      "where": "Conde Petie",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Echo Screen", "price": 50},
+        {"name": "Soft", "price": 100},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Annoyntment", "price": 150},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "Daguerreo Item Shop (CD 3)",
+      "where": "Daguerreo, Sacrobless Island",
+      "items": [
+        {"name": "Potion", "price": 50},
+        {"name": "Hi-Potion", "price": 200},
+        {"name": "Phoenix Down", "price": 150},
+        {"name": "Echo Screen", "price": 50},
+        {"name": "Soft", "price": 100},
+        {"name": "Antidote", "price": 50},
+        {"name": "Eye Drops", "price": 50},
+        {"name": "Remedy", "price": 300},
+        {"name": "Annoyntment", "price": 150},
+        {"name": "Tent", "price": 800}
+      ]
+    },
+    {
+      "title": "Daguerreo Weapon Shop (CD 3)",
+      "where": "Daguerreo, Sacrobless Island",
+      "note": "Aqui se compran los items missables criticos: Hamelin (Flute, ensenia Sound of Earth), Tiger Fangs (Claws, ensenia Revive), Asura's Rod, Obelisk (Lance), Octagon Rod (Staff, ensenia Doom), Rune Blade (Sword, ensenia Iai Strike), Diamond Armor. Compra minimo 2 de cada uno antes de salir del CD 3.",
+      "items": [
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Mythril Dagger", "price": 950},
+        {"name": "Gladius", "price": 2300},
+        {"name": "Zorlin Shape", "price": 3000},
+        {"name": "Ice Brand", "price": 3780},
+        {"name": "Coral Sword", "price": 2000},
+        {"name": "Rune Blade", "price": 4450, "note": "Missable: ensenia Iai Strike."},
+        {"name": "Mythril Spear", "price": 1100},
+        {"name": "Obelisk", "price": 3000, "note": "Missable: ensenia Cherry Blossom + Initiative."},
+        {"name": "Healing Rod", "price": 885},
+        {"name": "Asura's Rod", "price": 1590, "note": "Missable."},
+        {"name": "Wizard Rod", "price": 1850},
+        {"name": "Mythril Racket", "price": 1125},
+        {"name": "Hamelin", "price": 4000, "note": "Missable: ensenia Sound of Earth."},
+        {"name": "Octagon Rod", "price": 2800, "note": "Missable: ensenia Doom."},
+        {"name": "Tiger Fangs", "price": 6750, "note": "Missable: ensenia Revive."},
+        {"name": "Diamond Armor", "price": 4600, "note": "Missable."},
+        {"name": "Mythril Helm", "price": 1000},
+        {"name": "Demon's Vest", "price": 3800},
+        {"name": "Gold Armor", "price": 3800}
+      ]
+    },
+    {
+      "title": "Moorock's Mogshop (Bran Bal, CD 4)",
+      "where": "Bran Bal",
+      "note": "Mejor Mogshop del juego. Muchos items solo disponibles aqui en CD 4. Compra al menos 9 Zorlin Shape (necesarios para Synth).",
+      "items": [
+        {"name": "Dagger", "price": 320},
+        {"name": "Mage Masher", "price": 500},
+        {"name": "Mythril Dagger", "price": 950},
+        {"name": "Gladius", "price": 2300},
+        {"name": "Zorlin Shape", "price": 3000, "note": "Missable: ultima oportunidad CD 4."},
+        {"name": "Orichalcon", "price": 8500},
+        {"name": "Ice Brand", "price": 3780},
+        {"name": "Defender", "price": 4670},
+        {"name": "Holy Lance", "price": 5500},
+        {"name": "Healing Rod", "price": 885},
+        {"name": "Wizard Rod", "price": 1850},
+        {"name": "Mythril Racket", "price": 1125},
+        {"name": "Faerie Tail", "price": 5500},
+        {"name": "High Mage Staff", "price": 4200},
+        {"name": "Mythril Fork", "price": 4700},
+        {"name": "Avenger", "price": 8000},
+        {"name": "Wing Edge", "price": 1500},
+        {"name": "Crystal Gloves", "price": 4200},
+        {"name": "Platinum Armlet", "price": 4500},
+        {"name": "Crystal Belt", "price": 4800}
+      ]
+    },
+    {
+      "title": "Treno Auction House (CD 3+)",
+      "where": "Treno, plaza central",
+      "note": "Las subastas cambian cada CD. Item raros aparecen aca que no se consiguen en otro lado (Dark Matter, Magical Fingertip, etc).",
+      "items": [
+        {"name": "Une's Mirror", "note": "Para quest Magical Fingertip."},
+        {"name": "Doga's Artifact", "note": "Para quest Magical Fingertip."},
+        {"name": "Griffin's Heart", "note": "Para quest Magical Fingertip."},
+        {"name": "Rat Tail", "note": "Para quest Magical Fingertip."},
+        {"name": "Magical Fingertip", "note": "Para quest Magical Fingertip. ~40k gil."},
+        {"name": "Dark Matter", "note": "Solo CD 3, una vez."},
+        {"name": "Hammer", "note": "Para Synth (Tin Armor)."},
+        {"name": "Excalibur", "note": "Knight Sword fuerte."},
+        {"name": "Adaman Vest", "note": "Strong armor."}
+      ]
+    }
+  ]
+}

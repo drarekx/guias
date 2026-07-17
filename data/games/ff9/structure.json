@@ -329,6 +329,10 @@
       {
         "slug": "ff9-items",
         "title": "Items"
+      },
+      {
+        "slug": "ff9-shops",
+        "title": "Tiendas"
       }
     ]
   },
