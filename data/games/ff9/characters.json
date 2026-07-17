@@ -1,0 +1,137 @@
+{
+  "_source": "GameFAQs - Final Fantasy IX Walkthrough by bover_87 (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/characters)",
+  "intro": "Catalogo de personajes jugables y temporales de Final Fantasy IX. Para cada uno: como se une al party, comandos que usa, equipo equipable, ultimate weapon, stats destacados, nombre de Trance y notas de uso.",
+  "playable": [
+    {
+      "name": "Zidane Tribal",
+      "join": "Inicial",
+      "weapon": "Daggers, Thief Swords",
+      "armor": "Light Armor",
+      "commands": "Steal, Skill",
+      "trance": "Dyne (Skill cambia)",
+      "initial": "Dagger, Wrist, Leather Hat, Leather Shirt",
+      "ultimate": "Ultima Weapon",
+      "strong": "Strength, Speed, Spirit, HP",
+      "weak": "Ninguno",
+      "notes": "Personaje principal. Su rol principal es Steal (bosses tienen equips raros) y ataque fisico. Late-game rota a un dano fisico fuerte con Thief Swords y Soul Blade (especialmente con Sargatanas que tira Petrify 100%)."
+    },
+    {
+      "name": "Vivi Ornittier",
+      "join": "Alexandria (CD 1)",
+      "weapon": "Staves",
+      "armor": "Light Armor, Mage Equipment",
+      "commands": "Blk Mag, Focus",
+      "trance": "Dbl Blk (Blk Mag doble)",
+      "initial": "Mage Staff, Leather Hat, Leather Shirt",
+      "ultimate": "Mace of Zeus",
+      "strong": "Magic, MP",
+      "weak": "Speed, Strength, HP",
+      "notes": "Mago puro ofensivo. Mayor Magic base del juego. En Back Row con Focus + muchos spells. Equipar hechizos ofensivos. Equipar Trance + Boost para asegurar animacion larga del doble Blk Mag."
+    },
+    {
+      "name": "Adelbert Steiner",
+      "join": "Alexandria (durante The Play)",
+      "weapon": "Swords, Knight Swords",
+      "armor": "Heavy Armor",
+      "commands": "Swd Art, Swd Mag (requiere Vivi en party)",
+      "trance": "Trance Attack (ataque x3)",
+      "initial": "Broadsword, Bronze Helm, Bronze Armor",
+      "ultimate": "Excalibur II / Ragnarok",
+      "strong": "Strength, Spirit, HP",
+      "weak": "Speed, Magic, MP",
+      "notes": "Tank fisico. Heavy Armor le da gran Defense. Los 'big four' Swd Art (Darkside, Stock Break, Climhazzard, Shock) lo hacen dano-dealer top late-game. Thunder Slash esta bugueada, ignorarla. Con Excalibur II tiene todos los skills endgame."
+    },
+    {
+      "name": "Dagger (Garnet Til Alexandros XVII)",
+      "join": "Alexandria (durante The Play)",
+      "weapon": "Rods, Rackets",
+      "armor": "Light Armor, Mage, Female",
+      "commands": "Summon, Wht Mag",
+      "trance": "Eidolon (Summon automatico gratis)",
+      "initial": "Rod, Silk Shirt",
+      "ultimate": "Whale Whisker (Rods) / Tiger Racket (Rackets)",
+      "strong": "Speed, Magic, MP",
+      "weak": "Strength, HP",
+      "notes": "Healer + Summoner. Wht Mag al inicio, Summons mid-late game. Late-game destaca por Ark (summon mas fuerte) y Bahamut. Trance activa Eidolon (Summons gratis aleatorios)."
+    },
+    {
+      "name": "Freya Crescent",
+      "join": "Lindblum",
+      "weapon": "Spears",
+      "armor": "Heavy Armor, Female",
+      "commands": "Jump, Dragon",
+      "trance": "Trance Jump (Jump continuo)",
+      "initial": "Javelin, Bronze Gloves, Rubber Helm, Linen Cuirass",
+      "ultimate": "Dragon's Hair",
+      "strong": "Strength, Spirit, HP",
+      "weak": "Magic, MP",
+      "notes": "Jump + Dragon command. Early game powerhouse (Jump hace doble dano). Late-game necesita High Jump y Dragon's Crest (mata 100+ dragones para 9999 damage). Soporte via Reis's Wind (party Regen) y White Draw (MP drain)."
+    },
+    {
+      "name": "Quina Quen",
+      "join": "Despues de Lindblum (opcional) / Outer Continent (obligatorio)",
+      "weapon": "Forks",
+      "armor": "Light Armor, Mage Armor",
+      "commands": "Eat, Blu Mag",
+      "trance": "Cook (Eat funciona con HP<50%)",
+      "initial": "Fork",
+      "ultimate": "Gastro Fork",
+      "strong": "Magic, MP",
+      "weak": "Spirit, Speed",
+      "notes": "Personaje de utilidad. Blu Mag se aprende comiendo enemigos (Eat). Mejor contra bosses por la versatilidad: Bad Breath, Mighty Guard, White Wind, Angel's Snack (usa Remedies en todo el party). Early game es DPS con Forks que pegan random alto."
+    },
+    {
+      "name": "Eiko Carol",
+      "join": "Conde Petie Mountain Path",
+      "weapon": "Flutes, Rackets",
+      "armor": "Light Armor, Mage, Female",
+      "commands": "Wht Mag, Summon",
+      "trance": "Dbl Wht (Wht Mag doble)",
+      "initial": "Golem's Flute, Glass Armlet, Feather Hat, Silk Shirt, Sapphire",
+      "ultimate": "Angel's Flute / Tiger Racket",
+      "strong": "Magic, MP",
+      "weak": "Strength, HP",
+      "notes": "White Mage superior a Dagger. Holydamager fuerte. Phoenix revive party. Madeen usa Holy heavy. Glitch: si subis a Marcus a nivel alto y luego entra Eiko, hereda stats (no level).",
+      "glitch": true
+    },
+    {
+      "name": "Amarant Coral",
+      "join": "CD 3, Treno",
+      "weapon": "Claws",
+      "armor": "Heavy Armor (late game)",
+      "commands": "Throw, Flair",
+      "trance": "Flair potenciado (Spare Change -> Chakra on counter)",
+      "initial": "Cat's Claws (despues del primer combate)",
+      "ultimate": "Kaiser Knuckles",
+      "strong": "Strength, Spirit, HP",
+      "weak": "Magic, MP",
+      "notes": "Counter-based fighter. Flair abilities son counter/passive (Counter, Aura, No Mercy, Revive). Tira items (Pinwheel, Rising Sun, Wing Edge) con Throw. Menos personalizable que los demas pero muy fuerte."
+    }
+  ],
+  "temporaries": [
+    {
+      "name": "Cinna",
+      "where": "Tantalus, CD 1",
+      "role": "Temporario en CD 1, se une al ataque al teatro. Hammer unico (no desequipable). Si lo entregas al ending con el Hammer, dispara escena especial.",
+      "equipment": "Hammer (unico weapon)"
+    },
+    {
+      "name": "Marcus",
+      "where": "Tantalus, CD 2 (misiones Burmecia, Cleyra, Outer Continent)",
+      "role": "Temporario en varias secciones CD 2. Tiene Iron Sword (no desequipable). Su nivel se transfiere a Eiko (glitch util para stats altos).",
+      "equipment": "Iron Sword"
+    },
+    {
+      "name": "Blank",
+      "where": "Tantalus, CD 2 (idem Marcus)",
+      "role": "Temporario, mismo rol que Marcus. Tambien tiene Iron Sword (no desequipable).",
+      "equipment": "Iron Sword"
+    },
+    {
+      "name": "Beatrix",
+      "where": "Boss CD 1-2 (Alexandria, Burmecia, Cleyra, Alexandria Castle), jugable brevemente en Trance",
+      "role": "General de Alexandria. Boss en 4 fights, jugable brevemente en los ultimos (durante Trance de Steiner). Equipa Save the Queen unico. Stats enormes pero no se controla en party normal.",
+      "equipment": "Save the Queen (Knight Sword unico)"
+    }
+  ]
+}

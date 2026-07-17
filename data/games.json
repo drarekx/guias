@@ -1378,6 +1378,11 @@
               "slug": "ff9-abilities",
               "title": "Abilities",
               "href": "final-fantasy-ix_abilities.php"
+            },
+            {
+              "slug": "ff9-characters",
+              "title": "Personajes",
+              "href": "final-fantasy-ix_characters.php"
             }
           ]
         },
