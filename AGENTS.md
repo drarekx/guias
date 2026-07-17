@@ -140,6 +140,8 @@ Baja el último tag vía la API de GitHub, descarga `tomo-del-cristal-vX.Y.Z.tar
 
 El tarball lo genera `.github/workflows/release.yml` al pushear un tag `v*` (publica `.tar.gz` + `.zip` como assets del release en GitHub).
 
+**Regla**: cada feature nueva va con su propio tag + push (`git tag vX.Y.Z && git push origin vX.Y.Z`). El workflow dispara el release automaticamente. Patch para cambios aditivos (paginas nuevas, scripts, datos), minor para cambios visibles al usuario o nueva arquitectura, major para breaking changes.
+
 ## MCP server
 
 `scripts/mcp_server.py` expone las guias como tools de Model Context Protocol (stdio) para que agentes LLM (Claude Desktop, Cursor, etc.) las consulten. Lee `data/games/{slug}/{guide,structure,bestiario}.json`. Requiere Python ≥ 3.10.
