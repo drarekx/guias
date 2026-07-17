@@ -317,6 +317,10 @@
       {
         "slug": "ff9-bestiario",
         "title": "Bestiario"
+      },
+      {
+        "slug": "ff9-missables",
+        "title": "Items perdibles"
       }
     ]
   },

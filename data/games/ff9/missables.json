@@ -1,0 +1,178 @@
+{
+  "_source": "GameFAQs - Final Fantasy IX Walkthrough by bover_87 (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/missable-item-walkthrough)",
+  "resumen": "Antes de cada transicion importante (salir de una zona, abordar el Gargant, entrar a Pandemonium, abandonar Memoria), revisá esta lista. Los items de Stiltzkin (1-7) son una serie de 7 visitas con precios crecientes (333, 444, 555, 666, 777, 888, 2222) — si te perdes una, perdés el pack completo. Los robos en Memoria (items 31-37) tienen probabilidades bajas: hace falta paciencia o equipment que suba la tasa de robo.",
+  "discs": [
+    {
+      "title": "CD 1",
+      "items": [
+        {
+          "name": "Moonstone #1",
+          "how": "Se gana en la escena del Sword Fight si lográs impresionar a 100 nobles. Después hablá con la Reina Brahne en Alexandria controlando a Steiner. Si no llegás a 100, no te la dan nunca más."
+        },
+        {
+          "name": "Crash Site / Evil Forest — todos los cofres",
+          "how": "Todos los tesoros de Crash Site y del Bosque Maldito se pierden al salir de la zona. FFIX lleva conteo de cofres: una vez que salís, lo que no agarraste queda perdido para siempre."
+        },
+        {
+          "name": "Ice Cavern — todos los cofres",
+          "how": "Después de salir de Dali, ya no podés volver al interior de la Caverna del Hielo. Cualquier cofre que no abriste se pierde."
+        },
+        {
+          "name": "Autograph Key Item y Moogle Suit Key Item",
+          "how": "Conseguilos en el Teatro de Lindblum antes de ir al escondite de Tantalus. Si llegás a la reunión sin ellos, perdés el scene del autógrafo de Tantalus y el outfit de moguri."
+        },
+        {
+          "name": "Master Hunter Key Item",
+          "how": "Asegurate de que Zidane, Freya o Vivi gane el Festival de la Cacería en el观 F部分 Burmecia. Si gana cualquier otro personaje, perdés este Key Item que activa el sidequest del Master Hunter."
+        },
+        {
+          "name": "Javelin",
+          "how": "Comprala en la Weapon Shop de Lindblum antes de entrar a Cleyra. Después de la primera visita a Cleyra, no hay más forma de conseguirla."
+        },
+        {
+          "name": "Stiltzkin Shop #1 (333 gil)",
+          "how": "Comprale a Stiltzkin en la plaza central de Burmecia antes de que termine el CD 1. Si lo dejás pasar, te perdés el primero de los 7 packs."
+        },
+        {
+          "name": "Silver Gloves (×4) y Iron Helm (×3)",
+          "how": "La tienda de Summit Station es tu última oportunidad para conseguirlos. Después de tomar el Gargant hacia Treno, esos items desaparecen del catálogo."
+        }
+      ]
+    },
+    {
+      "title": "CD 2",
+      "items": [
+        {
+          "name": "Air Racket (×5)",
+          "how": "Comprá las 5 en la Weapon Shop de Treno en CD 2. Una vez abordado el Gargant hacia la Outer Continent, no hay más oportunidades. En CD 3 hay una sexta en un cofre (no es perdible)."
+        },
+        {
+          "name": "Gargan Roo — todos los tesoros",
+          "how": "El Gargan Roo no se puede revisitar después de salir. Todos los cofres que no agarraste ahí se pierden."
+        },
+        {
+          "name": "Emerald #1",
+          "how": "Como Freya en Cleyra, hablá con el High Priest en la catedral antes de ir a la entrada del pueblo. Si vas directo al pueblo sin hablarle, perdés el Emerald."
+        },
+        {
+          "name": "Cleyra — todos los tesoros",
+          "how": "Después de salir de Cleyra, ya no podés volver. Cualquier cofre que no abriste ahí se pierde para siempre."
+        },
+        {
+          "name": "Stiltzkin Shop #2 (444 gil)",
+          "how": "Como Freya en Cleyra, visitá la posada del pueblo y comprale a Stiltzkin antes de ir a la entrada del pueblo. Si te lo perdés, no recuperás este pack."
+        },
+        {
+          "name": "Chain Mail (×15)",
+          "how": "Comprá las 15 en la Weapon Shop de Lindblum (Dragoo's Weapon Shop) en CD 2. Una vez que pasás por Dragon's Gate, ya no está disponible."
+        },
+        {
+          "name": "Stiltzkin Shop #3 (555 gil)",
+          "how": "Atrapalo en Fossil Roo (cerca de la entrada) antes de tomar el último Gargant. Ofrece su pack por 555 gil. Después de tomar el Gargant, perdés este pack."
+        },
+        {
+          "name": "Fossil Roo — interior",
+          "how": "Una vez que tomás el último Gargant, la parte interna de Fossil Roo nunca más es accesible. Cualquier cofre interno se pierde."
+        },
+        {
+          "name": "Diamond #1",
+          "how": "Agarralo del kirkboat en Conde Petie. Está disponible hasta el final del CD 3, pero conviene hacerlo apenas llegues para no olvidarte."
+        },
+        {
+          "name": "Stiltzkin Shop #4 (666 gil)",
+          "how": "En Conde Petie Mountain Path, cerca de Suzuna, Stiltzkin vende su pack más reciente por 666 gil. Asegurate de visitarlo antes de avanzar."
+        }
+      ]
+    },
+    {
+      "title": "CD 3",
+      "items": [
+        {
+          "name": "Athlete Queen Key Item",
+          "how": "Como Vivi en Alexandria al inicio del CD 3 (antes de visitar el mini-teatro), tenés tu única oportunidad de hacer el Hippaul Racing y ganar el Athlete Queen Key Item. Después de ir al teatro, no podés volver."
+        },
+        {
+          "name": "Stiltzkin Shop #5 (777 gil)",
+          "how": "Antes de visitar el mini-teatro, como Vivi andá al campanario (Steeple) y comprale a Stiltzkin su pack especial por 777 gil."
+        },
+        {
+          "name": "Mini-Brahne Key Item y Mayor's Key Key Item",
+          "how": "Conseguilos en Dali durante el desvío de Dali en CD 3, antes de jugar la última ronda del Treno Card Tournament. Si jugás la final sin pasar por Dali, los perdés."
+        },
+        {
+          "name": "Rebirth Ring #1",
+          "how": "Ganá el Treno Card Tournament. Si perdés, no obtenés el Rebirth Ring (que se necesita para Synth)."
+        },
+        {
+          "name": "Running Shoes #1",
+          "how": "Asegurate de pelear contra Tantarian en la Biblioteca del Castillo de Alexandria antes de subir por la torre central del castillo. Si subís sin pelearlo, perdés el item."
+        },
+        {
+          "name": "Mythril Sword (×5)",
+          "how": "Tu última oportunidad para conseguirlas es la tienda de Esto Gaza, antes de ir al Desert Palace. Después de entrar al palacio, no hay más forma de comprar Mythril Sword."
+        },
+        {
+          "name": "Stiltzkin Shop #6 (888 gil) y Emerald #2",
+          "how": "En Oeilvert, antes de resolver cualquier puzzle, visitá a Stiltzkin en la sala a la derecha de la entrada (Hall and Star Display). Ofrece su pack por 888 gil."
+        },
+        {
+          "name": "Namingway Card",
+          "how": "Agarrala de la mesa en los quarters del Desert Palace antes de irte. Es posible conseguirla hasta el final del CD, pero conviene hacerlo apenas llegues."
+        }
+      ]
+    },
+    {
+      "title": "CD 4",
+      "items": [
+        {
+          "name": "Checklist pre-Shimmering Island",
+          "how": "Antes de entrar a Shimmering Island (la isla brillante en Terra), revisá el checklist completo de cosas que deberías haber hecho hasta acá (Nero Brothers con 9 checkpoints, Stiltzkin 7, etc). Si te falta algo, esta es tu última oportunidad."
+        },
+        {
+          "name": "Stiltzkin Shop #7 (2222 gil) y Diamond #3",
+          "how": "Antes de ir a la posada de Bran Bal, comprale a Stiltzkin el party pack por 2222 gil. Es el último Stiltzkin de la run."
+        },
+        {
+          "name": "Zorlin Shape (×9)",
+          "how": "El Mogshop de Moorock en Pandemonium (Moorock's Mogshop) es tu última oportunidad para comprar este weapon, débil pero útil para Synthing. Una vez que cruzás el puente en Pandemonium, ya no podés volver."
+        },
+        {
+          "name": "Nero Brothers sidequest",
+          "how": "Necesitás al menos 9 checkpoints para completar este sidequest. La última vez que podés empezarlo y aún terminarlo es poco después de derrotar a Tiamat en Memoria."
+        },
+        {
+          "name": "Genji Armor #2",
+          "how": "Robalo de Maliris en Memoria (Castle)."
+        },
+        {
+          "name": "Blood Sword #2",
+          "how": "Robalo de Tiamat en Memoria (Castle Ruins)."
+        },
+        {
+          "name": "Genji Helmet #2",
+          "how": "Robalo de Kraken en Memoria (Ocean)."
+        },
+        {
+          "name": "Genji Gloves #2",
+          "how": "Robalo de Lich en Memoria (Tower)."
+        },
+        {
+          "name": "Excalibur II",
+          "how": "Llegá al Gate to Space y derrotá a Lich en Memoria (Tower) con menos de 12 horas en el reloj del juego. Es uno de los challenges más difíciles del juego."
+        },
+        {
+          "name": "Duel Claws",
+          "how": "Robalo de Deathguise en Memoria (Crystal World)."
+        },
+        {
+          "name": "Running Shoes #4",
+          "how": "Robalo de Hades. Si usaste Running Shoes en battles anteriores, este es el último que podés obtener."
+        },
+        {
+          "name": "Dark Matter (×2+) y Pumice Piece #3",
+          "how": "Robalos del ultimate boss (Ozma). También tiene una chance decente de dropear uno o más (hasta tres) Dark Matters. Una vez que lo peleás y ganás, estos items se pierden si no los agarraste. Asegurate de tener espacio en el inventario."
+        }
+      ]
+    }
+  ]
+}
