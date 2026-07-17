@@ -1,4 +1,10 @@
-"""Inyecta la pagina de enemies con stats en guide.json."""
+"""Inyecta la pagina de enemies con stats en guide.json.
+
+Formato:
+- Tabla compacta con stats clave (Enemigo, HP, MP, NV, EXP, AP, Tipo, Debilidad).
+- Bullets con notas por boss (steal raro, drop raro, tactica).
+- Esto evita el problema de la tabla original con 10 columnas apretadas.
+"""
 from __future__ import annotations
 
 import json
@@ -15,21 +21,13 @@ ATTRIB = (
 )
 
 
-def build_table(enemies: list[dict]) -> dict:
-    headers = ["Enemigo", "HP", "MP", "NV", "EXP", "AP", "Gil", "Tipo", "Debilidad", "Notas"]
+def build_stats_table(enemies: list[dict]) -> dict:
+    headers = ["Enemigo", "HP", "MP", "NV", "EXP", "AP", "Tipo", "Debilidad"]
     rows = [headers]
     for e in enemies:
         weakness = e.get("weakness", "")
         if e.get("resistance"):
-            weakness += f" (R: {e['resistance']})"
-        notes_parts = []
-        if e.get("steal_rare") and e["steal_rare"] != "Ore" and e["steal_rare"] != "Nothing":
-            notes_parts.append(f"Steal raro: {e['steal_rare']}")
-        if e.get("drop_rare") and e["drop_rare"] != "Ore" and e["drop_rare"] != "Nothing":
-            notes_parts.append(f"Drop raro: {e['drop_rare']}")
-        if e.get("notes"):
-            notes_parts.append(e["notes"])
-        notes = " | ".join(notes_parts)
+            weakness += f" / R: {e['resistance']}"
         rows.append([
             e["name"],
             str(e["hp"]),
@@ -37,25 +35,45 @@ def build_table(enemies: list[dict]) -> dict:
             str(e["lvl"]),
             str(e["exp"]),
             str(e["ap"]),
-            str(e["gil"]),
             e["type"],
             weakness,
-            notes,
         ])
     return {"type": "table", "rows": rows}
+
+
+def build_notes_for(e: dict) -> list[dict]:
+    """Genera los bloques de notas para un enemigo."""
+    blocks = []
+    notes: list[str] = []
+    if e.get("steal_rare") and e["steal_rare"] not in ("Ore", "Nothing"):
+        notes.append(f"Steal notable: {e['steal_rare']}")
+    if e.get("drop_rare") and e["drop_rare"] not in ("Ore", "Nothing"):
+        notes.append(f"Drop notable: {e['drop_rare']}")
+    if e.get("notes"):
+        notes.append(e["notes"])
+    if notes:
+        blocks.append({"type": "p", "text": " · ".join(notes)})
+    return blocks
 
 
 def build_page() -> dict:
     data = json.loads(DATA.read_text(encoding="utf-8"))
     blocks: list[dict] = [{"type": "p", "text": data["intro"]}]
     blocks.append({"type": "p", "text": data["stats_explained"]})
+    blocks.append({
+        "type": "p",
+        "text": "Estructura: tabla compacta con stats por enemigo + notas por boss (steal/drop notable/tactica). Para nombres de todos los enemigos normales sin stats, ver la pagina Bestiario.",
+    })
+
     for disc_key in ("disc_1", "disc_2", "disc_3", "disc_4"):
         disc = data[disc_key]
         blocks.append({"type": "h3", "text": disc["title"]})
-        blocks.append(build_table(disc["enemies"]))
-    blocks.append({"type": "h3", "text": "Bosses y enemigos notables de CD 4 (extra)"})
-    blocks.append({"type": "p", "text": "Ozma es el boss opcional mas dificil del juego. Hades se pelea dos veces (Crystal World + Trance final). Deathguise aparece solo en Memoria Crystal World."})
-    blocks.append({"type": "p", "text": "Para los enemigos normales sin stats, ver la pagina Bestiario."})
+        blocks.append(build_stats_table(disc["enemies"]))
+        # Notas individuales
+        for e in disc["enemies"]:
+            blocks.append({"type": "h4", "text": e["name"]})
+            blocks.extend(build_notes_for(e))
+
     blocks.append({"type": "p", "text": ATTRIB})
     return {
         "slug": "ff9-enemies-stats",
