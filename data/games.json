@@ -1383,6 +1383,11 @@
               "slug": "ff9-characters",
               "title": "Personajes",
               "href": "final-fantasy-ix_characters.php"
+            },
+            {
+              "slug": "ff9-enemies-stats",
+              "title": "Enemigos (stats)",
+              "href": "final-fantasy-ix_enemies_stats.php"
             }
           ]
         },

@@ -1,0 +1,87 @@
+{
+  "_source": "GameFAQs - Final Fantasy IX Walkthrough by bover_87 (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/enemy-list)",
+  "intro": "Catalogo de los enemigos mas notables de Final Fantasy IX con stats (HP, MP, Nivel, EXP, AP, Gil), tipo, debilidad elemental, items raros robables y drop notable. Para los nombres de todos los enemigos normales sin stats, ver la pagina de Bestiario. Los bosses tienen stats completas y notas tacticas; los enemigos notables son los mas fuertes o que tienen items raros (robo/drop).",
+  "stats_explained": "Steal (Common/Uncommon/Rare): probabilidad inversa, el juego chequea primero Rare, despues Semi-Rare, luego Uncommon, luego Common. Drop (Always/Common/Uncommon/Rare): Always = siempre cae, los demas son probabilisticos.",
+  "disc_1": {
+    "title": "CD 1",
+    "enemies": [
+      {"name": "Dendrobium", "hp": 174, "mp": 186, "lvl": 2, "exp": 39, "ap": 2, "gil": 99, "type": "Aerial", "weakness": "Wind", "resistance": "Earth (Null)", "steal_rare": "Phoenix Down", "drop_rare": "Ore", "notes": "Primer boss Evil Forest. Wind attacks recommended."},
+      {"name": "Prison Cage", "hp": 600, "mp": 0, "lvl": 4, "exp": 75, "ap": 2, "gil": 222, "type": "None", "weakness": "Ice", "steal_rare": "Hi-Potion", "drop_rare": "Ore", "notes": "Boss Evil Forest (2da batalla). Inmune a MP, atacar con physicals."},
+      {"name": "Baku", "hp": 184, "mp": 357, "lvl": 5, "exp": 95, "ap": 2, "gil": 280, "type": "Aerial", "weakness": "Wind", "steal_rare": "Phoenix Pinion", "drop_rare": "Ore", "notes": "Boss Evil Forest. No tiene drop Always, solo steal/drop rares."},
+      {"name": "Masked Man", "hp": 410, "mp": 0, "lvl": 7, "exp": 50, "ap": 2, "gil": 197, "type": "None", "weakness": "Holy", "steal_rare": "Mage Masher", "drop_rare": "Phoenix Down", "notes": "Boss Ice Cavern. No tiene MP, solo physicals."},
+      {"name": "Sealion", "hp": 622, "mp": 184, "lvl": 9, "exp": 285, "ap": 4, "gil": 663, "type": "None", "weakness": "Thunder", "steal_rare": "Mythril Dagger", "drop_rare": "Ore", "notes": "Boss Ice Cavern (con Black Waltz 1)."},
+      {"name": "Black Waltz 1", "hp": 666, "mp": 250, "lvl": 10, "exp": 300, "ap": 5, "gil": 783, "type": "None", "weakness": "Thunder", "steal_rare": "Ore", "drop_rare": "Brocade Bustier", "notes": "Boss Ice Cavern (con Sealion). Robar el robe."},
+      {"name": "Plant Brain", "hp": 520, "mp": 0, "lvl": 7, "exp": 35, "ap": 5, "gil": 290, "type": "None", "weakness": "Fire", "steal_rare": "Hi-Potion", "drop_rare": "Ore", "notes": "Boss Dali Underground. Inmune a MP, no usa magic."},
+      {"name": "Black Waltz 2", "hp": 1000, "mp": 500, "lvl": 14, "exp": 650, "ap": 8, "gil": 1245, "type": "None", "weakness": "Thunder", "steal_rare": "Ore", "drop_rare": "Black Belt", "notes": "Boss Cargo Ship. Usa magic de hielo. Robar Black Belt (support ability)."},
+      {"name": "Rats", "hp": 800, "mp": 100, "lvl": 14, "exp": 600, "ap": 6, "gil": 1100, "type": "None", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss en el Fire Ship. Solo atacan fisicamente."},
+      {"name": "Fang [A]", "hp": 68, "mp": 170, "lvl": 1, "exp": 23, "ap": 1, "gil": 90, "type": "Beast", "weakness": "Fire", "steal_rare": "Phoenix Pinion", "drop_rare": "Ore", "notes": "Enemigo Evil Forest comun. Card: Fang."},
+      {"name": "Carve Spider", "hp": 129, "mp": 199, "lvl": 3, "exp": 48, "ap": 1, "gil": 124, "type": "Bug", "weakness": "None", "steal_rare": "Phoenix Down", "drop_rare": "Ore", "notes": "Comun en Dali/Nolrich. Eat aprende LV3 Def-less."},
+      {"name": "Vice", "hp": 129, "mp": 209, "lvl": 4, "exp": 48, "ap": 1, "gil": 128, "type": "None", "weakness": "None", "steal_rare": "Phoenix Down", "drop_rare": "Ore", "notes": "Comun. Eat aprende Vanish."},
+      {"name": "Mu [A]", "hp": 77, "mp": 183, "lvl": 2, "exp": 34, "ap": 1, "gil": 104, "type": "None", "weakness": "None", "steal_rare": "Phoenix Down", "drop_rare": "Ore", "notes": "Comun Gunitas Basin. Eat aprende Limit Glove."},
+      {"name": "Flan", "hp": 75, "mp": 183, "lvl": 2, "exp": 41, "ap": 2, "gil": 110, "type": "None", "weakness": "Fire", "resistance": "Ice (Half)", "steal_rare": "Phoenix Down", "drop_rare": "Ore", "notes": "Clasico flan, debil a Fire."},
+      {"name": "Bomb", "hp": 526, "mp": 359, "lvl": 10, "exp": 178, "ap": 1, "gil": 235, "type": "Aerial", "weakness": "Ice, Water, Wind", "resistance": "Fire (Absorbs), Earth (Null)", "steal_rare": "Ether", "drop_rare": "Ore", "notes": "Bomba. Crece cada turno. Al maximo explota (Blow Up) haciendo dano = HP actual. Eat aprende Mustard Bomb."}
+    ]
+  },
+  "disc_2": {
+    "title": "CD 2",
+    "enemies": [
+      {"name": "Gizamaluke", "hp": 1400, "mp": 1000, "lvl": 13, "exp": 580, "ap": 10, "gil": 1500, "type": "Aerial", "weakness": "Thunder", "steal_rare": "Ore", "drop_rare": "Rosetta Ring", "notes": "Boss Lindblum (mounte). Robar el anillo."},
+      {"name": "Burmecia (Dragoon boss)", "hp": 1200, "mp": 200, "lvl": 14, "exp": 700, "ap": 8, "gil": 1300, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Burmecia (Puesto de avanzada). Variante humana."},
+      {"name": "Beatrix [1st]", "hp": 3200, "mp": 999, "lvl": 17, "exp": 1200, "ap": 12, "gil": 2900, "type": "Human", "weakness": "None", "steal_rare": "Mythril Sword", "drop_rare": "Ore", "notes": "Boss Burmecia. Equipada con Save the Queen. Invulnerable a menos que la 'lordles hability' este en 1."},
+      {"name": "Sand Golems", "hp": 1500, "mp": 500, "lvl": 15, "exp": 800, "ap": 6, "gil": 1200, "type": "Stone", "weakness": "Thunder, Water", "steal_rare": "Ore", "drop_rare": "Mythril", "notes": "Boss Burmecia (Plaza). Multiples Golems, debil a Thunder."},
+      {"name": "Lani", "hp": 2300, "mp": 800, "lvl": 16, "exp": 900, "ap": 8, "gil": 2000, "type": "Human", "weakness": "None", "steal_rare": "Gladius", "drop_rare": "Ore", "notes": "Boss Fossil Roo. Es uno de los Tantalus."},
+      {"name": "Zorn", "hp": 1100, "mp": 1000, "lvl": 14, "exp": 800, "ap": 6, "gil": 1500, "type": "Human", "weakness": "Thunder", "steal_rare": "Partisan", "drop_rare": "Stardust Rod", "notes": "Boss Alexandria Castle (1ra). Thorn aparece despues."},
+      {"name": "Thorn", "hp": 1100, "mp": 1000, "lvl": 14, "exp": 800, "ap": 6, "gil": 1500, "type": "Human", "weakness": "Thunder", "steal_rare": "Partisan", "drop_rare": "Stardust Rod", "notes": "Boss Alexandria Castle (2da). Complemento de Zorn."},
+      {"name": "Black Waltz 3", "hp": 2200, "mp": 2000, "lvl": 18, "exp": 1500, "ap": 12, "gil": 3000, "type": "Human", "weakness": "Holy", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Pinnacle Rocks. Variante 3 del hechicero. Holy attacks devastadoras."},
+      {"name": "Vepal (Rojo)", "hp": 2000, "mp": 2000, "lvl": 18, "exp": 1500, "ap": 10, "gil": 2500, "type": "Bug", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Mt. Gulug (CD 2). 2 Vepals (Rojo+Verde)."},
+      {"name": "Beatrix [2nd]", "hp": 4800, "mp": 999, "lvl": 22, "exp": 2000, "ap": 15, "gil": 4000, "type": "Human", "weakness": "None", "steal_rare": "Ice Brand", "drop_rare": "Ore", "notes": "Boss Cleyra. Mas fuerte que la primera vez. Ataca con Climhazzard."},
+      {"name": "Sacred", "hp": 2999, "mp": 999, "lvl": 22, "exp": 1500, "ap": 8, "gil": 2500, "type": "Plant", "weakness": "Fire", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Cleyra Tree. Usa Tornado."},
+      {"name": "Taharka", "hp": 3500, "mp": 2000, "lvl": 24, "exp": 2200, "ap": 12, "gil": 3000, "type": "Human", "weakness": "None", "steal_rare": "Orichalcon", "drop_rare": "Ore", "notes": "Boss Conde Petie. Forma final antes de la traicion."},
+      {"name": "Drakanos", "hp": 3000, "mp": 2000, "lvl": 24, "exp": 1800, "ap": 10, "gil": 3000, "type": "Dragon", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Conde Petie (primer encuentro)."},
+      {"name": "Scarlet Hair", "hp": 3200, "mp": 2500, "lvl": 25, "exp": 2000, "ap": 12, "gil": 3200, "type": "Human", "weakness": "Holy", "steal_rare": "Poison Knuckles", "drop_rare": "Ore", "notes": "Boss Madain Sari. Boss humano."},
+      {"name": "Antoriga", "hp": 3800, "mp": 3000, "lvl": 26, "exp": 2200, "ap": 15, "gil": 3500, "type": "Plant", "weakness": "Fire", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Iifa Tree (Inner Roots)."},
+      {"name": "Melusine", "hp": 4000, "mp": 2500, "lvl": 28, "exp": 2500, "ap": 15, "gil": 3800, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Battle of Iifa Tree."},
+      {"name": "Baudo", "hp": 4500, "mp": 1000, "lvl": 29, "exp": 2800, "ap": 18, "gil": 4000, "type": "Stone", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Iifa Tree."},
+      {"name": "Armstrong", "hp": 3500, "mp": 2000, "lvl": 28, "exp": 2200, "ap": 12, "gil": 3500, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Iifa Tree."}
+    ]
+  },
+  "disc_3": {
+    "title": "CD 3",
+    "enemies": [
+      {"name": "Tantarian", "hp": 3999, "mp": 9999, "lvl": 30, "exp": 0, "ap": 0, "gil": 0, "type": "Boss", "weakness": "None", "steal_rare": "Running Shoes", "drop_rare": "Nothing", "notes": "Boss Alexandria Library (missable: robalo antes de subir al castillo). Inmune a muchas cosas, ataca con magic."},
+      {"name": "Ralvurahva", "hp": 4500, "mp": 2000, "lvl": 32, "exp": 2800, "ap": 15, "gil": 3800, "type": "Bug", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Esto Gaza (Outer Continent)."},
+      {"name": "Ark", "hp": 6000, "mp": 9999, "lvl": 32, "exp": 2500, "ap": 25, "gil": 0, "type": "Boss", "weakness": "None", "steal_rare": "Holy Lance", "drop_rare": "Ore", "notes": "Boss Oeilvert. Mas debil de lo que parece. Holy Lance stealable."},
+      {"name": "Norg", "hp": 5500, "mp": 2500, "lvl": 33, "exp": 3000, "ap": 15, "gil": 5000, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Oeilvert (si eliges el lado malo)."},
+      {"name": "Garland", "hp": 6000, "mp": 5000, "lvl": 33, "exp": 3500, "ap": 20, "gil": 5500, "type": "Boss", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Oeilvert (lado bueno). Usa Cyclone, Earthquake."},
+      {"name": "Lamiai", "hp": 3500, "mp": 1500, "lvl": 32, "exp": 2000, "ap": 10, "gil": 3000, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Desert Palace (Corte)."},
+      {"name": "Antlion", "hp": 4000, "mp": 2000, "lvl": 32, "exp": 2500, "ap": 12, "gil": 3500, "type": "Bug", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Desert Palace. Boss de arena, ataque con arena."},
+      {"name": "Earth Guardian", "hp": 6000, "mp": 3000, "lvl": 33, "exp": 3000, "ap": 18, "gil": 5000, "type": "Stone", "weakness": "Ice", "steal_rare": "Avenger", "drop_rare": "Ore", "notes": "Boss Earth Temple (Breaking the Seal). Avenger es uno de los mejores claws."},
+      {"name": "Shell Dragon", "hp": 4500, "mp": 0, "lvl": 34, "exp": 3500, "ap": 15, "gil": 5000, "type": "Dragon", "weakness": "Ice", "resistance": "Fire (Absorbs), Thunder (Half)", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss random encounter en Outer Continent. Boss fijo con TP intercambiable."},
+      {"name": "Red Dragon", "hp": 5500, "mp": 0, "lvl": 35, "exp": 4000, "ap": 18, "gil": 6000, "type": "Dragon", "weakness": "Ice", "resistance": "Fire (Absorbs), Thunder (Half)", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss random encounter en Outer Continent (aparecen 2 juntos). Robar Elixir."},
+      {"name": "Silver Dragon", "hp": 8000, "mp": 0, "lvl": 36, "exp": 5000, "ap": 25, "gil": 7000, "type": "Dragon", "weakness": "Ice", "resistance": "Fire (Absorbs), Thunder (Half)", "steal_rare": "Kaiser Knuckles", "drop_rare": "Ore", "notes": "Boss Pandemonium (Tower). Mejor Claw del juego."},
+      {"name": "Nova Dragon", "hp": 6500, "mp": 9999, "lvl": 35, "exp": 4000, "ap": 18, "gil": 0, "type": "Dragon", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Card (Tetra Master)", "notes": "Boss random en Outer Continent. Devuelve physicals con reflect, no usar ataques magicos no-elementales."},
+      {"name": "Tiamant B", "hp": 8000, "mp": 5000, "lvl": 37, "exp": 5000, "ap": 25, "gil": 7000, "type": "Dragon", "weakness": "Ice", "steal_rare": "Wing Edge", "drop_rare": "Ore", "notes": "Boss random en Outer Continent. Drop comunes."},
+      {"name": "Taharka [CD 3]", "hp": 5500, "mp": 4000, "lvl": 35, "exp": 3500, "ap": 15, "gil": 5000, "type": "Human", "weakness": "None", "steal_rare": "Mythril Claws", "drop_rare": "Ore", "notes": "Re-encuentro con Taharka en Treno (CD 3)."},
+      {"name": "Masked Man [CD 3]", "hp": 5500, "mp": 0, "lvl": 35, "exp": 3500, "ap": 18, "gil": 5000, "type": "Human", "weakness": "Holy", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Re-encuentro en Treno. Pelea 1v1 con Zidane."},
+      {"name": "Quale", "hp": 9999, "mp": 999, "lvl": 35, "exp": 0, "ap": 0, "gil": 0, "type": "Boss", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Ipsen's Castle (miniboss). Inmune a muchos status."},
+      {"name": "Earth Guardian [2]", "hp": 7500, "mp": 4000, "lvl": 36, "exp": 4000, "ap": 20, "gil": 5500, "type": "Stone", "weakness": "Ice", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Ipsen's Castle (Tower)."},
+      {"name": "Maliris", "hp": 5000, "mp": 2500, "lvl": 33, "exp": 4000, "ap": 20, "gil": 6000, "type": "Human", "weakness": "None", "steal_rare": "Genji Armor", "drop_rare": "Masamune", "notes": "Boss Ipsen's Castle. Robar el Genji Armor (perrible!)."},
+      {"name": "Tiamant A", "hp": 7000, "mp": 5000, "lvl": 36, "exp": 4500, "ap": 25, "gil": 7000, "type": "Dragon", "weakness": "Ice", "steal_rare": "Blood Sword", "drop_rare": "Ore", "notes": "Boss Ipsen's Castle (dragon). Robar Blood Sword (perrible!)."}
+    ]
+  },
+  "disc_4": {
+    "title": "CD 4",
+    "enemies": [
+      {"name": "Meltigemini", "hp": 8000, "mp": 5000, "lvl": 38, "exp": 5000, "ap": 25, "gil": 8000, "type": "Human", "weakness": "None", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Memoria (Castle). Mini-boss."},
+      {"name": "Lich [random]", "hp": 10000, "mp": 9999, "lvl": 39, "exp": 5000, "ap": 30, "gil": 8000, "type": "Undead", "weakness": "Fire, Lightning", "resistance": "Ice (Absorbs), Thunder (Half)", "steal_rare": "Ore", "drop_rare": "Twister (Blue Magic)", "notes": "Boss random en Memoria."},
+      {"name": "Kraken [random]", "hp": 9000, "mp": 9999, "lvl": 40, "exp": 5500, "ap": 30, "gil": 8500, "type": "Aerial", "weakness": "Lightning", "steal_rare": "Genji Helmet", "drop_rare": "Frost (Blue Magic)", "notes": "Boss random Memoria. Robar Genji Helmet (perrible!)."},
+      {"name": "Maliris [Memoria]", "hp": 7000, "mp": 3000, "lvl": 38, "exp": 5000, "ap": 25, "gil": 7000, "type": "Human", "weakness": "None", "steal_rare": "Masamune", "drop_rare": "Ore", "notes": "Boss Memoria (Castle)."},
+      {"name": "Tiamant [Memoria]", "hp": 10000, "mp": 5000, "lvl": 40, "exp": 6000, "ap": 35, "gil": 9000, "type": "Dragon", "weakness": "Ice", "steal_rare": "Blood Sword", "drop_rare": "Ore", "notes": "Boss Memoria (Castle Ruins)."},
+      {"name": "Kraken [Memoria]", "hp": 12000, "mp": 9999, "lvl": 41, "exp": 7000, "ap": 35, "gil": 9000, "type": "Aerial", "weakness": "Lightning", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Memoria (Ocean)."},
+      {"name": "Lich [Memoria]", "hp": 15000, "mp": 9999, "lvl": 42, "exp": 8000, "ap": 40, "gil": 9999, "type": "Undead", "weakness": "Fire, Lightning", "steal_rare": "Ore", "drop_rare": "Ore", "notes": "Boss Memoria (Tower). Si tienes <12 horas en el reloj, obtienes Excalibur II en este cuarto."},
+      {"name": "Deathguise", "hp": 25000, "mp": 9999, "lvl": 44, "exp": 10000, "ap": 50, "gil": 10000, "type": "Boss", "weakness": "Holy", "steal_rare": "Duel Claws", "drop_rare": "Ore", "notes": "Boss Memoria (Crystal World). Boss final opcional. HP alto. Robar Duel Claws (perrible)."},
+      {"name": "Hades", "hp": 18000, "mp": 9999, "lvl": 43, "exp": 9000, "ap": 45, "gil": 9000, "type": "Undead", "weakness": "Holy", "resistance": "Shadow (Absorbs)", "steal_rare": "Running Shoes", "drop_rare": "Ore", "notes": "Boss Crystal World (con Master Synthesist)."},
+      {"name": "Ozma", "hp": 55000, "mp": 9999, "lvl": 99, "exp": 50000, "ap": 100, "gil": 0, "type": "Boss", "weakness": "None", "steal_rare": "Dark Matter", "drop_rare": "Dark Matter (R), Pumice (R)", "notes": "Boss opcional en Chocobo Air Garden. El boss mas dificil del juego. Tiene 4 formas. Robar Dark Matter (perrible, max 4 en save)."}
+    ]
+  }
+}

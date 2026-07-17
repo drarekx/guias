@@ -341,6 +341,10 @@
       {
         "slug": "ff9-characters",
         "title": "Personajes"
+      },
+      {
+        "slug": "ff9-enemies-stats",
+        "title": "Enemigos (stats)"
       }
     ]
   },

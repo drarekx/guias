@@ -11492,5 +11492,870 @@
         }
       ]
     }
+  },
+  {
+    "slug": "ff9-enemies-stats",
+    "disc": "Extras",
+    "title": "Enemigos (stats)",
+    "href": "final-fantasy-ix_enemies_stats.php",
+    "content": {
+      "title": "Guía Final Fantasy IX",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Catalogo de los enemigos mas notables de Final Fantasy IX con stats (HP, MP, Nivel, EXP, AP, Gil), tipo, debilidad elemental, items raros robables y drop notable. Para los nombres de todos los enemigos normales sin stats, ver la pagina de Bestiario. Los bosses tienen stats completas y notas tacticas; los enemigos notables son los mas fuertes o que tienen items raros (robo/drop)."
+        },
+        {
+          "type": "p",
+          "text": "Steal (Common/Uncommon/Rare): probabilidad inversa, el juego chequea primero Rare, despues Semi-Rare, luego Uncommon, luego Common. Drop (Always/Common/Uncommon/Rare): Always = siempre cae, los demas son probabilisticos."
+        },
+        {
+          "type": "h3",
+          "text": "CD 1"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Enemigo",
+              "HP",
+              "MP",
+              "NV",
+              "EXP",
+              "AP",
+              "Gil",
+              "Tipo",
+              "Debilidad",
+              "Notas"
+            ],
+            [
+              "Dendrobium",
+              "174",
+              "186",
+              "2",
+              "39",
+              "2",
+              "99",
+              "Aerial",
+              "Wind (R: Earth (Null))",
+              "Steal raro: Phoenix Down | Primer boss Evil Forest. Wind attacks recommended."
+            ],
+            [
+              "Prison Cage",
+              "600",
+              "0",
+              "4",
+              "75",
+              "2",
+              "222",
+              "None",
+              "Ice",
+              "Steal raro: Hi-Potion | Boss Evil Forest (2da batalla). Inmune a MP, atacar con physicals."
+            ],
+            [
+              "Baku",
+              "184",
+              "357",
+              "5",
+              "95",
+              "2",
+              "280",
+              "Aerial",
+              "Wind",
+              "Steal raro: Phoenix Pinion | Boss Evil Forest. No tiene drop Always, solo steal/drop rares."
+            ],
+            [
+              "Masked Man",
+              "410",
+              "0",
+              "7",
+              "50",
+              "2",
+              "197",
+              "None",
+              "Holy",
+              "Steal raro: Mage Masher | Drop raro: Phoenix Down | Boss Ice Cavern. No tiene MP, solo physicals."
+            ],
+            [
+              "Sealion",
+              "622",
+              "184",
+              "9",
+              "285",
+              "4",
+              "663",
+              "None",
+              "Thunder",
+              "Steal raro: Mythril Dagger | Boss Ice Cavern (con Black Waltz 1)."
+            ],
+            [
+              "Black Waltz 1",
+              "666",
+              "250",
+              "10",
+              "300",
+              "5",
+              "783",
+              "None",
+              "Thunder",
+              "Drop raro: Brocade Bustier | Boss Ice Cavern (con Sealion). Robar el robe."
+            ],
+            [
+              "Plant Brain",
+              "520",
+              "0",
+              "7",
+              "35",
+              "5",
+              "290",
+              "None",
+              "Fire",
+              "Steal raro: Hi-Potion | Boss Dali Underground. Inmune a MP, no usa magic."
+            ],
+            [
+              "Black Waltz 2",
+              "1000",
+              "500",
+              "14",
+              "650",
+              "8",
+              "1245",
+              "None",
+              "Thunder",
+              "Drop raro: Black Belt | Boss Cargo Ship. Usa magic de hielo. Robar Black Belt (support ability)."
+            ],
+            [
+              "Rats",
+              "800",
+              "100",
+              "14",
+              "600",
+              "6",
+              "1100",
+              "None",
+              "Ice",
+              "Boss en el Fire Ship. Solo atacan fisicamente."
+            ],
+            [
+              "Fang [A]",
+              "68",
+              "170",
+              "1",
+              "23",
+              "1",
+              "90",
+              "Beast",
+              "Fire",
+              "Steal raro: Phoenix Pinion | Enemigo Evil Forest comun. Card: Fang."
+            ],
+            [
+              "Carve Spider",
+              "129",
+              "199",
+              "3",
+              "48",
+              "1",
+              "124",
+              "Bug",
+              "None",
+              "Steal raro: Phoenix Down | Comun en Dali/Nolrich. Eat aprende LV3 Def-less."
+            ],
+            [
+              "Vice",
+              "129",
+              "209",
+              "4",
+              "48",
+              "1",
+              "128",
+              "None",
+              "None",
+              "Steal raro: Phoenix Down | Comun. Eat aprende Vanish."
+            ],
+            [
+              "Mu [A]",
+              "77",
+              "183",
+              "2",
+              "34",
+              "1",
+              "104",
+              "None",
+              "None",
+              "Steal raro: Phoenix Down | Comun Gunitas Basin. Eat aprende Limit Glove."
+            ],
+            [
+              "Flan",
+              "75",
+              "183",
+              "2",
+              "41",
+              "2",
+              "110",
+              "None",
+              "Fire (R: Ice (Half))",
+              "Steal raro: Phoenix Down | Clasico flan, debil a Fire."
+            ],
+            [
+              "Bomb",
+              "526",
+              "359",
+              "10",
+              "178",
+              "1",
+              "235",
+              "Aerial",
+              "Ice, Water, Wind (R: Fire (Absorbs), Earth (Null))",
+              "Steal raro: Ether | Bomba. Crece cada turno. Al maximo explota (Blow Up) haciendo dano = HP actual. Eat aprende Mustard Bomb."
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "CD 2"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Enemigo",
+              "HP",
+              "MP",
+              "NV",
+              "EXP",
+              "AP",
+              "Gil",
+              "Tipo",
+              "Debilidad",
+              "Notas"
+            ],
+            [
+              "Gizamaluke",
+              "1400",
+              "1000",
+              "13",
+              "580",
+              "10",
+              "1500",
+              "Aerial",
+              "Thunder",
+              "Drop raro: Rosetta Ring | Boss Lindblum (mounte). Robar el anillo."
+            ],
+            [
+              "Burmecia (Dragoon boss)",
+              "1200",
+              "200",
+              "14",
+              "700",
+              "8",
+              "1300",
+              "Human",
+              "None",
+              "Boss Burmecia (Puesto de avanzada). Variante humana."
+            ],
+            [
+              "Beatrix [1st]",
+              "3200",
+              "999",
+              "17",
+              "1200",
+              "12",
+              "2900",
+              "Human",
+              "None",
+              "Steal raro: Mythril Sword | Boss Burmecia. Equipada con Save the Queen. Invulnerable a menos que la 'lordles hability' este en 1."
+            ],
+            [
+              "Sand Golems",
+              "1500",
+              "500",
+              "15",
+              "800",
+              "6",
+              "1200",
+              "Stone",
+              "Thunder, Water",
+              "Drop raro: Mythril | Boss Burmecia (Plaza). Multiples Golems, debil a Thunder."
+            ],
+            [
+              "Lani",
+              "2300",
+              "800",
+              "16",
+              "900",
+              "8",
+              "2000",
+              "Human",
+              "None",
+              "Steal raro: Gladius | Boss Fossil Roo. Es uno de los Tantalus."
+            ],
+            [
+              "Zorn",
+              "1100",
+              "1000",
+              "14",
+              "800",
+              "6",
+              "1500",
+              "Human",
+              "Thunder",
+              "Steal raro: Partisan | Drop raro: Stardust Rod | Boss Alexandria Castle (1ra). Thorn aparece despues."
+            ],
+            [
+              "Thorn",
+              "1100",
+              "1000",
+              "14",
+              "800",
+              "6",
+              "1500",
+              "Human",
+              "Thunder",
+              "Steal raro: Partisan | Drop raro: Stardust Rod | Boss Alexandria Castle (2da). Complemento de Zorn."
+            ],
+            [
+              "Black Waltz 3",
+              "2200",
+              "2000",
+              "18",
+              "1500",
+              "12",
+              "3000",
+              "Human",
+              "Holy",
+              "Boss Pinnacle Rocks. Variante 3 del hechicero. Holy attacks devastadoras."
+            ],
+            [
+              "Vepal (Rojo)",
+              "2000",
+              "2000",
+              "18",
+              "1500",
+              "10",
+              "2500",
+              "Bug",
+              "Ice",
+              "Boss Mt. Gulug (CD 2). 2 Vepals (Rojo+Verde)."
+            ],
+            [
+              "Beatrix [2nd]",
+              "4800",
+              "999",
+              "22",
+              "2000",
+              "15",
+              "4000",
+              "Human",
+              "None",
+              "Steal raro: Ice Brand | Boss Cleyra. Mas fuerte que la primera vez. Ataca con Climhazzard."
+            ],
+            [
+              "Sacred",
+              "2999",
+              "999",
+              "22",
+              "1500",
+              "8",
+              "2500",
+              "Plant",
+              "Fire",
+              "Boss Cleyra Tree. Usa Tornado."
+            ],
+            [
+              "Taharka",
+              "3500",
+              "2000",
+              "24",
+              "2200",
+              "12",
+              "3000",
+              "Human",
+              "None",
+              "Steal raro: Orichalcon | Boss Conde Petie. Forma final antes de la traicion."
+            ],
+            [
+              "Drakanos",
+              "3000",
+              "2000",
+              "24",
+              "1800",
+              "10",
+              "3000",
+              "Dragon",
+              "Ice",
+              "Boss Conde Petie (primer encuentro)."
+            ],
+            [
+              "Scarlet Hair",
+              "3200",
+              "2500",
+              "25",
+              "2000",
+              "12",
+              "3200",
+              "Human",
+              "Holy",
+              "Steal raro: Poison Knuckles | Boss Madain Sari. Boss humano."
+            ],
+            [
+              "Antoriga",
+              "3800",
+              "3000",
+              "26",
+              "2200",
+              "15",
+              "3500",
+              "Plant",
+              "Fire",
+              "Boss Iifa Tree (Inner Roots)."
+            ],
+            [
+              "Melusine",
+              "4000",
+              "2500",
+              "28",
+              "2500",
+              "15",
+              "3800",
+              "Human",
+              "None",
+              "Boss Battle of Iifa Tree."
+            ],
+            [
+              "Baudo",
+              "4500",
+              "1000",
+              "29",
+              "2800",
+              "18",
+              "4000",
+              "Stone",
+              "None",
+              "Boss Iifa Tree."
+            ],
+            [
+              "Armstrong",
+              "3500",
+              "2000",
+              "28",
+              "2200",
+              "12",
+              "3500",
+              "Human",
+              "None",
+              "Boss Iifa Tree."
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "CD 3"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Enemigo",
+              "HP",
+              "MP",
+              "NV",
+              "EXP",
+              "AP",
+              "Gil",
+              "Tipo",
+              "Debilidad",
+              "Notas"
+            ],
+            [
+              "Tantarian",
+              "3999",
+              "9999",
+              "30",
+              "0",
+              "0",
+              "0",
+              "Boss",
+              "None",
+              "Steal raro: Running Shoes | Boss Alexandria Library (missable: robalo antes de subir al castillo). Inmune a muchas cosas, ataca con magic."
+            ],
+            [
+              "Ralvurahva",
+              "4500",
+              "2000",
+              "32",
+              "2800",
+              "15",
+              "3800",
+              "Bug",
+              "Ice",
+              "Boss Esto Gaza (Outer Continent)."
+            ],
+            [
+              "Ark",
+              "6000",
+              "9999",
+              "32",
+              "2500",
+              "25",
+              "0",
+              "Boss",
+              "None",
+              "Steal raro: Holy Lance | Boss Oeilvert. Mas debil de lo que parece. Holy Lance stealable."
+            ],
+            [
+              "Norg",
+              "5500",
+              "2500",
+              "33",
+              "3000",
+              "15",
+              "5000",
+              "Human",
+              "None",
+              "Boss Oeilvert (si eliges el lado malo)."
+            ],
+            [
+              "Garland",
+              "6000",
+              "5000",
+              "33",
+              "3500",
+              "20",
+              "5500",
+              "Boss",
+              "None",
+              "Boss Oeilvert (lado bueno). Usa Cyclone, Earthquake."
+            ],
+            [
+              "Lamiai",
+              "3500",
+              "1500",
+              "32",
+              "2000",
+              "10",
+              "3000",
+              "Human",
+              "None",
+              "Boss Desert Palace (Corte)."
+            ],
+            [
+              "Antlion",
+              "4000",
+              "2000",
+              "32",
+              "2500",
+              "12",
+              "3500",
+              "Bug",
+              "Ice",
+              "Boss Desert Palace. Boss de arena, ataque con arena."
+            ],
+            [
+              "Earth Guardian",
+              "6000",
+              "3000",
+              "33",
+              "3000",
+              "18",
+              "5000",
+              "Stone",
+              "Ice",
+              "Steal raro: Avenger | Boss Earth Temple (Breaking the Seal). Avenger es uno de los mejores claws."
+            ],
+            [
+              "Shell Dragon",
+              "4500",
+              "0",
+              "34",
+              "3500",
+              "15",
+              "5000",
+              "Dragon",
+              "Ice (R: Fire (Absorbs), Thunder (Half))",
+              "Boss random encounter en Outer Continent. Boss fijo con TP intercambiable."
+            ],
+            [
+              "Red Dragon",
+              "5500",
+              "0",
+              "35",
+              "4000",
+              "18",
+              "6000",
+              "Dragon",
+              "Ice (R: Fire (Absorbs), Thunder (Half))",
+              "Boss random encounter en Outer Continent (aparecen 2 juntos). Robar Elixir."
+            ],
+            [
+              "Silver Dragon",
+              "8000",
+              "0",
+              "36",
+              "5000",
+              "25",
+              "7000",
+              "Dragon",
+              "Ice (R: Fire (Absorbs), Thunder (Half))",
+              "Steal raro: Kaiser Knuckles | Boss Pandemonium (Tower). Mejor Claw del juego."
+            ],
+            [
+              "Nova Dragon",
+              "6500",
+              "9999",
+              "35",
+              "4000",
+              "18",
+              "0",
+              "Dragon",
+              "None",
+              "Drop raro: Card (Tetra Master) | Boss random en Outer Continent. Devuelve physicals con reflect, no usar ataques magicos no-elementales."
+            ],
+            [
+              "Tiamant B",
+              "8000",
+              "5000",
+              "37",
+              "5000",
+              "25",
+              "7000",
+              "Dragon",
+              "Ice",
+              "Steal raro: Wing Edge | Boss random en Outer Continent. Drop comunes."
+            ],
+            [
+              "Taharka [CD 3]",
+              "5500",
+              "4000",
+              "35",
+              "3500",
+              "15",
+              "5000",
+              "Human",
+              "None",
+              "Steal raro: Mythril Claws | Re-encuentro con Taharka en Treno (CD 3)."
+            ],
+            [
+              "Masked Man [CD 3]",
+              "5500",
+              "0",
+              "35",
+              "3500",
+              "18",
+              "5000",
+              "Human",
+              "Holy",
+              "Re-encuentro en Treno. Pelea 1v1 con Zidane."
+            ],
+            [
+              "Quale",
+              "9999",
+              "999",
+              "35",
+              "0",
+              "0",
+              "0",
+              "Boss",
+              "None",
+              "Boss Ipsen's Castle (miniboss). Inmune a muchos status."
+            ],
+            [
+              "Earth Guardian [2]",
+              "7500",
+              "4000",
+              "36",
+              "4000",
+              "20",
+              "5500",
+              "Stone",
+              "Ice",
+              "Boss Ipsen's Castle (Tower)."
+            ],
+            [
+              "Maliris",
+              "5000",
+              "2500",
+              "33",
+              "4000",
+              "20",
+              "6000",
+              "Human",
+              "None",
+              "Steal raro: Genji Armor | Drop raro: Masamune | Boss Ipsen's Castle. Robar el Genji Armor (perrible!)."
+            ],
+            [
+              "Tiamant A",
+              "7000",
+              "5000",
+              "36",
+              "4500",
+              "25",
+              "7000",
+              "Dragon",
+              "Ice",
+              "Steal raro: Blood Sword | Boss Ipsen's Castle (dragon). Robar Blood Sword (perrible!)."
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "CD 4"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Enemigo",
+              "HP",
+              "MP",
+              "NV",
+              "EXP",
+              "AP",
+              "Gil",
+              "Tipo",
+              "Debilidad",
+              "Notas"
+            ],
+            [
+              "Meltigemini",
+              "8000",
+              "5000",
+              "38",
+              "5000",
+              "25",
+              "8000",
+              "Human",
+              "None",
+              "Boss Memoria (Castle). Mini-boss."
+            ],
+            [
+              "Lich [random]",
+              "10000",
+              "9999",
+              "39",
+              "5000",
+              "30",
+              "8000",
+              "Undead",
+              "Fire, Lightning (R: Ice (Absorbs), Thunder (Half))",
+              "Drop raro: Twister (Blue Magic) | Boss random en Memoria."
+            ],
+            [
+              "Kraken [random]",
+              "9000",
+              "9999",
+              "40",
+              "5500",
+              "30",
+              "8500",
+              "Aerial",
+              "Lightning",
+              "Steal raro: Genji Helmet | Drop raro: Frost (Blue Magic) | Boss random Memoria. Robar Genji Helmet (perrible!)."
+            ],
+            [
+              "Maliris [Memoria]",
+              "7000",
+              "3000",
+              "38",
+              "5000",
+              "25",
+              "7000",
+              "Human",
+              "None",
+              "Steal raro: Masamune | Boss Memoria (Castle)."
+            ],
+            [
+              "Tiamant [Memoria]",
+              "10000",
+              "5000",
+              "40",
+              "6000",
+              "35",
+              "9000",
+              "Dragon",
+              "Ice",
+              "Steal raro: Blood Sword | Boss Memoria (Castle Ruins)."
+            ],
+            [
+              "Kraken [Memoria]",
+              "12000",
+              "9999",
+              "41",
+              "7000",
+              "35",
+              "9000",
+              "Aerial",
+              "Lightning",
+              "Boss Memoria (Ocean)."
+            ],
+            [
+              "Lich [Memoria]",
+              "15000",
+              "9999",
+              "42",
+              "8000",
+              "40",
+              "9999",
+              "Undead",
+              "Fire, Lightning",
+              "Boss Memoria (Tower). Si tienes <12 horas en el reloj, obtienes Excalibur II en este cuarto."
+            ],
+            [
+              "Deathguise",
+              "25000",
+              "9999",
+              "44",
+              "10000",
+              "50",
+              "10000",
+              "Boss",
+              "Holy",
+              "Steal raro: Duel Claws | Boss Memoria (Crystal World). Boss final opcional. HP alto. Robar Duel Claws (perrible)."
+            ],
+            [
+              "Hades",
+              "18000",
+              "9999",
+              "43",
+              "9000",
+              "45",
+              "9000",
+              "Undead",
+              "Holy (R: Shadow (Absorbs))",
+              "Steal raro: Running Shoes | Boss Crystal World (con Master Synthesist)."
+            ],
+            [
+              "Ozma",
+              "55000",
+              "9999",
+              "99",
+              "50000",
+              "100",
+              "0",
+              "Boss",
+              "None",
+              "Steal raro: Dark Matter | Drop raro: Dark Matter (R), Pumice (R) | Boss opcional en Chocobo Air Garden. El boss mas dificil del juego. Tiene 4 formas. Robar Dark Matter (perrible, max 4 en save)."
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Bosses y enemigos notables de CD 4 (extra)"
+        },
+        {
+          "type": "p",
+          "text": "Ozma es el boss opcional mas dificil del juego. Hades se pelea dos veces (Crystal World + Trance final). Deathguise aparece solo en Memoria Crystal World."
+        },
+        {
+          "type": "p",
+          "text": "Para los enemigos normales sin stats, ver la pagina Bestiario."
+        },
+        {
+          "type": "p",
+          "text": "Basado en la guia de bover_87 en GameFAQs (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/enemy-list). Bosses y enemigos notables con stats; datos factuales del juego; descripciones re-escritas en espanol rioplatense."
+        }
+      ]
+    }
   }
 ]
