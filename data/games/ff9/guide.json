@@ -10227,5 +10227,1011 @@
         }
       ]
     }
+  },
+  {
+    "slug": "ff9-abilities",
+    "disc": "Extras",
+    "title": "Abilities",
+    "href": "final-fantasy-ix_abilities.php",
+    "content": {
+      "title": "Guía Final Fantasy IX",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Catalogo de abilities de Final Fantasy IX. Action Abilities (gastan ATB en batalla) agrupadas por command; Support Abilities (siempre activas). Para cada ability listamos: command, MP cost, quien la usa, como se aprende, efecto resumido."
+        },
+        {
+          "type": "h3",
+          "text": "Action Abilities"
+        },
+        {
+          "type": "p",
+          "text": "Habilidades que gastan ATB durante la batalla. Agrupadas por command (Steal, Skill, Blk Mag, Swd Art, Summon, Wht Mag, Jump, Dragon, Blu Mag, Flair, etc)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Command",
+              "Ability",
+              "MP",
+              "Quien",
+              "Aprende de",
+              "Efecto"
+            ],
+            [
+              "Steal",
+              "Steal",
+              "0",
+              "Zidane, Marcus, Blank, Cinna",
+              "Inicial",
+              "Roba un item del enemigo. Util contra bosses para equips raros."
+            ],
+            [
+              "Skill (Zidane)",
+              "Flee",
+              "0",
+              "Zidane",
+              "Dagger, Mage Masher, Zorlin Shape, Ultima Weapon, Germinas Boots",
+              "Huye de batalla (pierde algo de gil). Siempre funciona salvo en batallas inescapables."
+            ],
+            [
+              "Skill",
+              "Detect",
+              "0",
+              "Zidane",
+              "Mage Masher, Orichalcon",
+              "Muestra items robables del enemigo."
+            ],
+            [
+              "Skill",
+              "What's That?!",
+              "2",
+              "Zidane",
+              "Butterfly Sword",
+              "Si exito, el party gana back attack contra el enemigo."
+            ],
+            [
+              "Skill",
+              "Soul Blade",
+              "6",
+              "Zidane",
+              "The Ogre",
+              "Inflinge el status de la Thief Sword equipada al enemigo con 100% accuracy. Broken con Sargatanas (Petrify)."
+            ],
+            [
+              "Skill",
+              "Annoy",
+              "6",
+              "Zidane",
+              "Gladius, Sargatanas",
+              "Inflinge Trouble al enemigo."
+            ],
+            [
+              "Skill",
+              "Sacrifice",
+              "32",
+              "Zidane",
+              "Exploda, Masamune",
+              "K.O. self para restaurar HP/MP del party."
+            ],
+            [
+              "Skill",
+              "Lucky Seven",
+              "6",
+              "Zidane",
+              "Gladius, Exploda, Rune Tooth, The Tower, Thief Hat",
+              "Si HP acaba en 7, hace 7/77/777/7777 damage al azar."
+            ],
+            [
+              "Skill",
+              "Thievery",
+              "8",
+              "Zidane",
+              "Angel Bless, The Tower",
+              "Ataque que hace 1 damage por Steal exitoso en el save. Cap 9999."
+            ],
+            [
+              "Blk Mag (Vivi)",
+              "Fire / Fira / Firaga",
+              "6/12/24",
+              "Vivi",
+              "Mage Staff, Flame Staff, Octagon Rod / Flame Staff, Mage's Hat, Power Belt, Topaz / Octagon Rod",
+              "Dano Fire elemental. 14/29/72 base power."
+            ],
+            [
+              "Blk Mag",
+              "Blizzard / Blizzara / Blizzaga",
+              "6/12/24",
+              "Vivi",
+              "Leather Wrist / Ice Staff, Opal / Octagon Rod",
+              "Dano Ice elemental. 14/29/72 base power."
+            ],
+            [
+              "Blk Mag",
+              "Thunder / Thundara / Thundaga",
+              "6/12/24",
+              "Vivi",
+              "Silk Shirt, Glass Buckle / Lightning Staff, Peridot / Octagon Rod",
+              "Dano Thunder elemental. 14/29/72 base power."
+            ],
+            [
+              "Blk Mag",
+              "Bio",
+              "18",
+              "Vivi",
+              "Oak Staff",
+              "42 damage + Poison (20% accuracy). Funciona aunque falle Poison."
+            ],
+            [
+              "Blk Mag",
+              "Osmose",
+              "2",
+              "Vivi",
+              "High Mage Staff, Gaia Gear",
+              "Drena MP del enemigo (15 power). En Undead, roba MP a Vivi."
+            ],
+            [
+              "Blk Mag",
+              "Drain",
+              "14",
+              "Vivi",
+              "Oak Staff",
+              "Drena HP (32 power). En Undead, roba HP a Vivi."
+            ],
+            [
+              "Blk Mag",
+              "Demi",
+              "18",
+              "Vivi",
+              "Cypress Pile, Amethyst, Black Belt",
+              "Reduce HP del target en 1/4 max (40% accuracy). Falla contra bosses."
+            ],
+            [
+              "Blk Mag",
+              "Comet",
+              "16",
+              "Vivi",
+              "Cypress Pile",
+              "Dano aleatorio non-elemental (56 power) ignorando defensa, 66% accuracy."
+            ],
+            [
+              "Blk Mag",
+              "Death",
+              "20",
+              "Vivi",
+              "Black Hood",
+              "Inflinge KO (35% accuracy). Cura Undead a full HP."
+            ],
+            [
+              "Blk Mag",
+              "Break",
+              "18",
+              "Vivi",
+              "Cypress Pile",
+              "Inflinge Petrify (40% accuracy)."
+            ],
+            [
+              "Blk Mag",
+              "Water",
+              "22",
+              "Vivi",
+              "N-Kai Armlet",
+              "Dano Water elemental (64 power) a uno o todos."
+            ],
+            [
+              "Blk Mag",
+              "Meteor",
+              "42",
+              "Vivi",
+              "High Mage Staff",
+              "Dano aleatorio non-elemental (88 power) a todos. Falla segun Spirit."
+            ],
+            [
+              "Blk Mag",
+              "Flare",
+              "40",
+              "Vivi",
+              "Black Robe",
+              "Dano extremo non-elemental (119 power) a un target."
+            ],
+            [
+              "Blk Mag",
+              "Doomsday",
+              "72",
+              "Vivi",
+              "Mace of Zeus",
+              "Dano extremo Shadow (112 power) a todos (aliados y enemigos)."
+            ],
+            [
+              "Focus (Vivi)",
+              "Focus",
+              "0",
+              "Vivi",
+              "Inicial",
+              "+25% Magic (max 99). Stackeable."
+            ],
+            [
+              "Swd Art (Steiner)",
+              "Darkside",
+              "0",
+              "Steiner",
+              "Blood Sword",
+              "Dano Shadow heavy ignorando Mini/Protect. Cuesta 1/8 HP de Steiner."
+            ],
+            [
+              "Swd Art",
+              "Minus Strike",
+              "8",
+              "Steiner",
+              "Iron Sword, Excalibur II, Rubber Helm",
+              "Dano igual a Max HP - HP actual de Steiner."
+            ],
+            [
+              "Swd Art",
+              "Iai Strike",
+              "16",
+              "Steiner",
+              "Rune Blade",
+              "Inflinge KO (30% accuracy)."
+            ],
+            [
+              "Swd Art",
+              "Power Break",
+              "8",
+              "Steiner",
+              "Diamond Sword",
+              "-25% Strength del enemigo (50% accuracy). Stackeable."
+            ],
+            [
+              "Swd Art",
+              "Armor Break",
+              "4",
+              "Steiner",
+              "Mythril Sword",
+              "Defense del enemigo a la mitad (50% accuracy). Stackeable."
+            ],
+            [
+              "Swd Art",
+              "Mental Break",
+              "8",
+              "Steiner",
+              "Ice Brand",
+              "Magic Defense del enemigo a la mitad (50% accuracy). Stackeable."
+            ],
+            [
+              "Swd Art",
+              "Magic Break",
+              "4",
+              "Steiner",
+              "Flame Saber",
+              "-25% Magic del enemigo (50% accuracy). Stackeable."
+            ],
+            [
+              "Swd Art",
+              "Charge!",
+              "10",
+              "Steiner",
+              "Coral Sword, Aegis Gloves",
+              "Todos los personajes en Critical HP atacan."
+            ],
+            [
+              "Swd Art",
+              "Thunder Slash",
+              "24",
+              "Steiner",
+              "Defender, Ragnarok",
+              "BUGUEADA: solo 19% del max HP del enemigo. Ignorala salvo con patch."
+            ],
+            [
+              "Swd Art",
+              "Stock Break",
+              "26",
+              "Steiner",
+              "Ultima Sword, Excalibur II",
+              "Dano heavy a todos los enemigos en el elemento del weapon equipado."
+            ],
+            [
+              "Swd Art",
+              "Climhazzard",
+              "32",
+              "Steiner",
+              "Excalibur, Excalibur II",
+              "Dano magical no-elemental a todos. Mini y Shell en usuario lo reducen."
+            ],
+            [
+              "Swd Art",
+              "Shock",
+              "32",
+              "Steiner",
+              "Ragnarok",
+              "Dano fisico extremo a un target en el elemento del weapon."
+            ],
+            [
+              "Summon (Dagger)",
+              "Shiva",
+              "24",
+              "Dagger",
+              "Opal",
+              "Dano Ice elemental medio (36 power) a todos."
+            ],
+            [
+              "Summon",
+              "Ifrit",
+              "26",
+              "Dagger",
+              "Topaz",
+              "Dano Fire elemental medio (42 power) a todos."
+            ],
+            [
+              "Summon",
+              "Ramuh",
+              "22",
+              "Dagger",
+              "Peridot",
+              "Dano Thunder elemental medio (32 power) a todos."
+            ],
+            [
+              "Summon",
+              "Atomos",
+              "32",
+              "Dagger",
+              "Amethyst",
+              "30% del max HP a todos. +1% por Amethyst. Falla contra bosses."
+            ],
+            [
+              "Summon",
+              "Odin",
+              "28",
+              "Dagger",
+              "Dark Matter",
+              "KO a todos (chance basada en Ore). Si no mata, ataque fisico (145 - Ore)."
+            ],
+            [
+              "Summon",
+              "Leviathan",
+              "42",
+              "Dagger",
+              "Aquamarine",
+              "Dano Water elemental heavy (59 power) a todos."
+            ],
+            [
+              "Summon",
+              "Bahamut",
+              "56",
+              "Dagger",
+              "Garnet",
+              "Dano non-elemental heavy (88 power) a todos."
+            ],
+            [
+              "Summon",
+              "Ark",
+              "80",
+              "Dagger",
+              "Pumice",
+              "Dano Shadow extremo (106 base). +1 power por Lapis Lazuli. El summon non-elemental mas fuerte del juego."
+            ],
+            [
+              "Summon (Eiko)",
+              "Fenrir",
+              "30",
+              "Eiko",
+              "Sapphire",
+              "Dano Earth medio (42 power) a todos. Si Eiko equipa Maiden Prayer, cambia a Wind (44 power)."
+            ],
+            [
+              "Summon",
+              "Phoenix",
+              "32",
+              "Eiko",
+              "Phoenix Pinion",
+              "Revive todos los aliados KO + dano Fire medio (40 power) a todos. Auto-trigger si party muere y Eiko esta presente."
+            ],
+            [
+              "Summon",
+              "Carbuncle",
+              "24",
+              "Eiko",
+              "Ruby",
+              "Buff al party. Tipo depende del Add-On equipado: Moonstone=Shell/Protect, Emerald=Haste, Diamond=Vanish, otro=Reflect."
+            ],
+            [
+              "Summon",
+              "Madeen",
+              "54",
+              "Eiko",
+              "Ribbon",
+              "Dano Holy heavy (71 base). +Level de Eiko al power. El summon Holy mas fuerte."
+            ],
+            [
+              "Wht Mag (Dagger/Eiko)",
+              "Cure / Cura / Curaga",
+              "6/10/22",
+              "Dagger, Eiko",
+              "Rod, Magic Racket, Silk Shirt / Healing Rod, Golem's Flute, Barette / Wizard Rod, Whale Whisker, Hamelin, Angel's Flute",
+              "Cura HP: 16/38/107 base power. Dano a Undead."
+            ],
+            [
+              "Wht Mag",
+              "Life",
+              "8",
+              "Dagger, Eiko",
+              "Mythril Rod, Healing Rod, Whale Whisker, Golem's Flute, Rebirth Ring, Cachusha",
+              "Revive un aliado de KO. A Undead los deja en 1-digit HP."
+            ],
+            [
+              "Wht Mag",
+              "Full-Life",
+              "24",
+              "Eiko",
+              "Siren's Flute, Light Robe",
+              "Revive un aliado de KO restaurando casi full HP. K.O. instantaneo a Undead."
+            ],
+            [
+              "Wht Mag",
+              "Regen",
+              "14",
+              "Eiko",
+              "Fairy Flute, Fairy Earrings",
+              "Regen status (regenera HP por turnos) a un target."
+            ],
+            [
+              "Wht Mag",
+              "Esuna",
+              "6",
+              "Eiko",
+              "Fairy Flute, Siren's Flute, Angel's Flute, Rubber Suit",
+              "Cura la mayoria de status (excepto KO, Doom, Zombie) en un target."
+            ],
+            [
+              "Wht Mag",
+              "Haste",
+              "8",
+              "Eiko",
+              "Fairy Flute, Running Shoes, Emerald",
+              "Haste status (mas velocidad) a un target."
+            ],
+            [
+              "Wht Mag",
+              "Dispel",
+              "16",
+              "Eiko",
+              "Tiger Racket, Siren's Flute",
+              "Remueve Shell, Protect, Haste, Reflect, Regen, Float, Vanish, Auto-Life."
+            ],
+            [
+              "Wht Mag",
+              "Might",
+              "14",
+              "Eiko",
+              "Priest's Racket, Hamelin",
+              "+25% Strength (max 99). Stackeable."
+            ],
+            [
+              "Wht Mag",
+              "Holy",
+              "36",
+              "Eiko",
+              "Angel's Flute, White Robe",
+              "Dano Holy extremo (113 power) a un target."
+            ],
+            [
+              "Jump (Freya)",
+              "Jump",
+              "0",
+              "Freya",
+              "Inicial",
+              "Salta, no targeteable. Al aterrizar, dano doble del weapon. -Killers no aplican a Jump."
+            ],
+            [
+              "Dragon (Freya)",
+              "Lancer",
+              "10",
+              "Freya",
+              "Partisan, Dragon Wrist, Coral Ring",
+              "120% dano del weapon + drena 1/6 como MP."
+            ],
+            [
+              "Dragon",
+              "Reis's Wind",
+              "12",
+              "Freya",
+              "Mythril Spear, Holy Lance, Gold Helm, Angel Earrings",
+              "Regen status a todos los aliados."
+            ],
+            [
+              "Dragon",
+              "White Draw",
+              "36",
+              "Freya",
+              "Ice Lance, Kain's Lance, Emerald",
+              "Drena MP del enemigo y restaura MP de todos."
+            ],
+            [
+              "Dragon",
+              "Cherry Blossom",
+              "46",
+              "Freya",
+              "Obelisk, Kain's Lance",
+              "150% dano del weapon a un target. Sin delay."
+            ],
+            [
+              "Dragon",
+              "Dragon's Crest",
+              "16",
+              "Freya",
+              "Holy Lance, Kain's Lance",
+              "Dano = (dragones matados)^2 a un enemigo. Mata 100+ para 9999."
+            ],
+            [
+              "Eat (Quina)",
+              "Eat",
+              "0",
+              "Quina",
+              "Inicial",
+              "Come al enemigo si HP <= 25%. Aprende su Blue Magic. Sin skill, KO al enemigo."
+            ],
+            [
+              "Blu Mag (Quina)",
+              "1000 Needles",
+              "8",
+              "Quina",
+              "Cactuar (Eat)",
+              "1000 dano fijo non-elemental a un target."
+            ],
+            [
+              "Blu Mag",
+              "Limit Glove",
+              "10",
+              "Quina",
+              "Axe Beak, Mu, Mandragora, Blazer Beetle, Jabberwock, Catoblepas (Eat)",
+              "Si HP de Quina = 1, 9999 dano. Si HP > 1, falla."
+            ],
+            [
+              "Blu Mag",
+              "Mighty Guard",
+              "64",
+              "Quina",
+              "Serpion, Myconid, Antlion, Gargoyle (Eat)",
+              "Protect + Shell a todos los aliados."
+            ],
+            [
+              "Blu Mag",
+              "Matra Magic",
+              "8",
+              "Quina",
+              "Dragonfly, Trick Sparrow, Ogre, Land Worm (Eat)",
+              "Reduce HP del target a 1 (20% accuracy). Ideal antes de Eat."
+            ],
+            [
+              "Blu Mag",
+              "Bad Breath",
+              "16",
+              "Quina",
+              "Anemone, Worm Hydra, Malboro (Eat)",
+              "Confuse + Darkness + Poison + Slow + Mini (40% accuracy) a un enemigo."
+            ],
+            [
+              "Blu Mag",
+              "Frog Drop",
+              "10",
+              "Quina",
+              "Gigan Toad (Eat)",
+              "Dano = nivel x ranas atrapadas. Muy high si atrapaste muchas."
+            ],
+            [
+              "Blu Mag",
+              "White Wind",
+              "14",
+              "Quina",
+              "Zuu, Garuda, Zemzelett (Eat)",
+              "Cura todos por 1/3 del max HP de Quina."
+            ],
+            [
+              "Blu Mag",
+              "Doom (Blue)",
+              "12",
+              "Quina",
+              "Veteran, Ash (Eat)",
+              "Doom status a un target (25% accuracy)."
+            ],
+            [
+              "Blu Mag",
+              "Roulette",
+              "18",
+              "Quina",
+              "Zombie, Ghost, Hecteyes (Eat)",
+              "KO unblockable random (puede pegar a aliados o caster)."
+            ],
+            [
+              "Blu Mag",
+              "Aqua Breath",
+              "14",
+              "Quina",
+              "Axolotl, Clipper, Sahagin, Vepal (Eat)",
+              "25% max HP Water elemental a todos. Falla contra bosses."
+            ],
+            [
+              "Blu Mag",
+              "LV5 Death",
+              "20",
+              "Quina",
+              "Whale Zombie, Dracozombie, Lich (Eat)",
+              "KO a todos los enemigos con nivel multiplo de 5."
+            ],
+            [
+              "Blu Mag",
+              "LV4 Holy",
+              "22",
+              "Quina",
+              "Feather Circle, Amdusias, Torama (Eat)",
+              "34 power Holy a todos los enemigos nivel multiplo de 4."
+            ],
+            [
+              "Blu Mag",
+              "LV3 Def-less",
+              "12",
+              "Quina",
+              "Carve Spider, Lamia, Lizard Man, Sand Scorpion, Ochu, Grand Dragon (Eat)",
+              "Reduce Defense y Magic Defense de enemigos nivel multiplo de 3."
+            ],
+            [
+              "Blu Mag",
+              "Pumpkin Head",
+              "12",
+              "Quina",
+              "Hedgehog Pie, Python, Ladybird, Skeleton, Yeti, Basilisk, Bandersnatch (Eat)",
+              "Dano = max HP - HP actual de Quina."
+            ],
+            [
+              "Blu Mag",
+              "1000 Needles",
+              "8",
+              "Quina",
+              "Cactuar (Eat)",
+              "1000 dano fijo. Util contra bosses con mucha defensa."
+            ],
+            [
+              "Blu Mag",
+              "Night",
+              "14",
+              "Quina",
+              "Nymph, Abomination, Seeker Bat, Grimlock (Eat)",
+              "Sleep status a TODOS (aliados y enemigos)."
+            ],
+            [
+              "Blu Mag",
+              "Twister",
+              "22",
+              "Quina",
+              "Red Dragon, Abadon, Tiamat (Eat)",
+              "Dano aleatorio Wind a todos. Cap = (level + Magic) x 55."
+            ],
+            [
+              "Blu Mag",
+              "Earth Shake",
+              "20",
+              "Quina",
+              "Adamantoise, Shell Dragon, Earth Guardian (Eat)",
+              "75 power Earth elemental a todos."
+            ],
+            [
+              "Blu Mag",
+              "Angel's Snack",
+              "4",
+              "Quina",
+              "Ironite, Epitaph, Mistodon, Behemoth (Eat)",
+              "Usa un Remedy en cada aliado. Sin Remedies, pierde el turno."
+            ],
+            [
+              "Blu Mag",
+              "Frost",
+              "8",
+              "Quina",
+              "Wraith (blue), Chimera, Kraken (Eat)",
+              "Freeze status (30% accuracy)."
+            ],
+            [
+              "Blu Mag",
+              "Vanish (Blue)",
+              "8",
+              "Quina",
+              "Vice, Hornet, Troll, Drakan, Gnoll (Eat)",
+              "Vanish status a un target."
+            ],
+            [
+              "Blu Mag",
+              "Mustard Bomb",
+              "10",
+              "Quina",
+              "Bomb, Vepal (red), Grenade, Wraith (red), Maliris (Eat)",
+              "Heat status (30% accuracy)."
+            ],
+            [
+              "Blu Mag",
+              "Magic Hammer",
+              "2",
+              "Quina",
+              "Magic Vice, Ring Leader (Eat)",
+              "Drena MP del target (hasta HP actual del target)."
+            ],
+            [
+              "Throw (Amarant)",
+              "Throw",
+              "0",
+              "Amarant",
+              "Inicial",
+              "Lanza un item (Pinwheel, Rising Sun, Wing Edge) como arma de rango."
+            ],
+            [
+              "Flair (Amarant)",
+              "Chakra",
+              "0",
+              "Amarant",
+              "Cat's Claws",
+              "Restaura propio HP/MP."
+            ],
+            [
+              "Flair",
+              "Spare Change",
+              "0",
+              "Amarant",
+              "Poison Knuckles, Rune Claws",
+              "Cambia ATB entre aliados."
+            ],
+            [
+              "Flair",
+              "Counter",
+              "0",
+              "Amarant",
+              "Cat's Claws",
+              "Counterattack automatico cuando es atacado fisicamente."
+            ],
+            [
+              "Flair",
+              "Aura",
+              "0",
+              "Amarant",
+              "Scissor Fangs, Duel Claws",
+              "Hace a Amarant invencible fisicamente (1 ataque) y +50% damage siguiente."
+            ],
+            [
+              "Flair",
+              "No Mercy",
+              "0",
+              "Amarant",
+              "Dragon's Claws, Duel Claws",
+              "Counter + daño heavy al contraatacar."
+            ],
+            [
+              "Flair",
+              "Curse",
+              "0",
+              "Amarant",
+              "Mythril Claws, Kaiser Knuckles",
+              "Si contraataca, inflict status random al atacante."
+            ],
+            [
+              "Flair",
+              "Revive",
+              "0",
+              "Amarant",
+              "Tiger Fangs, Rune Claws",
+              "Si contraataca, revive un aliado KO."
+            ],
+            [
+              "Flair",
+              "Demi Shock",
+              "0",
+              "Amarant",
+              "Avenger, Rune Claws",
+              "Counter + reduce HP del atacante en 1/4."
+            ],
+            [
+              "Flair",
+              "Countdown",
+              "0",
+              "Amarant",
+              "Kaiser Knuckles",
+              "10 turnos: el proximo ataque de Amarante mata instantaneamente."
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Support Abilities"
+        },
+        {
+          "type": "p",
+          "text": "Habilidades pasivas siempre activas mientras el item que las ensena esta equipado. Killer abilities (Bird/Dragon/etc) son muy utiles para subir el damage contra tipos especificos."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Efecto",
+              "Aprende de"
+            ],
+            [
+              "Auto-Potion",
+              "Usa Potion automaticamente cuando HP < 25%.",
+              "Potion x20 en inventario"
+            ],
+            [
+              "Auto-Medal",
+              "Auto-revive con 1 HP la primera vez que cae KO.",
+              "Reflect Ring"
+            ],
+            [
+              "Auto-Reflect",
+              "Mantiene Reflect permanente.",
+              "Reflect Ring"
+            ],
+            [
+              "Auto-Regen",
+              "Mantiene Regen permanente.",
+              "Rosetta Ring"
+            ],
+            [
+              "Auto-Haste",
+              "Mantiene Haste permanente.",
+              "Gale Ring"
+            ],
+            [
+              "Auto-Life",
+              "Auto-revive con full HP.",
+              "Rebirth Ring"
+            ],
+            [
+              "Auto-Potion + Counter + Cover",
+              "Compuestos varios.",
+              "Combinar en Accessories"
+            ],
+            [
+              "Boost",
+              "Summons siempre usan animacion larga (33% mas fuerte).",
+              "Black Belt"
+            ],
+            [
+              "Charge",
+              "+50% ATB al comenzar batalla.",
+              "Power Belt"
+            ],
+            [
+              "Bird Killer",
+              "+50% damage contra bird-type.",
+              "Bird Killer (item)"
+            ],
+            [
+              "Bug Killer",
+              "+50% damage contra bug-type.",
+              "Bug Killer (item)"
+            ],
+            [
+              "Stone Killer",
+              "+50% damage contra stone-type.",
+              "Stone Killer (item)"
+            ],
+            [
+              "Dragon Killer",
+              "+50% damage contra dragon-type.",
+              "Javelin"
+            ],
+            [
+              "Beast Killer",
+              "+50% damage contra beast-type.",
+              "Broadsword"
+            ],
+            [
+              "Undead Killer",
+              "+50% damage contra undead-type.",
+              "Blood Sword"
+            ],
+            [
+              "Devil Killer",
+              "+50% damage contra devil-type.",
+              "Asura's Rod"
+            ],
+            [
+              "Man-Eater",
+              "+50% damage contra human-type.",
+              "Man-Eater (item)"
+            ],
+            [
+              "Healer",
+              "Ataques curan al aliado (en lugar de dano).",
+              "Healing Rod"
+            ],
+            [
+              "Add Status",
+              "Agrega chance de status segun el weapon equipado.",
+              "Weapon con Add Status"
+            ],
+            [
+              "Clear Headed",
+              "Inmune a Confuse.",
+              "Bandana"
+            ],
+            [
+              "Body Temp",
+              "Inmune a Freeze, Heat, Freeze status.",
+              "Linen Cuirass"
+            ],
+            [
+              "Insomniac",
+              "Inmune a Sleep.",
+              "Feather Hat"
+            ],
+            [
+              "Loudmouth",
+              "Inmune a Silence.",
+              "Sound of Earth (Hamelin)"
+            ],
+            [
+              "Jelly",
+              "Reduce Slow/Stop/Slow duration.",
+              "Light Robe"
+            ],
+            [
+              "Locomotion",
+              "Inmune a Disable/Freeze/Stop.",
+              "Germinas Boots"
+            ],
+            [
+              "Gale/Cough/Bright Eyes/Eye 4 Eye",
+              "Inmune a Wind/Sleep/Darkness/Blind.",
+              "Diversos"
+            ],
+            [
+              "Reflect",
+              "+50% evasion magic.",
+              "Reflect Ring"
+            ],
+            [
+              "Shell",
+              "Resistente a magic attacks.",
+              "Gold Choker / Cotton Robe"
+            ],
+            [
+              "Protect",
+              "Resistente a physical attacks.",
+              "Leather Plate / Desert Boots"
+            ],
+            [
+              "Alert",
+              "+50% precision / +25% evasion.",
+              "Thief Hat"
+            ],
+            [
+              "Bright Eyes",
+              "Inmune a Darkness.",
+              "Light Robe"
+            ],
+            [
+              "HP +10% / HP +20%",
+              "+10% / +20% max HP.",
+              "Banded Mail / Diamond Vest"
+            ],
+            [
+              "MP +10% / MP +20%",
+              "+10% / +20% max MP.",
+              "Magician Cloak / Black Robe"
+            ],
+            [
+              "Camouflage",
+              "+50% chance de pre-emptive attack.",
+              "Camouflage / Olive Hat"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Basado en la guia de bover_87 en GameFAQs (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/abilities). Catalogo compacto de Action y Support abilities; descripciones re-escritas en espanol rioplatense."
+        }
+      ]
+    }
   }
 ]

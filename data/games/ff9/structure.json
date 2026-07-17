@@ -333,6 +333,10 @@
       {
         "slug": "ff9-shops",
         "title": "Tiendas"
+      },
+      {
+        "slug": "ff9-abilities",
+        "title": "Abilities"
       }
     ]
   },

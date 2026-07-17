@@ -1373,6 +1373,11 @@
               "slug": "ff9-shops",
               "title": "Tiendas",
               "href": "final-fantasy-ix_shops.php"
+            },
+            {
+              "slug": "ff9-abilities",
+              "title": "Abilities",
+              "href": "final-fantasy-ix_abilities.php"
             }
           ]
         },
