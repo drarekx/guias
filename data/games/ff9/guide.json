@@ -6961,5 +6961,1614 @@
         }
       ]
     }
+  },
+  {
+    "slug": "ff9-items",
+    "disc": "Extras",
+    "title": "Items",
+    "href": "final-fantasy-ix_items.php",
+    "content": {
+      "title": "Guía Final Fantasy IX",
+      "intro": "",
+      "image": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Catalogo compacto de items de Final Fantasy IX agrupado por categoria. Para cada item se listan stats resumidos y como conseguirlo. Items perdibles (missable) y unicos (unique) se marcan explicitamente. Para el catalogo completo con tracking de Synth y completion, consultar la guia de bover_87."
+        },
+        {
+          "type": "h3",
+          "text": "Consumibles - Restorative"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Potion",
+              "+100 HP (campo) / +150 HP (batalla)",
+              "Inventario inicial x7. Tiendas de items.",
+              ""
+            ],
+            [
+              "Hi-Potion",
+              "+300 HP (campo) / +550 HP (batalla)",
+              "Inventario inicial x2. Tiendas late-game.",
+              ""
+            ],
+            [
+              "Ether",
+              "+100 MP (campo) / +150 MP (batalla)",
+              "Inventario inicial x2. Robar/drop de varios enemigos. Synth en Master Synthesist.",
+              ""
+            ],
+            [
+              "Elixir",
+              "Restaura HP y MP al maximo de un personaje",
+              "Robar de Red Dragon/Shell Dragon (encuentros fijos), Yan. Boss drops. Pocos por save.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Consumibles - Status Recovery"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Phoenix Down",
+              "Revive de KO con 1-10 HP",
+              "Inventario inicial x2. Tiendas de items.",
+              ""
+            ],
+            [
+              "Remedy",
+              "Cura Poison, Darkness, Silence, Mini, Petrify, Stop, Venom",
+              "Inventario inicial x2. Tiendas.",
+              ""
+            ],
+            [
+              "Antidote",
+              "Cura Poison, Venom",
+              "Tiendas de items.",
+              ""
+            ],
+            [
+              "Eye Drops",
+              "Cura Darkness",
+              "Tiendas de items.",
+              ""
+            ],
+            [
+              "Echo Screen",
+              "Cura Silence",
+              "Tiendas de items.",
+              ""
+            ],
+            [
+              "Soft",
+              "Cura Gradual Petrify, Petrify",
+              "Tiendas de items.",
+              ""
+            ],
+            [
+              "Magic Tag",
+              "Cura Zombie",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Annoyntment",
+              "Cura Trouble",
+              "Tiendas de items.",
+              ""
+            ],
+            [
+              "Vaccine",
+              "Cura Virus",
+              "Tiendas late-game.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Consumibles - Otros"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Tent",
+              "Cura 60% HP/MP en Save Moogle. Full HP/MP en batalla con chance de status",
+              "Inventario inicial x1. Tiendas.",
+              ""
+            ],
+            [
+              "Phoenix Pinion",
+              "Revive (como Phoenix Down). Equipable como Add-On",
+              "Inventario inicial x1. Robar/drop. Synth (Phoenix Down + Gysahl Greens).",
+              ""
+            ],
+            [
+              "Gysahl Greens",
+              "Llama Chocobo en el mapa. Quita Berserk en batalla",
+              "Mene (Chocobo Hot & Cold).",
+              ""
+            ],
+            [
+              "Dead Pepper",
+              "En Chocobo: abre tesoros. En batalla: 30 damage por unidad",
+              "Premio Chocobo Hot & Cold. Repetible con Chocobo gordo.",
+              ""
+            ],
+            [
+              "Dark Matter",
+              "9999 damage fixed. Equipable como Add-On",
+              "Robar/drop de Ozma (Chocobo's Air Garden). Maximo 4, RNG puro.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Daggers (Zidane)"
+        },
+        {
+          "type": "p",
+          "text": "No funcionan con Soul Blade."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Dagger",
+              "Atk 12 · Flee",
+              "Inicial. Cofre Ipsen's Castle. Tiendas (Dali, Lindblum, Treno, Madain Sari, Bran Bal).",
+              ""
+            ],
+            [
+              "Mage Masher",
+              "Atk 14 · Flee, Detect · +Silence (20%)",
+              "Cofre Ice Cavern. Robar Masked Man. Tiendas varias.",
+              ""
+            ],
+            [
+              "Mythril Dagger",
+              "Atk 18 · Bandit",
+              "Cofre Treno. Robar Sealion. Tiendas varias.",
+              ""
+            ],
+            [
+              "Gladius",
+              "Atk 30 · Annoy, Lucky Seven · +Slow (35%)",
+              "Robar Lani (Fossil Roo). Tiendas varias.",
+              ""
+            ],
+            [
+              "Zorlin Shape",
+              "Atk 42 · Flee",
+              "Tiendas (Esto Gaza post-Desert, Daguerreo CD3, Bran Bal).",
+              "Perdible"
+            ],
+            [
+              "Orichalcon",
+              "Atk 71 · Detect · Speed +1",
+              "Robar Taharka. Tiendas (Bran Bal, Daguerreo CD4).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Thief Swords (Zidane)"
+        },
+        {
+          "type": "p",
+          "text": "Soul Blade aplica status al 100% (late-game rompe el juego)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Butterfly Sword",
+              "Atk 21 · What's That!?, Protect Girls · Soul: Silence",
+              "Synth (Dagger + Mage Masher) en Lindblum/Treno/BMV.",
+              ""
+            ],
+            [
+              "The Ogre",
+              "Atk 24 · Soul Blade · Soul: Darkness",
+              "Pinnacle Rocks. Synth (Mage Masher x2).",
+              ""
+            ],
+            [
+              "Exploda",
+              "Atk 31 · Sacrifice, Lucky Seven · Soul: Trouble",
+              "Moco (Madain Sari post-Iifa). Synth (Mage Masher + Mythril Dagger).",
+              ""
+            ],
+            [
+              "Rune Tooth",
+              "Atk 37 · Lucky Seven · Soul: Poison",
+              "Synth (Mythril Dagger x2).",
+              ""
+            ],
+            [
+              "Angel Bless",
+              "Atk 44 · Thievery · Soul: Confuse",
+              "Synth (Mythril Dagger + Gladius).",
+              ""
+            ],
+            [
+              "Sargatanas",
+              "Atk 53 · Annoy · Soul: Petrify",
+              "Synth (Gladius + Zorlin Shape). Late-game el combo Sargatanas + Soul Blade tira petrify con 100% a enemigos normales.",
+              ""
+            ],
+            [
+              "Masamune",
+              "Atk 62 · Sacrifice · Soul: Doom · Magic +2",
+              "Robar Maliris (Memoria). Synth (Zorlin Shape + Orichalcon).",
+              ""
+            ],
+            [
+              "The Tower",
+              "Atk 86 · Lucky Seven, Thievery · Soul: Mini",
+              "Cofre Memoria (Castle, Recollection).",
+              "Unico"
+            ],
+            [
+              "Ultima Weapon",
+              "Atk 100 · Flee · Soul: Sleep",
+              "Dive Spot #5 (CD 4).",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Swords (Steiner/Blank/Marcus)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Broadsword",
+              "Atk 12 · Beast Killer",
+              "Inicial Steiner. Cofre Ipsen's. Robar Prison Cage. Tienda Dali.",
+              ""
+            ],
+            [
+              "Iron Sword",
+              "Atk 16 · Minus Strike",
+              "Inicial Blank y Marcus. Robar Baku. Tiendas (Dali, Lindblum, Ipsen's).",
+              ""
+            ],
+            [
+              "Mythril Sword",
+              "Atk 20 · Armor Break",
+              "Robar Beatrix (CD 1). Tiendas (Treno CD2, Esto Gaza pre-Desert Palace).",
+              "Perdible"
+            ],
+            [
+              "Blood Sword",
+              "Atk 24 · Darkside · Absorbe HP (al reves si target es Undead)",
+              "Reward 4 Stellazzio. Robar Tiamat (Memoria).",
+              ""
+            ],
+            [
+              "Ice Brand",
+              "Atk 35 · Mental Break · +Freeze (10%) · Ice",
+              "Cofre Alexandria Castle CD2. Robar Beatrix (Cleyra/Alexandria). Tiendas (Lindblum CD2, Dragon's Gate, Fossil Roo, Alexandria, Treno).",
+              ""
+            ],
+            [
+              "Coral Sword",
+              "Atk 38 · Charge! · Lightning",
+              "Robar Lani (Fossil Roo). Tiendas (Treno CD3-4, Lindblum CD3-4).",
+              ""
+            ],
+            [
+              "Diamond Sword",
+              "Atk 42 · Power Break",
+              "Cofre Oeilvert. Mogshops (Oeilvert, Desert Palace). Tienda (Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Flame Saber",
+              "Atk 46 · Magic Break · +Heat (10%) · Fire",
+              "Tienda (Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Rune Blade",
+              "Atk 57 · Iai Strike · +Darkness (25%)",
+              "Tienda (Daguerreo CD3). Ensenia Iai Strike.",
+              "Perdible"
+            ],
+            [
+              "Defender",
+              "Atk 65 · Thunder Slash · Mitad damage Ice/Lightning, Spirit +3",
+              "Mogshop Bran Bal. Tienda (Daguerreo CD4).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Knight Swords (Steiner)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Save the Queen",
+              "Atk 32 · Mitad Fire, Str/Spd/Mag +2, Spirit +5",
+              "Inicial Beatrix (no se puede desequipar). Synth (Javelin + Silver Gloves).",
+              "Unico"
+            ],
+            [
+              "Ultima Sword",
+              "Atk 74 · Stock Break · +Sleep (20%)",
+              "Robar Maliris (Memoria). Tienda (Daguerreo CD4).",
+              ""
+            ],
+            [
+              "Excalibur",
+              "Atk 77 · Climhazzard · Holy",
+              "Reward del sidequest Magical Fingertip (CD 4).",
+              "Unico"
+            ],
+            [
+              "Ragnarok",
+              "Atk 87 · Shock, Thunder Slash · +Slow (30%)",
+              "Chocograph #21: Outer Island.",
+              "Unico"
+            ],
+            [
+              "Excalibur II",
+              "Atk 108 · Minus Strike, Climhazzard, Stock Break · Holy",
+              "Memoria Tower (Gate to Space). Solo si el reloj de juego tiene menos de 12 horas.",
+              "Perdible, Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Spears (Freya)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Javelin",
+              "Atk 18 · Dragon Killer",
+              "Inicial Freya. Cofre Ipsen's. Tienda (Lindblum pre-Cleyra).",
+              "Perdible"
+            ],
+            [
+              "Mythril Spear",
+              "Atk 20 · Reis's Wind",
+              "Cofre Burmecia (Armory). Tiendas (Treno, Esto Gaza, Ipsen's).",
+              ""
+            ],
+            [
+              "Partisan",
+              "Atk 25 · High Tide, Lancer",
+              "Robar Zorn. Tiendas (Cleyra, Lindblum CD2, Dragon's Gate, Fossil Roo, Alexandria, Treno).",
+              ""
+            ],
+            [
+              "Ice Lance",
+              "Atk 32 · White Draw · +Freeze (10%) · Ice",
+              "Tiendas (Alexandria, Treno, Lindblum CD3-4).",
+              ""
+            ],
+            [
+              "Trident",
+              "Atk 37 · Luna · +Darkness (20%)",
+              "Mogshops (Oeilvert, Desert Palace).",
+              ""
+            ],
+            [
+              "Heavy Lance",
+              "Atk 42 · Six Dragons · +Stop (10%)",
+              "Tienda (Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Obelisk",
+              "Atk 52 · Cherry Blossom, Initiative · +Petrify (10%)",
+              "Tienda (Daguerreo CD3).",
+              "Perdible"
+            ],
+            [
+              "Holy Lance",
+              "Atk 62 · Dragon's Crest, Reis's Wind · Holy",
+              "Robar Ark. Mogshop Bran Bal. Tienda (Daguerreo CD4).",
+              ""
+            ],
+            [
+              "Kain's Lance",
+              "Atk 71 · Cherry Blossom, Dragon's Crest, White Draw · +Confuse (15%)",
+              "Cofre Memoria (Castle Entrance).",
+              "Unico"
+            ],
+            [
+              "Dragon's Hair",
+              "Atk 77 · Dragon Breath",
+              "Mountain Crack #2.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Claws (Amarant)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Cat's Claws",
+              "Atk 23 · Chakra, Counter",
+              "Inicial Amarant. Cofre Ipsen's. Tienda (Alexandria, Treno).",
+              ""
+            ],
+            [
+              "Poison Knuckles",
+              "Atk 33 · Spare Change, Counter · +Poison (40%)",
+              "Robar Scarlet Hair. Tiendas (Conde Petie, Madain Sari, Alexandria, Treno, Lindblum, Ipsen's).",
+              ""
+            ],
+            [
+              "Mythril Claws",
+              "Atk 39 · Curse, Counter",
+              "Robar Taharka. Tiendas (Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Scissor Fangs",
+              "Atk 45 · Aura, Counter · +Venom (15%)",
+              "Tienda (Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Dragon's Claws",
+              "Atk 53 · No Mercy, Counter · Water",
+              "Chocograph #7: Forgotten Lagoon.",
+              "Unico"
+            ],
+            [
+              "Tiger Fangs",
+              "Atk 62 · Revive, Counter",
+              "Tienda (Daguerreo CD3).",
+              "Perdible"
+            ],
+            [
+              "Avenger",
+              "Atk 70 · Demi Shock, Counter · +KO (15%)",
+              "Robar Earth Guardian. Mogshop Bran Bal. Tienda (Daguerreo CD4).",
+              ""
+            ],
+            [
+              "Kaiser Knuckles",
+              "Atk 75 · Countdown, Curse, Counter · +Trouble (15%) · Wind",
+              "Chocograph #15. Robar Silver Dragon. Tienda (Daguerreo CD4).",
+              ""
+            ],
+            [
+              "Duel Claws",
+              "Atk 79 · Aura, No Mercy, Counter · +Berserk (25%)",
+              "Robar Deathguise (Memoria).",
+              "Perdible"
+            ],
+            [
+              "Rune Claws",
+              "Atk 83 · Spare Change, Demi Shock, Revive · +Darkness (30%)",
+              "Cofre Memoria (Castle Ruins, Time Interval).",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Rackets (Dagger/Eiko)"
+        },
+        {
+          "type": "p",
+          "text": "Todas son long-range y Wind-elemental."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Air Racket",
+              "Atk 13 · Scan, Panacea",
+              "Cofre Ipsen's. Tiendas (Summit Station, Treno CD2).",
+              "Perdible"
+            ],
+            [
+              "Multina Racket",
+              "Atk 17 · Blind, Stona, Shell",
+              "Cofre Bohden's Gate. Tiendas varias.",
+              ""
+            ],
+            [
+              "Magic Racket",
+              "Atk 23 · Berserk, Mini, Cure · Magic +2",
+              "Tiendas (Lindblum CD3-4, Mogshops, Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Mythril Racket",
+              "Atk 27 · Reflect, Shell, Protect",
+              "Cofre Terra. Tiendas (Esto Gaza, Daguerreo, Bran Bal).",
+              ""
+            ],
+            [
+              "Priest's Racket",
+              "Atk 35 · Silence, Might",
+              "Synth (Air Racket + Cachusha) en BMV CD4.",
+              "Perdible"
+            ],
+            [
+              "Tiger Racket",
+              "Atk 45 · Dispel",
+              "Dive Spot #2.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Rods (Dagger/Garnet)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Rod",
+              "Atk 11 · Cure, Panacea, Protect",
+              "Inicial Garnet. Cofre Ipsen's. Tienda (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Mythril Rod",
+              "Atk 14 · Life, Silence, Shell",
+              "Tiendas (Summit Station, Treno CD2, Cleyra, Esto Gaza, Ipsen's).",
+              ""
+            ],
+            [
+              "Stardust Rod",
+              "Atk 16 · Ability Up, Reflect, Float · Spirit +2",
+              "Robar Zorn. Tiendas (Lindblum CD2, Dragon's Gate, Fossil Roo, Conde Petie, BMV, Alexandria, Treno).",
+              ""
+            ],
+            [
+              "Healing Rod",
+              "Atk 23 · Healer, Cura, Life · Cura HP con Attack (reves en Undead)",
+              "Cofre Iifa Tree. Tiendas (Alexandria, Treno, Lindblum CD3-4, Mogshops).",
+              ""
+            ],
+            [
+              "Asura's Rod",
+              "Atk 27 · Mini, Confuse, Silence",
+              "Tiendas (Esto Gaza post-Desert, Daguerreo CD3).",
+              "Perdible"
+            ],
+            [
+              "Wizard Rod",
+              "Atk 31 · Curaga, Protect, Shell",
+              "Tiendas (Esto Gaza post-Desert, Daguerreo CD3, Bran Bal).",
+              ""
+            ],
+            [
+              "Princess Guard",
+              "Atk 38 · Dispel, Mighty Guard · Magic +3",
+              "Synth (Healing Rod + Asura's Rod + Stardust Rod) en BMV CD4.",
+              "Perdible"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Flutes (Eiko)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Magic Hammer",
+              "Atk 12 · Panacea",
+              "Inicial Eiko (no desequipable).",
+              ""
+            ],
+            [
+              "Fairy Flute",
+              "Atk 15 · Cure, Panacea, Shell",
+              "Tiendas (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Hamelin",
+              "Atk 32 · Sound of Earth, Song of the Past",
+              "Tienda (Daguerreo CD3).",
+              "Perdible"
+            ],
+            [
+              "Faerie Tail",
+              "Atk 48 · W Indra, NulAll",
+              "Daguerreo CD4 / Mogshop Bran Bal.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Staves (Vivi)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Mage Staff",
+              "Atk 11 · Fire, Fira",
+              "Inicial Vivi. Tienda (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Mythril Rod (Staff)",
+              "Atk 16 · Thunder, Thundara",
+              "Tiendas (Summit Station, Treno CD2).",
+              ""
+            ],
+            [
+              "Octagon Rod",
+              "Atk 28 · Reflect, Shell, Doom",
+              "Tienda (Daguerreo CD3). Ensenia Doom.",
+              "Perdible"
+            ],
+            [
+              "High Mage Staff",
+              "Atk 44 · Curaga, Float, Mighty Guard",
+              "Daguerreo CD4 / Mogshop Bran Bal.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Forks (Quina)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Fork",
+              "Atk 11 · Nightmare",
+              "Inicial Quina. Tienda (Dali).",
+              ""
+            ],
+            [
+              "Needle Fork",
+              "Atk 18 · 1000 Needles",
+              "Tiendas (Alexandria, Treno, Esto Gaza).",
+              ""
+            ],
+            [
+              "Mythril Fork (Fork)",
+              "Atk 44 · 1000 Needles",
+              "Tiendas (Daguerreo, Bran Bal).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Weapons - Hammer (Cinna)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Hammer",
+              "Atk 12",
+              "Inicial Cinna (no desequipable). Reward de 13 Stellazzio. Trigger escena especial en el ending.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Arms (Armlets, light)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Leather Wristband",
+              "Def 3",
+              "Tiendas (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Wristband",
+              "Def 8",
+              "Tiendas (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Glass Armlet",
+              "Def 11",
+              "Tiendas (Lindblum, Treno CD2, BMV).",
+              ""
+            ],
+            [
+              "Silver Armlet",
+              "Def 17",
+              "Tiendas (Alexandria, BMV, Conde Petie, Madain Sari, Esto Gaza, Lindblum, Treno).",
+              ""
+            ],
+            [
+              "Mythril Armlet",
+              "Def 23",
+              "Tiendas (Alexandria, Lindblum, Treno, Esto Gaza, Mogshops, Daguerreo).",
+              ""
+            ],
+            [
+              "Gold Armlet",
+              "Def 28",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Diamond Armlet",
+              "Def 32",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Platinum Armlet",
+              "Def 36",
+              "Tiendas (Daguerreo CD4, Bran Bal).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Arms (Gloves, heavy)"
+        },
+        {
+          "type": "p",
+          "text": "Solo Steiner, Freya, Amarant."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "N-Knuckles",
+              "Def 5",
+              "Cofre Evil Forest. Tienda (Dali).",
+              ""
+            ],
+            [
+              "Mythril Gloves",
+              "Def 17",
+              "Tiendas (Alexandria, Lindblum CD3-4, Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Silver Gloves",
+              "Def 17",
+              "Summit Station. Perrible: ultima oportunidad CD1.",
+              "Perdible"
+            ],
+            [
+              "Gold Gloves",
+              "Def 28",
+              "Tiendas (Daguerreo, Bran Bal).",
+              ""
+            ],
+            [
+              "Diamond Gloves",
+              "Def 32",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Tiger Fangs (Gloves)",
+              "Def 31",
+              "Tiendas (Esto Gaza, Mogshops, Daguerreo).",
+              ""
+            ],
+            [
+              "Crystal Gloves",
+              "Def 38",
+              "Daguerreo CD4, Mogshop Bran Bal.",
+              ""
+            ],
+            [
+              "Genji Gloves",
+              "Def 39",
+              "Robar Lich (Memoria).",
+              "Perdible"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Head (Hats, light)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Leather Hat",
+              "Def 3",
+              "Tiendas (Dali).",
+              ""
+            ],
+            [
+              "Steeler Mask",
+              "Def 8",
+              "Tiendas (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Bronze Helm",
+              "Def 12",
+              "Tiendas (Lindblum, Cleyra, Treno).",
+              ""
+            ],
+            [
+              "Silver Hat",
+              "Def 17",
+              "Tiendas (Alexandria, Lindblum).",
+              ""
+            ],
+            [
+              "Mythril Hat",
+              "Def 23",
+              "Tiendas (Alexandria, BMV, Conde Petie).",
+              ""
+            ],
+            [
+              "Gold Hat",
+              "Def 28",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Diamond Hat",
+              "Def 32",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Platinum Hat",
+              "Def 36",
+              "Daguerreo CD4, Mogshop Bran Bal.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Head (Helmets, heavy)"
+        },
+        {
+          "type": "p",
+          "text": "Solo Steiner, Amarant, Blank, Marcus."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Iron Helm",
+              "Def 17",
+              "Summit Station. Perrible.",
+              "Perdible"
+            ],
+            [
+              "Silver Helmet",
+              "Def 23",
+              "Tiendas (Alexandria, Lindblum, Esto Gaza).",
+              ""
+            ],
+            [
+              "Mythril Helmet",
+              "Def 31",
+              "Tiendas (Alexandria, BMV, Conde Petie, Esto Gaza, Mogshops, Daguerreo).",
+              ""
+            ],
+            [
+              "Gold Helmet",
+              "Def 41",
+              "Daguerreo, Mogshop Bran Bal.",
+              ""
+            ],
+            [
+              "Diamond Helmet",
+              "Def 45",
+              "Daguerreo CD4, Mogshop Bran Bal.",
+              ""
+            ],
+            [
+              "Genji Helmet",
+              "Def 48",
+              "Robar Kraken (Memoria).",
+              "Perdible"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Body (Shirts, light)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Linen Cuirass",
+              "Def 5",
+              "Tiendas (Dali).",
+              ""
+            ],
+            [
+              "Leather Shirt",
+              "Def 11",
+              "Tiendas (Lindblum).",
+              ""
+            ],
+            [
+              "Chain Mail (light)",
+              "Def 17",
+              "Tiendas (Treno CD2, Esto Gaza).",
+              ""
+            ],
+            [
+              "Mythril Vest",
+              "Def 23",
+              "Tiendas (BMV, Conde Petie, Madain Sari, Alexandria, Lindblum, Mogshops).",
+              ""
+            ],
+            [
+              "Survival Vest",
+              "Def 31",
+              "Drop bosses. Tienda (Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Demon's Vest",
+              "Def 38",
+              "Mogshops. Tienda (Daguerreo).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Body (Robes, mage)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Robe",
+              "Def 8",
+              "Tiendas (Dali, Lindblum).",
+              ""
+            ],
+            [
+              "Silk Robe",
+              "Def 14",
+              "Tiendas (Lindblum, BMV).",
+              ""
+            ],
+            [
+              "Magic Robe",
+              "Def 22",
+              "Tiendas (Alexandria, BMV, Esto Gaza).",
+              ""
+            ],
+            [
+              "Lamia's Tiara (robe)",
+              "Def 28",
+              "Tiendas (Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Moonlight Robe",
+              "Def 34",
+              "Mogshops. Tienda (Daguerreo).",
+              ""
+            ],
+            [
+              "Black Robe",
+              "Def 42",
+              "Synth (Magic Robe + Lamia's Tiara + Moonlight Robe) en BMV CD4.",
+              ""
+            ],
+            [
+              "Lunar Curtain (robe)",
+              "Def 46",
+              "Synth (Black Robe x2 + Running Shoes) en BMV CD4.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Armor - Body (Armor, heavy)"
+        },
+        {
+          "type": "p",
+          "text": "Solo Steiner, Blank, Marcus."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Bronze Vest",
+              "Def 14",
+              "Tiendas (Lindblum).",
+              ""
+            ],
+            [
+              "Chain Mail (heavy)",
+              "Def 17",
+              "Tienda (Lindblum CD2). Perrible.",
+              "Perdible"
+            ],
+            [
+              "Mythril Armor",
+              "Def 23",
+              "Tiendas (BMV, Conde Petie, Alexandria).",
+              ""
+            ],
+            [
+              "Plate Mail",
+              "Def 31",
+              "Tiendas (Alexandria, Esto Gaza post-Desert).",
+              ""
+            ],
+            [
+              "Gold Armor",
+              "Def 38",
+              "Tiendas (Daguerreo, Mogshops).",
+              ""
+            ],
+            [
+              "Diamond Armor",
+              "Def 46",
+              "Tiendas (Daguerreo CD3 y CD4, Mogshop Bran Bal).",
+              ""
+            ],
+            [
+              "Platinum Armor",
+              "Def 54",
+              "Synth (Mythril Armor x4) en BMV/Daguerreo.",
+              ""
+            ],
+            [
+              "Genji Armor",
+              "Def 48",
+              "Robar Maliris (Memoria).",
+              "Perdible"
+            ],
+            [
+              "Tin Armor",
+              "Def 61",
+              "Synth (Hammer x100) en BMV/Daguerreo.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Add-Ons - Footwear"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Sandalettes",
+              "",
+              "Inicial. Tiendas (Dali).",
+              ""
+            ],
+            [
+              "Running Shoes",
+              "",
+              "Tiendas (Dali, Lindblum, BMV). Perrible (4 max).",
+              "Perdible"
+            ],
+            [
+              "Germinas Boots",
+              "Str -50% / Spr +50% (y similares)",
+              "Tiendas (Alexandria, Madain Sari, BMV, Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Quachama Slasher",
+              "",
+              "Tiendas late-game.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Add-Ons - Belts"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Leather Belt",
+              "",
+              "Tiendas (Dali).",
+              ""
+            ],
+            [
+              "Plate Belt",
+              "",
+              "Tiendas (Lindblum, Treno, BMV).",
+              ""
+            ],
+            [
+              "Mythril Belt",
+              "",
+              "Tiendas (Alexandria, BMV, Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Gold Belt",
+              "",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Tiger Fangs (Belt)",
+              "",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Crystal Belt",
+              "",
+              "Daguerreo CD4.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Add-Ons - Rings"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Rosetta Ring",
+              "Auto-Reflect",
+              "Tiendas (Lindblum, BMV, Esto Gaza).",
+              ""
+            ],
+            [
+              "Reflect Ring",
+              "Reflect al equipar",
+              "Tiendas (Alexandria, Esto Gaza, Mogshops).",
+              ""
+            ],
+            [
+              "Rebirth Ring",
+              "Auto-Raise",
+              "Reward Treno Card Tournament (Rebirth Ring #1). Otros se roban en boss.",
+              "Unico"
+            ],
+            [
+              "Gale Ring",
+              "Auto-Haste",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Master Hunter's Reward",
+              "Boost drop de enemigos",
+              "Chocograph reward.",
+              ""
+            ],
+            [
+              "Protect Ring",
+              "Auto-Protect",
+              "Tiendas late-game.",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Add-Ons - Necklaces, Earrings, Hairpieces, Pumice"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Rosetta Ring (Necklace)",
+              "Magic +1",
+              "Tiendas (Alexandria, Mogshops).",
+              ""
+            ],
+            [
+              "Sacrifice Stone",
+              "",
+              "Mogshops.",
+              ""
+            ],
+            [
+              "Pumice (Pumice Piece)",
+              "Aumenta damage de summon",
+              "Drop jefes, Chocographs, Robar Ozma.",
+              "Unico"
+            ],
+            [
+              "Amethyst",
+              "Aumenta Atomo summon",
+              "Chocographs.",
+              ""
+            ],
+            [
+              "Pearl Rouge",
+              "Aumenta Carbuncle summon",
+              "Drop.",
+              ""
+            ],
+            [
+              "Peridot",
+              "Aumenta Fenrir summon",
+              "Drop.",
+              ""
+            ],
+            [
+              "Lapis Lazuli",
+              "Aumenta Ark summon",
+              "Chocographs.",
+              ""
+            ],
+            [
+              "Diamond",
+              "Aumenta Bahamut summon",
+              "Drop. Robar Ark (Memoria).",
+              ""
+            ],
+            [
+              "Dark Matter (Add-On)",
+              "9999 damage en batalla",
+              "Robar/drop Ozma.",
+              "Unico"
+            ],
+            [
+              "Cachusha",
+              "Silencia",
+              "Robar/doc. Ingredient de Synth.",
+              ""
+            ],
+            [
+              "Extension",
+              "Extiende counters",
+              "Kupo Nut reward CD3.",
+              ""
+            ],
+            [
+              "Barette",
+              "Recupera MP",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Hypno Crown",
+              "Sleep auto",
+              "Tiendas late-game.",
+              ""
+            ],
+            [
+              "Lunar Curtain (Hairpiece)",
+              "",
+              "Tiendas (Daguerreo CD4).",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Jewels"
+        },
+        {
+          "type": "p",
+          "text": "Encuentros sintetizando diferentes combinaciones."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Amethyst",
+              "Atomo (Daga)",
+              "Chocograph #13 (Sky Plain).",
+              ""
+            ],
+            [
+              "Diamond",
+              "Bahamut (Daga)",
+              "Cofre en Iifa Tree (Inner Roots). Chocographs varios.",
+              ""
+            ],
+            [
+              "Emerald",
+              "Fenrir (Eiko)",
+              "Cofre en Cleyra. Chocographs.",
+              ""
+            ],
+            [
+              "Moonstone",
+              "Fenrir (Eiko) alternativa",
+              "Reward Conde Petie Colored Stones. Disc 1 (Alexandria) si lográs 100 nobles.",
+              ""
+            ],
+            [
+              "Lapis Lazuli",
+              "Ark (Daga)",
+              "Reward Chocograph. Robar/drop bosses.",
+              ""
+            ],
+            [
+              "Topaz",
+              "Ifrit (Daga)",
+              "Reward Toto (CD 1).",
+              ""
+            ],
+            [
+              "Opal",
+              "Shiva (Daga)",
+              "Reward Toto (Treno CD 2).",
+              ""
+            ],
+            [
+              "Sapphire",
+              "Ramuh (Daga)",
+              "Reward Chocograph.",
+              ""
+            ],
+            [
+              "Onyx",
+              "Atomos (Daga)",
+              "Reward Chocograph.",
+              ""
+            ],
+            [
+              "Pumice Piece",
+              "Boost summons en general",
+              "Drop, Chocographs, Robar Ozma.",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Ore"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Stats",
+              "Donde",
+              "Notas"
+            ],
+            [
+              "Ore",
+              "",
+              "Drop comun. 4 Ore = 1 Pumice.",
+              ""
+            ],
+            [
+              "Silver Ore",
+              "",
+              "Drop comun. Synth (Silver Gloves).",
+              ""
+            ],
+            [
+              "Gold Ore",
+              "",
+              "Drop menos comun. Synth (Gold Armor).",
+              ""
+            ],
+            [
+              "Mythril Ore",
+              "",
+              "Drop raro. Synth Mythril items.",
+              ""
+            ],
+            [
+              "Adamantite",
+              "",
+              "Drop muy raro. Synth (Genji armor).",
+              "Unico"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Basado en la guia de bover_87 en GameFAQs (https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/items). Catalogo compacto con stats resumidos; descripciones re-escritas en espanol rioplatense."
+        }
+      ]
+    }
   }
 ]

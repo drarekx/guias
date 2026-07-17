@@ -325,6 +325,10 @@
       {
         "slug": "ff9-otros-minijuegos",
         "title": "Otros minijuegos"
+      },
+      {
+        "slug": "ff9-items",
+        "title": "Items"
       }
     ]
   },

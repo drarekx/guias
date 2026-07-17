@@ -1363,6 +1363,11 @@
               "slug": "ff9-otros-minijuegos",
               "title": "Otros minijuegos",
               "href": "final-fantasy-ix_otros-minijuegos.php"
+            },
+            {
+              "slug": "ff9-items",
+              "title": "Items",
+              "href": "final-fantasy-ix_items.php"
             }
           ]
         },
